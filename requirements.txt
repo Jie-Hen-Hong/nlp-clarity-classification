@@ -1,0 +1,33 @@
+# 本实验实际使用的依赖（2026-10-30，Python 3.13.0，Windows）
+# 这些包在本机系统 Python 中已全部安装，复现时通常无需再装。
+# 若换机器，可用：pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
+
+# --- 数据处理 ---
+numpy==2.4.4
+pandas==3.0.2
+pyarrow==26.0.0
+scipy==1.17.1
+scikit-learn==1.9.0
+
+# --- 深度学习与预训练模型（CPU 版即可，本实验未使用 GPU） ---
+torch==2.15.0
+transformers==5.22.0
+tokenizers==0.23.3
+safetensors==0.8.0
+huggingface_hub==2.4.0
+
+# --- 绘图与文件读写 ---
+matplotlib==3.11.2
+pillow==13.0.0
+tqdm==4.70.1
+
+# --- 报告生成（第 9、10 步之外的可选项） ---
+python-docx==1.2.0
+
+# 说明：
+# 1. torch 必须是 CPU 版（本机装的是 2.15.0+cpu）。实验全程未用 CUDA；
+#    若装了 CUDA 版也能跑，只是下载体积大（约 2.4 GB）。
+# 2. 不需要 sentence-transformers —— 08_sbert.py 直接用 transformers.AutoModel
+#    从本地 models/minilm 目录加载，避免额外依赖。
+# 3. 不需要 pywin32 / pymupdf —— 它们只用于把生成的 docx 转成 PDF 做排版检查，
+#    与实验数值无关（本机已装，可选）。

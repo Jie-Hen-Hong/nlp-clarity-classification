@@ -1,0 +1,18 @@
+{
+  "clarity2id": {
+    "Clear Reply": 0,
+    "Ambivalent": 1,
+    "Clear Non-Reply": 2
+  },
+  "evasion2clarity": {
+    "Explicit": "Clear Reply",
+    "Implicit": "Ambivalent",
+    "Dodging": "Ambivalent",
+    "General": "Ambivalent",
+    "Deflection": "Ambivalent",
+    "Partial/half-answer": "Ambivalent",
+    "Declining to answer": "Clear Non-Reply",
+    "Claims ignorance": "Clear Non-Reply",
+    "Clarification": "Clear Non-Reply"
+  }
+}

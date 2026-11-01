@@ -1,0 +1,85 @@
+{
+  "qevasion_test": {
+    "accuracy": 0.5422,
+    "macro_p": 0.4269,
+    "macro_r": 0.4252,
+    "macro_f1": 0.4257,
+    "n": 308,
+    "confusion": [
+      [
+        20,
+        53,
+        6
+      ],
+      [
+        58,
+        139,
+        9
+      ],
+      [
+        10,
+        5,
+        8
+      ]
+    ]
+  },
+  "qnli_baseline": {
+    "accuracy": 0.6044,
+    "macro_p": 0.6045,
+    "macro_r": 0.6045,
+    "macro_f1": 0.6044,
+    "n": 5463,
+    "confusion": [
+      [
+        1643,
+        1059
+      ],
+      [
+        1102,
+        1659
+      ]
+    ]
+  },
+  "qnli_direct": {
+    "accuracy": 0.5147,
+    "macro_p": 0.5144,
+    "macro_r": 0.5132,
+    "macro_f1": 0.5034,
+    "n": 5463,
+    "confusion": [
+      [
+        993,
+        1709
+      ],
+      [
+        942,
+        1819
+      ]
+    ]
+  },
+  "qnli_adapted": {
+    "accuracy": 0.6044,
+    "macro_p": 0.6153,
+    "macro_r": 0.6027,
+    "macro_f1": 0.5925,
+    "n": 5463,
+    "confusion": [
+      [
+        1184,
+        1518
+      ],
+      [
+        643,
+        2118
+      ]
+    ]
+  },
+  "diagnostics": {
+    "src_vocab": 121011,
+    "qnli_vocab_adapted": 558927,
+    "cross_domain_token_coverage": 0.2937,
+    "qnli_positive_rate_true": 0.4946,
+    "qnli_positive_rate_direct": 0.3542
+  },
+  "seconds": 12.5
+}

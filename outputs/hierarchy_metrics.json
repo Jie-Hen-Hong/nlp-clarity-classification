@@ -1,0 +1,616 @@
+{
+  "protocol": {
+    "note": "官方测试集 evasion_label 全为空，细粒度分析在训练集 3448 条上以按访谈标题分组的 5 折 OOF 完成",
+    "config": {
+      "text": "a_only",
+      "ngram": "(1, 2)",
+      "class_weight": "balanced",
+      "C": 1.0
+    },
+    "n": 3448,
+    "n_folds": 5,
+    "seed": 8
+  },
+  "hierarchy": [
+    {
+      "coarse": "Clear Reply",
+      "n": 1052,
+      "share": 0.3051,
+      "n_fine": 1,
+      "members": [
+        "Explicit"
+      ],
+      "counts": {
+        "Explicit": 1052
+      },
+      "norm_entropy": 0.0,
+      "dominance": 1.0,
+      "dominant_fine": "Explicit"
+    },
+    {
+      "coarse": "Ambivalent",
+      "n": 2040,
+      "share": 0.5916,
+      "n_fine": 5,
+      "members": [
+        "Dodging",
+        "Implicit",
+        "General",
+        "Deflection",
+        "Partial/half-answer"
+      ],
+      "counts": {
+        "Dodging": 706,
+        "Implicit": 488,
+        "General": 386,
+        "Deflection": 381,
+        "Partial/half-answer": 79
+      },
+      "norm_entropy": 0.9094,
+      "dominance": 0.3461,
+      "dominant_fine": "Dodging"
+    },
+    {
+      "coarse": "Clear Non-Reply",
+      "n": 356,
+      "share": 0.1032,
+      "n_fine": 3,
+      "members": [
+        "Declining to answer",
+        "Claims ignorance",
+        "Clarification"
+      ],
+      "counts": {
+        "Declining to answer": 145,
+        "Claims ignorance": 119,
+        "Clarification": 92
+      },
+      "norm_entropy": 0.9847,
+      "dominance": 0.4073,
+      "dominant_fine": "Declining to answer"
+    }
+  ],
+  "fine_stat": [
+    {
+      "fine": "Explicit",
+      "coarse": "Clear Reply",
+      "n_train": 1052,
+      "share_all": 0.3051,
+      "share_in_coarse": 1.0
+    },
+    {
+      "fine": "Dodging",
+      "coarse": "Ambivalent",
+      "n_train": 706,
+      "share_all": 0.2048,
+      "share_in_coarse": 0.3461
+    },
+    {
+      "fine": "Implicit",
+      "coarse": "Ambivalent",
+      "n_train": 488,
+      "share_all": 0.1415,
+      "share_in_coarse": 0.2392
+    },
+    {
+      "fine": "General",
+      "coarse": "Ambivalent",
+      "n_train": 386,
+      "share_all": 0.1119,
+      "share_in_coarse": 0.1892
+    },
+    {
+      "fine": "Deflection",
+      "coarse": "Ambivalent",
+      "n_train": 381,
+      "share_all": 0.1105,
+      "share_in_coarse": 0.1868
+    },
+    {
+      "fine": "Declining to answer",
+      "coarse": "Clear Non-Reply",
+      "n_train": 145,
+      "share_all": 0.0421,
+      "share_in_coarse": 0.4073
+    },
+    {
+      "fine": "Claims ignorance",
+      "coarse": "Clear Non-Reply",
+      "n_train": 119,
+      "share_all": 0.0345,
+      "share_in_coarse": 0.3343
+    },
+    {
+      "fine": "Clarification",
+      "coarse": "Clear Non-Reply",
+      "n_train": 92,
+      "share_all": 0.0267,
+      "share_in_coarse": 0.2584
+    },
+    {
+      "fine": "Partial/half-answer",
+      "coarse": "Ambivalent",
+      "n_train": 79,
+      "share_all": 0.0229,
+      "share_in_coarse": 0.0387
+    }
+  ],
+  "flat3": {
+    "accuracy": 0.585,
+    "macro_p": 0.5205,
+    "macro_r": 0.4964,
+    "macro_f1": 0.5047,
+    "per_class": {
+      "Clear Reply": {
+        "precision": 0.4415,
+        "recall": 0.3441,
+        "f1": 0.3868,
+        "support": 1052
+      },
+      "Ambivalent": {
+        "precision": 0.651,
+        "recall": 0.7407,
+        "f1": 0.693,
+        "support": 2040
+      },
+      "Clear Non-Reply": {
+        "precision": 0.4691,
+        "recall": 0.4045,
+        "f1": 0.4344,
+        "support": 356
+      }
+    },
+    "confusion": [
+      [
+        362,
+        646,
+        44
+      ],
+      [
+        410,
+        1511,
+        119
+      ],
+      [
+        48,
+        164,
+        144
+      ]
+    ]
+  },
+  "hier_hard": {
+    "accuracy": 0.5899,
+    "macro_p": 0.5348,
+    "macro_r": 0.4883,
+    "macro_f1": 0.5025,
+    "per_class": {
+      "Clear Reply": {
+        "precision": 0.4303,
+        "recall": 0.3051,
+        "f1": 0.3571,
+        "support": 1052
+      },
+      "Ambivalent": {
+        "precision": 0.6452,
+        "recall": 0.7721,
+        "f1": 0.703,
+        "support": 2040
+      },
+      "Clear Non-Reply": {
+        "precision": 0.5287,
+        "recall": 0.3876,
+        "f1": 0.4473,
+        "support": 356
+      }
+    },
+    "confusion": [
+      [
+        321,
+        695,
+        36
+      ],
+      [
+        378,
+        1575,
+        87
+      ],
+      [
+        47,
+        171,
+        138
+      ]
+    ]
+  },
+  "hier_soft": {
+    "accuracy": 0.6003,
+    "macro_p": 0.5761,
+    "macro_r": 0.3803,
+    "macro_f1": 0.336,
+    "per_class": {
+      "Clear Reply": {
+        "precision": 0.4444,
+        "recall": 0.0114,
+        "f1": 0.0222,
+        "support": 1052
+      },
+      "Ambivalent": {
+        "precision": 0.5997,
+        "recall": 0.9833,
+        "f1": 0.745,
+        "support": 2040
+      },
+      "Clear Non-Reply": {
+        "precision": 0.6842,
+        "recall": 0.1461,
+        "f1": 0.2407,
+        "support": 356
+      }
+    },
+    "confusion": [
+      [
+        12,
+        1035,
+        5
+      ],
+      [
+        15,
+        2006,
+        19
+      ],
+      [
+        0,
+        304,
+        52
+      ]
+    ]
+  },
+  "fine9": {
+    "accuracy": 0.2718,
+    "macro_p": 0.2863,
+    "macro_r": 0.2573,
+    "macro_f1": 0.2577,
+    "per_class": {
+      "Explicit": {
+        "precision": 0.4303,
+        "recall": 0.3051,
+        "f1": 0.3571,
+        "support": 1052
+      },
+      "Dodging": {
+        "precision": 0.3365,
+        "recall": 0.2011,
+        "f1": 0.2518,
+        "support": 706
+      },
+      "Implicit": {
+        "precision": 0.2109,
+        "recall": 0.3422,
+        "f1": 0.2609,
+        "support": 488
+      },
+      "General": {
+        "precision": 0.1778,
+        "recall": 0.2073,
+        "f1": 0.1914,
+        "support": 386
+      },
+      "Deflection": {
+        "precision": 0.158,
+        "recall": 0.3176,
+        "f1": 0.211,
+        "support": 381
+      },
+      "Declining to answer": {
+        "precision": 0.3333,
+        "recall": 0.2483,
+        "f1": 0.2846,
+        "support": 145
+      },
+      "Claims ignorance": {
+        "precision": 0.4909,
+        "recall": 0.2269,
+        "f1": 0.3103,
+        "support": 119
+      },
+      "Clarification": {
+        "precision": 0.4388,
+        "recall": 0.4674,
+        "f1": 0.4526,
+        "support": 92
+      },
+      "Partial/half-answer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 79
+      }
+    },
+    "confusion": [
+      [
+        321,
+        114,
+        199,
+        131,
+        240,
+        14,
+        12,
+        10,
+        11
+      ],
+      [
+        139,
+        142,
+        160,
+        77,
+        130,
+        26,
+        4,
+        28,
+        0
+      ],
+      [
+        87,
+        29,
+        167,
+        65,
+        125,
+        8,
+        5,
+        2,
+        0
+      ],
+      [
+        73,
+        34,
+        102,
+        80,
+        89,
+        4,
+        4,
+        0,
+        0
+      ],
+      [
+        66,
+        33,
+        104,
+        52,
+        121,
+        3,
+        1,
+        1,
+        0
+      ],
+      [
+        21,
+        26,
+        20,
+        17,
+        10,
+        36,
+        2,
+        13,
+        0
+      ],
+      [
+        20,
+        15,
+        15,
+        11,
+        25,
+        5,
+        27,
+        1,
+        0
+      ],
+      [
+        6,
+        20,
+        8,
+        0,
+        4,
+        11,
+        0,
+        43,
+        0
+      ],
+      [
+        13,
+        9,
+        17,
+        17,
+        22,
+        1,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "hier_hard_nw": {
+    "accuracy": 0.3445,
+    "macro_p": 0.6254,
+    "macro_r": 0.3519,
+    "macro_f1": 0.2157,
+    "per_class": {
+      "Clear Reply": {
+        "precision": 0.3232,
+        "recall": 0.9629,
+        "f1": 0.484,
+        "support": 1052
+      },
+      "Ambivalent": {
+        "precision": 0.5531,
+        "recall": 0.0843,
+        "f1": 0.1463,
+        "support": 2040
+      },
+      "Clear Non-Reply": {
+        "precision": 1.0,
+        "recall": 0.0084,
+        "f1": 0.0167,
+        "support": 356
+      }
+    },
+    "confusion": [
+      [
+        1013,
+        39,
+        0
+      ],
+      [
+        1868,
+        172,
+        0
+      ],
+      [
+        253,
+        100,
+        3
+      ]
+    ]
+  },
+  "hier_soft_nw": {
+    "accuracy": 0.6044,
+    "macro_p": 0.748,
+    "macro_r": 0.3542,
+    "macro_f1": 0.298,
+    "per_class": {
+      "Clear Reply": {
+        "precision": 0.6412,
+        "recall": 0.0798,
+        "f1": 0.142,
+        "support": 1052
+      },
+      "Ambivalent": {
+        "precision": 0.6028,
+        "recall": 0.9799,
+        "f1": 0.7465,
+        "support": 2040
+      },
+      "Clear Non-Reply": {
+        "precision": 1.0,
+        "recall": 0.0028,
+        "f1": 0.0056,
+        "support": 356
+      }
+    },
+    "confusion": [
+      [
+        84,
+        968,
+        0
+      ],
+      [
+        41,
+        1999,
+        0
+      ],
+      [
+        6,
+        349,
+        1
+      ]
+    ]
+  },
+  "decomp": {
+    "n": 3448,
+    "exact_right": 937,
+    "coarse_right_fine_wrong": 1097,
+    "coarse_wrong": 1414,
+    "exact_acc": 0.2718,
+    "hier_acc": 0.5899
+  },
+  "inner_coarse": {
+    "Clear Reply": {
+      "n_coarse_right": 321,
+      "fine_right": 321,
+      "inner_acc": 1.0
+    },
+    "Ambivalent": {
+      "n_coarse_right": 1575,
+      "fine_right": 510,
+      "inner_acc": 0.3238
+    },
+    "Clear Non-Reply": {
+      "n_coarse_right": 138,
+      "fine_right": 106,
+      "inner_acc": 0.7681
+    }
+  },
+  "attrib": {
+    "Explicit": {
+      "n_err": 731,
+      "inner": 0,
+      "outer": 731,
+      "inner_share": 0.0,
+      "outer_share": 1.0
+    },
+    "Dodging": {
+      "n_err": 564,
+      "inner": 367,
+      "outer": 197,
+      "inner_share": 0.6507,
+      "outer_share": 0.3493
+    },
+    "Implicit": {
+      "n_err": 321,
+      "inner": 219,
+      "outer": 102,
+      "inner_share": 0.6822,
+      "outer_share": 0.3178
+    },
+    "General": {
+      "n_err": 306,
+      "inner": 225,
+      "outer": 81,
+      "inner_share": 0.7353,
+      "outer_share": 0.2647
+    },
+    "Deflection": {
+      "n_err": 260,
+      "inner": 189,
+      "outer": 71,
+      "inner_share": 0.7269,
+      "outer_share": 0.2731
+    },
+    "Declining to answer": {
+      "n_err": 109,
+      "inner": 15,
+      "outer": 94,
+      "inner_share": 0.1376,
+      "outer_share": 0.8624
+    },
+    "Claims ignorance": {
+      "n_err": 92,
+      "inner": 6,
+      "outer": 86,
+      "inner_share": 0.0652,
+      "outer_share": 0.9348
+    },
+    "Clarification": {
+      "n_err": 49,
+      "inner": 11,
+      "outer": 38,
+      "inner_share": 0.2245,
+      "outer_share": 0.7755
+    },
+    "Partial/half-answer": {
+      "n_err": 79,
+      "inner": 65,
+      "outer": 14,
+      "inner_share": 0.8228,
+      "outer_share": 0.1772
+    }
+  },
+  "fold_sizes": [
+    1626,
+    456,
+    456,
+    455,
+    455
+  ],
+  "tail_corr": 0.2015,
+  "tail_corr_log": 0.1476,
+  "seconds": 41.6
+}

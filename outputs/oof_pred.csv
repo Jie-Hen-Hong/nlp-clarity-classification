@@ -1,0 +1,3449 @@
+﻿uid,group_president,a_words,label,pred
+train_0,Joseph R. Biden,359,0,1
+train_1,Joseph R. Biden,359,1,1
+train_2,Joseph R. Biden,219,1,1
+train_3,Joseph R. Biden,219,1,1
+train_4,Joseph R. Biden,444,0,0
+train_5,Joseph R. Biden,444,1,0
+train_6,Joseph R. Biden,444,1,0
+train_7,Joseph R. Biden,1121,1,1
+train_8,Joseph R. Biden,261,0,0
+train_9,Joseph R. Biden,261,0,0
+train_10,Joseph R. Biden,65,2,1
+train_11,Joseph R. Biden,14,1,0
+train_12,Joseph R. Biden,766,0,1
+train_13,Joseph R. Biden,766,1,1
+train_14,Joseph R. Biden,766,1,1
+train_15,Joseph R. Biden,5,1,0
+train_16,Joseph R. Biden,95,0,0
+train_17,Joseph R. Biden,178,0,1
+train_18,Joseph R. Biden,163,1,0
+train_19,Joseph R. Biden,163,1,0
+train_20,Joseph R. Biden,163,1,0
+train_21,Joseph R. Biden,43,1,1
+train_22,Joseph R. Biden,73,1,1
+train_23,Joseph R. Biden,115,1,1
+train_24,Joseph R. Biden,168,0,2
+train_25,Joseph R. Biden,168,2,1
+train_26,Joseph R. Biden,154,1,1
+train_27,Joseph R. Biden,154,1,1
+train_28,Joseph R. Biden,97,1,1
+train_29,Joseph R. Biden,97,1,1
+train_30,Joseph R. Biden,131,0,1
+train_31,Joseph R. Biden,131,2,1
+train_32,Joseph R. Biden,156,1,1
+train_33,Joseph R. Biden,784,0,1
+train_34,Joseph R. Biden,784,0,1
+train_35,Joseph R. Biden,784,1,1
+train_36,Joseph R. Biden,784,1,1
+train_37,Joseph R. Biden,9,1,1
+train_38,Joseph R. Biden,9,1,1
+train_39,Joseph R. Biden,9,1,1
+train_40,Joseph R. Biden,1050,0,1
+train_41,Joseph R. Biden,6,1,2
+train_42,Joseph R. Biden,34,0,1
+train_43,Joseph R. Biden,34,1,1
+train_44,Joseph R. Biden,535,0,1
+train_45,Joseph R. Biden,535,1,1
+train_46,Joseph R. Biden,586,0,1
+train_47,Joseph R. Biden,47,2,1
+train_48,Joseph R. Biden,47,1,1
+train_49,Joseph R. Biden,120,0,0
+train_50,Joseph R. Biden,49,0,1
+train_51,Joseph R. Biden,4,1,0
+train_52,Joseph R. Biden,23,1,2
+train_53,Joseph R. Biden,23,1,0
+train_54,Joseph R. Biden,23,1,2
+train_55,Joseph R. Biden,24,1,0
+train_56,Joseph R. Biden,24,1,0
+train_57,Joseph R. Biden,24,1,0
+train_58,Joseph R. Biden,57,0,1
+train_59,Joseph R. Biden,506,0,1
+train_60,Joseph R. Biden,506,0,1
+train_61,Joseph R. Biden,140,0,0
+train_62,Joseph R. Biden,140,1,0
+train_63,Joseph R. Biden,65,1,1
+train_64,Joseph R. Biden,65,1,1
+train_65,Joseph R. Biden,450,0,1
+train_66,Joseph R. Biden,450,1,1
+train_67,Joseph R. Biden,457,0,1
+train_68,Joseph R. Biden,457,1,1
+train_69,Joseph R. Biden,457,1,1
+train_70,Joseph R. Biden,169,0,1
+train_71,Joseph R. Biden,169,0,1
+train_72,Joseph R. Biden,234,0,1
+train_73,Joseph R. Biden,234,1,1
+train_74,Joseph R. Biden,234,1,1
+train_75,Joseph R. Biden,6,1,2
+train_76,Joseph R. Biden,6,1,2
+train_77,Joseph R. Biden,6,1,1
+train_78,Joseph R. Biden,1611,1,1
+train_79,Joseph R. Biden,1611,1,1
+train_80,Joseph R. Biden,1611,1,1
+train_81,Joseph R. Biden,1611,1,1
+train_82,Joseph R. Biden,1611,1,1
+train_83,Joseph R. Biden,1611,1,1
+train_84,Joseph R. Biden,839,0,1
+train_85,Joseph R. Biden,839,1,1
+train_86,Joseph R. Biden,280,0,1
+train_87,Joseph R. Biden,280,2,1
+train_88,Joseph R. Biden,719,1,1
+train_89,Joseph R. Biden,719,1,1
+train_90,Joseph R. Biden,719,1,1
+train_91,Joseph R. Biden,406,0,1
+train_92,Joseph R. Biden,406,1,1
+train_93,Joseph R. Biden,697,1,1
+train_94,Joseph R. Biden,697,1,1
+train_95,Joseph R. Biden,212,0,1
+train_96,Joseph R. Biden,212,0,1
+train_97,Joseph R. Biden,212,1,1
+train_98,Joseph R. Biden,3,1,0
+train_99,Joseph R. Biden,3,1,0
+train_100,Joseph R. Biden,31,1,2
+train_101,Joseph R. Biden,31,2,2
+train_102,Joseph R. Biden,509,0,1
+train_103,Joseph R. Biden,144,2,1
+train_104,Joseph R. Biden,144,1,1
+train_105,Joseph R. Biden,101,0,1
+train_106,Joseph R. Biden,101,1,0
+train_107,Joseph R. Biden,1093,1,1
+train_108,Joseph R. Biden,1093,0,1
+train_109,Joseph R. Biden,53,0,0
+train_110,Joseph R. Biden,53,0,0
+train_111,Joseph R. Biden,53,1,0
+train_112,Joseph R. Biden,32,1,1
+train_113,Joseph R. Biden,32,1,1
+train_114,Joseph R. Biden,188,0,1
+train_115,Joseph R. Biden,456,2,1
+train_116,Joseph R. Biden,456,1,1
+train_117,Joseph R. Biden,82,1,1
+train_118,Joseph R. Biden,32,0,2
+train_119,Joseph R. Biden,32,1,2
+train_120,Joseph R. Biden,32,1,2
+train_121,Joseph R. Biden,161,1,1
+train_122,Joseph R. Biden,130,1,1
+train_123,Joseph R. Biden,528,1,1
+train_124,Joseph R. Biden,528,1,1
+train_125,Joseph R. Biden,37,0,0
+train_126,Joseph R. Biden,37,1,0
+train_127,Joseph R. Biden,54,2,0
+train_128,Joseph R. Biden,54,1,0
+train_129,Joseph R. Biden,572,0,0
+train_130,Joseph R. Biden,572,0,0
+train_131,Joseph R. Biden,572,1,0
+train_132,Joseph R. Biden,663,1,1
+train_133,Joseph R. Biden,227,1,1
+train_134,Joseph R. Biden,227,0,1
+train_135,Joseph R. Biden,227,1,1
+train_136,Joseph R. Biden,44,1,1
+train_137,Joseph R. Biden,44,1,0
+train_138,Joseph R. Biden,217,1,0
+train_139,Joseph R. Biden,2,0,1
+train_140,Joseph R. Biden,2,1,0
+train_141,Joseph R. Biden,3,0,1
+train_142,Joseph R. Biden,17,1,1
+train_143,Joseph R. Biden,17,1,1
+train_144,Joseph R. Biden,33,0,0
+train_145,Joseph R. Biden,33,1,1
+train_146,Joseph R. Biden,139,0,0
+train_147,Joseph R. Biden,139,1,0
+train_148,Joseph R. Biden,226,1,1
+train_149,Joseph R. Biden,16,2,2
+train_150,Joseph R. Biden,16,2,1
+train_151,Joseph R. Biden,435,0,1
+train_152,Joseph R. Biden,435,1,1
+train_153,Joseph R. Biden,81,1,0
+train_154,Joseph R. Biden,245,1,1
+train_155,Joseph R. Biden,245,1,1
+train_156,Joseph R. Biden,85,0,0
+train_157,Joseph R. Biden,174,1,0
+train_158,Joseph R. Biden,174,2,0
+train_159,Joseph R. Biden,1,0,0
+train_160,Joseph R. Biden,1,1,0
+train_161,Joseph R. Biden,88,0,0
+train_162,Joseph R. Biden,14,0,0
+train_163,Joseph R. Biden,1,0,0
+train_164,Joseph R. Biden,468,0,1
+train_165,Joseph R. Biden,468,1,1
+train_166,Joseph R. Biden,128,1,1
+train_167,Joseph R. Biden,66,1,1
+train_168,Joseph R. Biden,66,1,1
+train_169,Joseph R. Biden,134,2,1
+train_170,Joseph R. Biden,134,2,1
+train_171,Joseph R. Biden,49,1,0
+train_172,Joseph R. Biden,49,2,2
+train_173,Joseph R. Biden,67,2,0
+train_174,Joseph R. Biden,67,2,0
+train_175,Joseph R. Biden,3,0,2
+train_176,Joseph R. Biden,3,0,0
+train_177,Joseph R. Biden,25,2,2
+train_178,Joseph R. Biden,25,1,2
+train_179,Joseph R. Biden,259,0,1
+train_180,Joseph R. Biden,88,1,1
+train_181,Joseph R. Biden,11,1,1
+train_182,Joseph R. Biden,36,0,1
+train_183,Joseph R. Biden,36,0,1
+train_184,Joseph R. Biden,36,1,1
+train_185,Joseph R. Biden,194,0,1
+train_186,Joseph R. Biden,194,1,1
+train_187,Joseph R. Biden,288,0,1
+train_188,Joseph R. Biden,288,2,1
+train_189,Joseph R. Biden,288,2,1
+train_190,Joseph R. Biden,54,1,0
+train_191,Joseph R. Biden,54,1,0
+train_192,Joseph R. Biden,183,2,1
+train_193,Joseph R. Biden,183,1,1
+train_194,Joseph R. Biden,62,0,1
+train_195,Joseph R. Biden,305,0,1
+train_196,Joseph R. Biden,305,1,1
+train_197,Joseph R. Biden,305,1,1
+train_198,Joseph R. Biden,1,0,2
+train_199,Joseph R. Biden,4,0,0
+train_200,Joseph R. Biden,794,0,1
+train_201,Joseph R. Biden,794,1,1
+train_202,Joseph R. Biden,794,0,1
+train_203,Joseph R. Biden,794,1,1
+train_204,Joseph R. Biden,218,0,0
+train_205,Joseph R. Biden,203,0,0
+train_206,Joseph R. Biden,136,1,1
+train_207,Joseph R. Biden,198,1,1
+train_208,Joseph R. Biden,305,0,1
+train_209,Joseph R. Biden,305,1,1
+train_210,Joseph R. Biden,602,1,1
+train_211,Joseph R. Biden,602,1,1
+train_212,Joseph R. Biden,400,0,0
+train_213,Joseph R. Biden,400,1,0
+train_214,Joseph R. Biden,400,2,0
+train_215,Joseph R. Biden,76,0,1
+train_216,Joseph R. Biden,76,0,1
+train_217,Joseph R. Biden,76,0,1
+train_218,Joseph R. Biden,709,1,0
+train_219,Joseph R. Biden,709,1,0
+train_220,Joseph R. Biden,416,0,1
+train_221,Joseph R. Biden,416,1,1
+train_222,Joseph R. Biden,10,2,0
+train_223,Joseph R. Biden,317,2,0
+train_224,Joseph R. Biden,317,1,0
+train_225,Joseph R. Biden,65,0,1
+train_226,Joseph R. Biden,65,1,1
+train_227,Joseph R. Biden,27,0,0
+train_228,Joseph R. Biden,3,2,2
+train_229,Joseph R. Biden,3,2,1
+train_230,Joseph R. Biden,317,2,1
+train_231,Joseph R. Biden,448,0,1
+train_232,Joseph R. Biden,3,0,0
+train_233,Joseph R. Biden,3,0,0
+train_234,Joseph R. Biden,2,2,2
+train_235,Joseph R. Biden,210,0,1
+train_236,Joseph R. Biden,210,1,1
+train_237,Joseph R. Biden,267,0,0
+train_238,Joseph R. Biden,311,0,0
+train_239,Joseph R. Biden,148,1,0
+train_240,Joseph R. Biden,22,0,0
+train_241,Joseph R. Biden,107,0,0
+train_242,Joseph R. Biden,46,1,1
+train_243,Joseph R. Biden,1,0,0
+train_244,Joseph R. Biden,39,0,0
+train_245,Joseph R. Biden,39,1,0
+train_246,Joseph R. Biden,28,1,0
+train_247,Joseph R. Biden,28,2,0
+train_248,Joseph R. Biden,26,1,1
+train_249,Joseph R. Biden,257,0,0
+train_250,Joseph R. Biden,257,0,0
+train_251,Joseph R. Biden,263,1,0
+train_252,Joseph R. Biden,263,1,0
+train_253,Joseph R. Biden,5,1,1
+train_254,Joseph R. Biden,106,0,1
+train_255,Joseph R. Biden,106,2,1
+train_256,Joseph R. Biden,512,1,1
+train_257,Joseph R. Biden,512,1,1
+train_258,Joseph R. Biden,447,0,1
+train_259,Joseph R. Biden,447,1,1
+train_260,Joseph R. Biden,501,1,1
+train_261,Joseph R. Biden,252,1,1
+train_262,Joseph R. Biden,286,1,0
+train_263,Joseph R. Biden,286,1,0
+train_264,Joseph R. Biden,401,0,1
+train_265,Joseph R. Biden,401,0,1
+train_266,Joseph R. Biden,296,0,0
+train_267,Joseph R. Biden,296,0,0
+train_268,Joseph R. Biden,296,0,0
+train_269,Joseph R. Biden,123,2,0
+train_270,Joseph R. Biden,123,1,0
+train_271,Joseph R. Biden,332,0,1
+train_272,Joseph R. Biden,332,0,1
+train_273,Joseph R. Biden,739,0,1
+train_274,Joseph R. Biden,739,1,1
+train_275,Joseph R. Biden,739,0,1
+train_276,Joseph R. Biden,323,0,1
+train_277,Joseph R. Biden,323,0,1
+train_278,Joseph R. Biden,301,0,0
+train_279,Joseph R. Biden,301,1,0
+train_280,Joseph R. Biden,175,0,1
+train_281,Joseph R. Biden,463,0,1
+train_282,Joseph R. Biden,463,0,1
+train_283,Joseph R. Biden,192,1,1
+train_284,Joseph R. Biden,192,1,1
+train_285,Joseph R. Biden,270,0,1
+train_286,Joseph R. Biden,598,1,1
+train_287,Joseph R. Biden,598,1,1
+train_288,Joseph R. Biden,832,1,1
+train_289,Joseph R. Biden,832,1,1
+train_290,Joseph R. Biden,832,1,1
+train_291,Joseph R. Biden,213,2,1
+train_292,Joseph R. Biden,213,1,1
+train_293,Joseph R. Biden,252,1,1
+train_294,Joseph R. Biden,252,1,1
+train_295,Joseph R. Biden,426,1,1
+train_296,Joseph R. Biden,49,1,1
+train_297,Joseph R. Biden,49,1,1
+train_298,Joseph R. Biden,1,0,0
+train_299,Joseph R. Biden,1,1,0
+train_300,Joseph R. Biden,288,0,0
+train_301,Joseph R. Biden,123,0,0
+train_302,Joseph R. Biden,94,1,0
+train_303,Joseph R. Biden,189,1,0
+train_304,Joseph R. Biden,189,1,0
+train_305,Joseph R. Biden,7,0,0
+train_306,Joseph R. Biden,79,0,1
+train_307,Joseph R. Biden,10,0,0
+train_308,Joseph R. Biden,10,2,2
+train_309,Joseph R. Biden,82,1,1
+train_310,Joseph R. Biden,340,1,1
+train_311,Joseph R. Biden,6,1,0
+train_312,Joseph R. Biden,6,1,1
+train_313,Joseph R. Biden,7,0,0
+train_314,Joseph R. Biden,17,1,1
+train_315,Joseph R. Biden,219,2,1
+train_316,Joseph R. Biden,219,1,1
+train_317,Joseph R. Biden,4,1,2
+train_318,Joseph R. Biden,127,0,1
+train_319,Joseph R. Biden,127,1,1
+train_320,Joseph R. Biden,701,0,1
+train_321,Joseph R. Biden,379,0,1
+train_322,Joseph R. Biden,379,1,1
+train_323,Joseph R. Biden,426,0,0
+train_324,Joseph R. Biden,426,1,1
+train_325,Joseph R. Biden,1,0,0
+train_326,Joseph R. Biden,34,0,0
+train_327,Joseph R. Biden,190,0,1
+train_328,Joseph R. Biden,415,2,1
+train_329,Joseph R. Biden,415,2,1
+train_330,Joseph R. Biden,415,1,1
+train_331,Joseph R. Biden,292,1,1
+train_332,Joseph R. Biden,4,1,2
+train_333,Joseph R. Biden,62,0,1
+train_334,Joseph R. Biden,206,0,1
+train_335,Joseph R. Biden,206,1,1
+train_336,Joseph R. Biden,415,0,1
+train_337,Joseph R. Biden,415,1,1
+train_338,Joseph R. Biden,415,0,1
+train_339,Joseph R. Biden,415,1,1
+train_340,Joseph R. Biden,532,0,0
+train_341,Joseph R. Biden,13,1,2
+train_342,Joseph R. Biden,14,2,1
+train_343,Joseph R. Biden,1010,0,1
+train_344,Joseph R. Biden,1010,0,1
+train_345,Joseph R. Biden,1010,1,1
+train_346,Joseph R. Biden,1010,1,1
+train_347,Joseph R. Biden,1010,1,1
+train_348,Joseph R. Biden,1010,1,1
+train_349,Joseph R. Biden,151,0,1
+train_350,Joseph R. Biden,175,0,1
+train_351,Joseph R. Biden,175,0,1
+train_352,Joseph R. Biden,175,1,1
+train_353,Joseph R. Biden,133,0,0
+train_354,Joseph R. Biden,32,1,0
+train_355,Joseph R. Biden,32,0,0
+train_356,Joseph R. Biden,1,0,0
+train_357,Joseph R. Biden,366,0,1
+train_358,Joseph R. Biden,325,1,1
+train_359,Joseph R. Biden,99,0,2
+train_360,Joseph R. Biden,379,1,0
+train_361,Joseph R. Biden,38,1,0
+train_362,Joseph R. Biden,38,1,0
+train_363,Joseph R. Biden,87,0,2
+train_364,Joseph R. Biden,87,0,2
+train_365,Joseph R. Biden,87,1,2
+train_366,Joseph R. Biden,214,1,1
+train_367,Joseph R. Biden,89,0,0
+train_368,Joseph R. Biden,89,1,0
+train_369,Joseph R. Biden,6,2,2
+train_370,Joseph R. Biden,6,2,2
+train_371,Joseph R. Biden,6,1,2
+train_372,Joseph R. Biden,111,1,1
+train_373,Joseph R. Biden,70,1,0
+train_374,Joseph R. Biden,70,1,0
+train_375,Joseph R. Biden,12,0,2
+train_376,Joseph R. Biden,12,1,2
+train_377,Joseph R. Biden,22,0,0
+train_378,Joseph R. Biden,58,1,1
+train_379,Joseph R. Biden,58,0,1
+train_380,Joseph R. Biden,9,2,2
+train_381,Joseph R. Biden,34,2,0
+train_382,Joseph R. Biden,22,0,1
+train_383,Joseph R. Biden,971,1,0
+train_384,Joseph R. Biden,971,1,0
+train_385,Joseph R. Biden,971,1,0
+train_386,Joseph R. Biden,250,0,1
+train_387,Joseph R. Biden,359,1,1
+train_388,Joseph R. Biden,57,0,1
+train_389,Donald J. Trump,158,0,0
+train_390,Donald J. Trump,376,1,1
+train_391,Donald J. Trump,189,0,1
+train_392,Donald J. Trump,189,0,1
+train_393,Donald J. Trump,53,1,2
+train_394,Donald J. Trump,53,1,2
+train_395,Donald J. Trump,275,1,1
+train_396,Donald J. Trump,7,0,0
+train_397,Donald J. Trump,349,0,1
+train_398,Donald J. Trump,349,0,1
+train_399,Donald J. Trump,249,0,1
+train_400,Donald J. Trump,46,1,1
+train_401,Donald J. Trump,8,2,2
+train_402,Donald J. Trump,17,0,0
+train_403,Donald J. Trump,17,0,0
+train_404,Donald J. Trump,11,0,0
+train_405,Donald J. Trump,179,1,1
+train_406,Donald J. Trump,115,1,0
+train_407,Donald J. Trump,13,1,0
+train_408,Donald J. Trump,6,0,2
+train_409,Donald J. Trump,119,1,1
+train_410,Donald J. Trump,119,1,1
+train_411,Donald J. Trump,119,1,1
+train_412,Donald J. Trump,119,1,1
+train_413,Donald J. Trump,12,1,0
+train_414,Donald J. Trump,132,1,1
+train_415,Donald J. Trump,132,1,1
+train_416,Donald J. Trump,717,1,1
+train_417,Donald J. Trump,3,1,0
+train_418,Donald J. Trump,3,1,0
+train_419,Donald J. Trump,16,1,0
+train_420,Donald J. Trump,126,0,1
+train_421,Donald J. Trump,126,1,1
+train_422,Donald J. Trump,10,1,0
+train_423,Donald J. Trump,10,1,0
+train_424,Donald J. Trump,3,0,0
+train_425,Donald J. Trump,3,1,2
+train_426,Donald J. Trump,3,1,2
+train_427,Donald J. Trump,75,0,1
+train_428,Donald J. Trump,75,2,1
+train_429,Donald J. Trump,2,2,2
+train_430,Donald J. Trump,46,1,0
+train_431,Donald J. Trump,46,1,0
+train_432,Donald J. Trump,146,1,1
+train_433,Donald J. Trump,32,1,1
+train_434,Donald J. Trump,32,1,1
+train_435,Donald J. Trump,260,1,1
+train_436,Donald J. Trump,103,0,0
+train_437,Donald J. Trump,35,1,0
+train_438,Donald J. Trump,75,1,1
+train_439,Donald J. Trump,491,0,1
+train_440,Donald J. Trump,491,1,1
+train_441,Donald J. Trump,158,0,0
+train_442,Donald J. Trump,158,1,0
+train_443,Donald J. Trump,752,0,1
+train_444,Donald J. Trump,752,1,1
+train_445,Donald J. Trump,752,1,1
+train_446,Donald J. Trump,374,1,1
+train_447,Donald J. Trump,8,2,2
+train_448,Donald J. Trump,2,2,0
+train_449,Donald J. Trump,2,2,0
+train_450,Donald J. Trump,15,2,2
+train_451,Donald J. Trump,15,2,2
+train_452,Donald J. Trump,70,1,0
+train_453,Donald J. Trump,35,0,0
+train_454,Donald J. Trump,35,0,0
+train_455,Donald J. Trump,35,1,0
+train_456,Donald J. Trump,164,1,0
+train_457,Donald J. Trump,164,1,0
+train_458,Donald J. Trump,61,0,0
+train_459,Donald J. Trump,42,1,1
+train_460,Donald J. Trump,42,1,1
+train_461,Donald J. Trump,65,1,0
+train_462,Donald J. Trump,96,2,1
+train_463,Donald J. Trump,83,2,1
+train_464,Donald J. Trump,83,1,1
+train_465,Donald J. Trump,93,1,1
+train_466,Donald J. Trump,593,1,1
+train_467,Donald J. Trump,5,0,0
+train_468,Donald J. Trump,769,0,1
+train_469,Donald J. Trump,6,2,0
+train_470,Donald J. Trump,1,1,0
+train_471,Donald J. Trump,83,2,1
+train_472,Donald J. Trump,2,0,0
+train_473,Donald J. Trump,13,0,0
+train_474,Donald J. Trump,1,0,0
+train_475,Donald J. Trump,58,0,0
+train_476,Donald J. Trump,2,0,2
+train_477,Donald J. Trump,2,0,2
+train_478,Donald J. Trump,97,0,1
+train_479,Donald J. Trump,212,0,0
+train_480,Donald J. Trump,212,1,0
+train_481,Donald J. Trump,16,1,1
+train_482,Donald J. Trump,144,0,0
+train_483,Donald J. Trump,156,2,1
+train_484,Donald J. Trump,148,0,1
+train_485,Donald J. Trump,148,0,1
+train_486,Donald J. Trump,29,1,0
+train_487,Donald J. Trump,98,0,1
+train_488,Donald J. Trump,16,0,2
+train_489,Donald J. Trump,138,1,0
+train_490,Donald J. Trump,138,1,0
+train_491,Donald J. Trump,25,0,0
+train_492,Donald J. Trump,15,0,1
+train_493,Donald J. Trump,15,1,0
+train_494,Donald J. Trump,396,1,1
+train_495,Donald J. Trump,149,1,1
+train_496,Donald J. Trump,93,0,0
+train_497,Donald J. Trump,49,1,1
+train_498,Donald J. Trump,118,0,1
+train_499,Donald J. Trump,31,1,1
+train_500,Donald J. Trump,75,1,1
+train_501,Donald J. Trump,120,0,1
+train_502,Donald J. Trump,120,1,1
+train_503,Donald J. Trump,208,2,1
+train_504,Donald J. Trump,208,2,1
+train_505,Donald J. Trump,205,2,0
+train_506,Donald J. Trump,61,2,1
+train_507,Donald J. Trump,17,1,2
+train_508,Donald J. Trump,161,0,1
+train_509,Donald J. Trump,161,1,1
+train_510,Donald J. Trump,161,1,1
+train_511,Donald J. Trump,607,1,1
+train_512,Donald J. Trump,607,1,1
+train_513,Donald J. Trump,607,1,1
+train_514,Donald J. Trump,52,0,0
+train_515,Donald J. Trump,22,0,2
+train_516,Donald J. Trump,7,0,0
+train_517,Donald J. Trump,209,0,1
+train_518,Donald J. Trump,209,1,1
+train_519,Donald J. Trump,512,1,1
+train_520,Donald J. Trump,38,0,0
+train_521,Donald J. Trump,194,1,1
+train_522,Donald J. Trump,147,1,1
+train_523,Donald J. Trump,330,0,1
+train_524,Donald J. Trump,82,1,1
+train_525,Donald J. Trump,4,0,0
+train_526,Donald J. Trump,35,1,2
+train_527,Donald J. Trump,62,1,0
+train_528,Donald J. Trump,138,0,1
+train_529,Joseph R. Biden,76,1,1
+train_530,Joseph R. Biden,76,2,0
+train_531,Joseph R. Biden,246,1,1
+train_532,Joseph R. Biden,357,0,0
+train_533,Joseph R. Biden,7,0,0
+train_534,Joseph R. Biden,25,0,2
+train_535,Joseph R. Biden,192,1,1
+train_536,Joseph R. Biden,193,0,1
+train_537,Joseph R. Biden,193,1,1
+train_538,Joseph R. Biden,1,0,0
+train_539,Donald J. Trump,5,0,0
+train_540,Donald J. Trump,170,0,1
+train_541,Donald J. Trump,170,0,1
+train_542,Donald J. Trump,133,1,0
+train_543,Donald J. Trump,273,1,1
+train_544,Donald J. Trump,125,0,0
+train_545,Donald J. Trump,125,1,0
+train_546,Donald J. Trump,213,1,1
+train_547,Donald J. Trump,27,1,0
+train_548,Donald J. Trump,19,0,0
+train_549,Donald J. Trump,401,1,1
+train_550,Donald J. Trump,401,1,1
+train_551,Donald J. Trump,401,2,1
+train_552,Donald J. Trump,147,1,1
+train_553,Donald J. Trump,367,1,1
+train_554,Donald J. Trump,106,1,1
+train_555,Donald J. Trump,106,1,1
+train_556,Donald J. Trump,163,2,0
+train_557,Donald J. Trump,288,1,1
+train_558,Donald J. Trump,44,2,0
+train_559,Donald J. Trump,24,1,2
+train_560,Donald J. Trump,293,1,1
+train_561,Donald J. Trump,4,2,0
+train_562,Donald J. Trump,86,1,1
+train_563,Donald J. Trump,9,0,1
+train_564,Donald J. Trump,43,0,1
+train_565,Donald J. Trump,43,1,1
+train_566,Donald J. Trump,21,2,0
+train_567,Donald J. Trump,77,0,0
+train_568,Donald J. Trump,77,1,0
+train_569,Donald J. Trump,10,0,0
+train_570,Donald J. Trump,142,0,0
+train_571,Donald J. Trump,83,2,1
+train_572,Donald J. Trump,94,1,1
+train_573,Donald J. Trump,94,1,1
+train_574,Donald J. Trump,5,0,0
+train_575,Donald J. Trump,266,0,1
+train_576,Donald J. Trump,130,1,1
+train_577,Donald J. Trump,5,1,0
+train_578,Donald J. Trump,40,2,1
+train_579,Donald J. Trump,5,0,0
+train_580,Donald J. Trump,37,1,0
+train_581,Donald J. Trump,8,2,1
+train_582,Donald J. Trump,49,0,1
+train_583,Donald J. Trump,181,1,0
+train_584,Donald J. Trump,159,1,1
+train_585,Donald J. Trump,2,2,1
+train_586,Donald J. Trump,236,0,1
+train_587,Donald J. Trump,236,1,1
+train_588,Donald J. Trump,45,0,0
+train_589,Donald J. Trump,71,0,0
+train_590,Donald J. Trump,71,1,0
+train_591,Donald J. Trump,73,0,0
+train_592,Donald J. Trump,3,2,1
+train_593,Donald J. Trump,98,1,1
+train_594,Donald J. Trump,3,2,0
+train_595,Donald J. Trump,3,0,0
+train_596,Donald J. Trump,121,0,0
+train_597,Donald J. Trump,39,1,0
+train_598,Donald J. Trump,135,1,0
+train_599,Donald J. Trump,279,0,1
+train_600,Donald J. Trump,279,0,1
+train_601,Donald J. Trump,484,0,1
+train_602,Donald J. Trump,429,0,1
+train_603,Donald J. Trump,429,1,1
+train_604,Donald J. Trump,809,1,1
+train_605,Donald J. Trump,224,0,1
+train_606,Donald J. Trump,67,1,0
+train_607,Donald J. Trump,67,1,1
+train_608,Donald J. Trump,1,0,2
+train_609,Donald J. Trump,398,0,1
+train_610,Donald J. Trump,398,1,1
+train_611,Donald J. Trump,398,1,1
+train_612,Donald J. Trump,151,1,1
+train_613,Donald J. Trump,151,1,1
+train_614,Donald J. Trump,143,1,1
+train_615,Donald J. Trump,22,1,1
+train_616,Donald J. Trump,22,1,1
+train_617,Donald J. Trump,284,1,1
+train_618,Donald J. Trump,284,1,1
+train_619,Donald J. Trump,284,1,1
+train_620,Donald J. Trump,83,1,1
+train_621,Donald J. Trump,2,0,0
+train_622,Donald J. Trump,264,1,1
+train_623,Donald J. Trump,295,0,0
+train_624,Donald J. Trump,295,1,1
+train_625,Donald J. Trump,91,0,1
+train_626,Donald J. Trump,61,0,0
+train_627,Donald J. Trump,61,1,0
+train_628,Donald J. Trump,13,2,2
+train_629,Donald J. Trump,5,2,2
+train_630,Donald J. Trump,5,0,0
+train_631,Donald J. Trump,95,0,1
+train_632,Donald J. Trump,39,1,0
+train_633,Donald J. Trump,8,0,0
+train_634,Donald J. Trump,8,0,0
+train_635,Donald J. Trump,13,2,2
+train_636,Donald J. Trump,5,2,2
+train_637,Donald J. Trump,5,2,2
+train_638,Donald J. Trump,17,2,2
+train_639,Donald J. Trump,77,2,1
+train_640,Donald J. Trump,58,1,1
+train_641,Donald J. Trump,86,0,1
+train_642,Donald J. Trump,14,2,1
+train_643,Donald J. Trump,28,1,1
+train_644,Donald J. Trump,28,1,2
+train_645,Donald J. Trump,20,0,0
+train_646,Donald J. Trump,20,1,0
+train_647,Donald J. Trump,102,1,1
+train_648,Donald J. Trump,65,1,0
+train_649,Donald J. Trump,74,1,0
+train_650,Donald J. Trump,95,0,1
+train_651,Donald J. Trump,313,1,1
+train_652,Donald J. Trump,65,0,1
+train_653,Donald J. Trump,178,0,0
+train_654,Donald J. Trump,178,0,0
+train_655,Donald J. Trump,24,0,0
+train_656,Donald J. Trump,24,1,0
+train_657,Donald J. Trump,2,1,1
+train_658,Donald J. Trump,2,1,0
+train_659,Donald J. Trump,424,0,1
+train_660,Donald J. Trump,4,0,0
+train_661,Donald J. Trump,66,0,0
+train_662,Donald J. Trump,38,0,1
+train_663,Donald J. Trump,62,1,0
+train_664,Donald J. Trump,62,1,0
+train_665,Donald J. Trump,1,1,0
+train_666,Donald J. Trump,69,0,0
+train_667,Donald J. Trump,68,0,0
+train_668,Donald J. Trump,55,0,0
+train_669,Donald J. Trump,37,1,0
+train_670,Donald J. Trump,20,1,0
+train_671,Donald J. Trump,12,1,1
+train_672,Donald J. Trump,36,1,0
+train_673,Donald J. Trump,6,1,0
+train_674,Donald J. Trump,4,0,0
+train_675,Donald J. Trump,35,1,1
+train_676,Donald J. Trump,35,1,1
+train_677,Donald J. Trump,49,1,2
+train_678,Donald J. Trump,174,0,0
+train_679,Donald J. Trump,114,0,0
+train_680,Donald J. Trump,114,1,0
+train_681,Donald J. Trump,10,0,0
+train_682,Donald J. Trump,10,1,0
+train_683,Donald J. Trump,16,2,1
+train_684,Donald J. Trump,15,1,1
+train_685,Donald J. Trump,4,1,0
+train_686,Donald J. Trump,105,0,0
+train_687,Donald J. Trump,4,1,0
+train_688,Donald J. Trump,82,0,1
+train_689,Donald J. Trump,82,0,1
+train_690,Donald J. Trump,38,0,1
+train_691,Donald J. Trump,38,1,1
+train_692,Donald J. Trump,33,2,0
+train_693,Donald J. Trump,33,2,2
+train_694,Donald J. Trump,70,0,0
+train_695,Donald J. Trump,70,1,0
+train_696,Donald J. Trump,104,2,1
+train_697,Donald J. Trump,104,1,1
+train_698,Donald J. Trump,1,0,0
+train_699,Donald J. Trump,413,1,1
+train_700,Donald J. Trump,11,1,0
+train_701,Donald J. Trump,11,1,0
+train_702,Donald J. Trump,94,1,0
+train_703,Donald J. Trump,42,1,0
+train_704,Donald J. Trump,451,1,1
+train_705,Donald J. Trump,18,2,1
+train_706,Donald J. Trump,5,0,0
+train_707,Donald J. Trump,49,1,1
+train_708,Donald J. Trump,49,1,1
+train_709,Donald J. Trump,270,1,1
+train_710,Donald J. Trump,270,1,1
+train_711,Donald J. Trump,3,1,0
+train_712,Donald J. Trump,92,1,1
+train_713,Donald J. Trump,250,0,1
+train_714,Donald J. Trump,887,1,1
+train_715,Donald J. Trump,887,1,1
+train_716,Donald J. Trump,121,1,1
+train_717,Donald J. Trump,121,0,1
+train_718,Donald J. Trump,244,0,1
+train_719,Donald J. Trump,75,1,1
+train_720,Donald J. Trump,66,1,1
+train_721,Donald J. Trump,439,0,1
+train_722,Donald J. Trump,439,0,1
+train_723,Donald J. Trump,111,1,1
+train_724,Donald J. Trump,38,0,1
+train_725,Donald J. Trump,38,1,1
+train_726,Donald J. Trump,10,2,1
+train_727,Donald J. Trump,124,0,1
+train_728,Donald J. Trump,124,0,1
+train_729,Donald J. Trump,373,1,0
+train_730,Donald J. Trump,207,1,1
+train_731,Donald J. Trump,27,1,1
+train_732,Donald J. Trump,127,0,1
+train_733,Donald J. Trump,127,0,1
+train_734,Donald J. Trump,120,0,0
+train_735,Donald J. Trump,179,0,1
+train_736,Donald J. Trump,84,1,0
+train_737,Donald J. Trump,828,1,1
+train_738,Donald J. Trump,289,0,1
+train_739,Donald J. Trump,207,1,1
+train_740,Donald J. Trump,164,0,1
+train_741,Donald J. Trump,164,0,1
+train_742,Donald J. Trump,234,0,1
+train_743,Donald J. Trump,62,0,0
+train_744,Donald J. Trump,187,1,1
+train_745,Donald J. Trump,182,1,1
+train_746,Donald J. Trump,182,1,1
+train_747,Donald J. Trump,182,1,1
+train_748,Donald J. Trump,294,2,1
+train_749,Donald J. Trump,174,1,1
+train_750,Donald J. Trump,266,0,1
+train_751,Donald J. Trump,266,0,1
+train_752,Donald J. Trump,97,1,0
+train_753,Donald J. Trump,97,1,0
+train_754,Donald J. Trump,20,2,1
+train_755,Donald J. Trump,20,2,2
+train_756,Donald J. Trump,20,2,1
+train_757,Donald J. Trump,20,2,2
+train_758,Donald J. Trump,111,1,1
+train_759,Donald J. Trump,60,0,0
+train_760,Donald J. Trump,107,1,0
+train_761,Donald J. Trump,107,0,0
+train_762,Donald J. Trump,41,0,0
+train_763,Donald J. Trump,41,0,2
+train_764,Donald J. Trump,127,0,1
+train_765,Donald J. Trump,127,0,1
+train_766,Donald J. Trump,7,1,0
+train_767,Donald J. Trump,7,1,0
+train_768,Donald J. Trump,311,0,1
+train_769,Donald J. Trump,214,0,1
+train_770,Donald J. Trump,84,0,0
+train_771,Donald J. Trump,68,2,0
+train_772,Donald J. Trump,68,2,0
+train_773,Donald J. Trump,173,1,1
+train_774,Donald J. Trump,3,0,0
+train_775,Donald J. Trump,90,1,1
+train_776,Donald J. Trump,526,0,1
+train_777,Donald J. Trump,526,1,1
+train_778,Donald J. Trump,248,0,1
+train_779,Donald J. Trump,18,0,0
+train_780,Donald J. Trump,18,1,0
+train_781,Donald J. Trump,3,0,0
+train_782,Donald J. Trump,3,0,0
+train_783,Donald J. Trump,3,0,0
+train_784,Donald J. Trump,3,0,0
+train_785,Donald J. Trump,29,2,0
+train_786,Donald J. Trump,109,1,1
+train_787,Donald J. Trump,109,1,1
+train_788,Donald J. Trump,41,0,0
+train_789,Donald J. Trump,479,1,1
+train_790,Donald J. Trump,884,1,1
+train_791,Donald J. Trump,149,1,0
+train_792,Donald J. Trump,238,1,1
+train_793,Donald J. Trump,56,2,0
+train_794,Donald J. Trump,56,1,0
+train_795,Donald J. Trump,94,0,0
+train_796,Donald J. Trump,94,0,0
+train_797,Donald J. Trump,284,1,1
+train_798,Donald J. Trump,113,1,0
+train_799,Donald J. Trump,11,0,0
+train_800,Donald J. Trump,183,1,1
+train_801,Donald J. Trump,183,1,1
+train_802,Donald J. Trump,183,1,1
+train_803,Donald J. Trump,109,1,0
+train_804,Donald J. Trump,168,1,1
+train_805,Donald J. Trump,168,1,1
+train_806,Donald J. Trump,187,1,1
+train_807,Donald J. Trump,187,1,1
+train_808,Donald J. Trump,232,1,1
+train_809,Donald J. Trump,293,1,1
+train_810,Donald J. Trump,78,0,1
+train_811,Donald J. Trump,78,0,1
+train_812,Donald J. Trump,230,1,1
+train_813,Donald J. Trump,230,1,0
+train_814,Donald J. Trump,77,1,0
+train_815,Donald J. Trump,77,1,0
+train_816,Donald J. Trump,232,1,1
+train_817,Donald J. Trump,232,1,1
+train_818,Donald J. Trump,232,1,1
+train_819,Donald J. Trump,111,0,1
+train_820,Donald J. Trump,111,0,1
+train_821,Donald J. Trump,111,1,1
+train_822,Donald J. Trump,114,0,1
+train_823,Donald J. Trump,25,1,2
+train_824,Donald J. Trump,25,1,2
+train_825,Donald J. Trump,42,2,0
+train_826,Donald J. Trump,42,2,0
+train_827,Donald J. Trump,23,1,2
+train_828,Donald J. Trump,23,1,2
+train_829,Donald J. Trump,9,1,0
+train_830,Donald J. Trump,246,1,1
+train_831,Donald J. Trump,178,2,1
+train_832,Donald J. Trump,82,1,0
+train_833,Donald J. Trump,124,2,1
+train_834,Donald J. Trump,124,1,1
+train_835,Donald J. Trump,159,1,1
+train_836,Donald J. Trump,159,1,1
+train_837,Donald J. Trump,1,0,0
+train_838,Donald J. Trump,2,0,0
+train_839,Donald J. Trump,5,1,0
+train_840,Donald J. Trump,36,0,0
+train_841,Donald J. Trump,214,1,1
+train_842,Donald J. Trump,340,2,1
+train_843,Donald J. Trump,190,1,0
+train_844,Donald J. Trump,190,1,0
+train_845,Donald J. Trump,97,1,1
+train_846,Donald J. Trump,97,1,1
+train_847,Donald J. Trump,72,1,1
+train_848,Donald J. Trump,17,1,1
+train_849,Donald J. Trump,3,1,2
+train_850,Donald J. Trump,66,0,1
+train_851,Donald J. Trump,66,1,1
+train_852,Donald J. Trump,32,0,0
+train_853,Donald J. Trump,165,0,1
+train_854,Donald J. Trump,165,1,1
+train_855,Donald J. Trump,165,1,0
+train_856,Donald J. Trump,90,1,0
+train_857,Donald J. Trump,90,2,0
+train_858,Donald J. Trump,78,0,1
+train_859,Donald J. Trump,78,1,1
+train_860,Donald J. Trump,138,0,1
+train_861,Donald J. Trump,138,1,0
+train_862,Donald J. Trump,321,0,1
+train_863,Donald J. Trump,321,1,1
+train_864,Donald J. Trump,70,0,0
+train_865,Donald J. Trump,70,2,0
+train_866,Donald J. Trump,2,0,1
+train_867,Donald J. Trump,78,0,0
+train_868,Donald J. Trump,78,1,0
+train_869,Donald J. Trump,32,1,1
+train_870,Donald J. Trump,13,1,1
+train_871,Donald J. Trump,13,1,1
+train_872,Donald J. Trump,3,1,0
+train_873,Donald J. Trump,62,0,1
+train_874,Donald J. Trump,62,1,0
+train_875,Donald J. Trump,5,0,1
+train_876,Donald J. Trump,16,0,0
+train_877,Donald J. Trump,9,1,2
+train_878,Donald J. Trump,239,0,1
+train_879,Donald J. Trump,239,1,1
+train_880,Donald J. Trump,1,0,0
+train_881,Donald J. Trump,99,0,1
+train_882,Donald J. Trump,99,1,1
+train_883,Donald J. Trump,50,0,1
+train_884,Donald J. Trump,208,1,1
+train_885,Donald J. Trump,208,1,1
+train_886,Donald J. Trump,17,1,0
+train_887,Donald J. Trump,17,1,0
+train_888,Donald J. Trump,49,0,1
+train_889,Donald J. Trump,270,0,1
+train_890,Donald J. Trump,270,1,1
+train_891,Donald J. Trump,270,1,1
+train_892,Donald J. Trump,94,1,1
+train_893,Donald J. Trump,104,0,1
+train_894,Donald J. Trump,104,1,1
+train_895,Donald J. Trump,5,1,1
+train_896,Donald J. Trump,300,0,1
+train_897,Donald J. Trump,300,1,1
+train_898,Donald J. Trump,74,1,0
+train_899,Donald J. Trump,12,0,2
+train_900,Donald J. Trump,223,1,1
+train_901,Donald J. Trump,19,0,2
+train_902,Donald J. Trump,97,0,1
+train_903,Donald J. Trump,97,1,1
+train_904,Donald J. Trump,117,1,1
+train_905,Donald J. Trump,136,0,1
+train_906,Donald J. Trump,167,1,1
+train_907,Donald J. Trump,97,1,1
+train_908,Donald J. Trump,246,1,1
+train_909,Donald J. Trump,143,1,1
+train_910,Donald J. Trump,143,1,1
+train_911,Donald J. Trump,101,1,1
+train_912,Donald J. Trump,101,1,1
+train_913,Donald J. Trump,96,1,1
+train_914,Donald J. Trump,96,0,1
+train_915,Donald J. Trump,455,0,1
+train_916,Donald J. Trump,455,1,1
+train_917,Donald J. Trump,35,1,1
+train_918,Donald J. Trump,37,0,0
+train_919,Donald J. Trump,125,0,1
+train_920,Donald J. Trump,286,0,1
+train_921,Donald J. Trump,86,1,1
+train_922,Donald J. Trump,86,1,1
+train_923,Donald J. Trump,218,0,1
+train_924,Donald J. Trump,173,1,1
+train_925,Donald J. Trump,169,0,0
+train_926,Donald J. Trump,163,1,0
+train_927,Donald J. Trump,454,1,1
+train_928,Donald J. Trump,182,0,1
+train_929,Donald J. Trump,142,1,1
+train_930,Donald J. Trump,2,0,0
+train_931,Donald J. Trump,19,1,0
+train_932,Donald J. Trump,232,1,0
+train_933,Donald J. Trump,232,1,0
+train_934,Donald J. Trump,159,0,1
+train_935,Donald J. Trump,21,1,2
+train_936,Donald J. Trump,1,0,0
+train_937,Donald J. Trump,1,0,1
+train_938,Donald J. Trump,6,2,0
+train_939,Donald J. Trump,322,1,1
+train_940,Donald J. Trump,322,1,1
+train_941,Donald J. Trump,434,1,1
+train_942,Donald J. Trump,434,1,1
+train_943,Donald J. Trump,497,1,0
+train_944,Donald J. Trump,497,1,0
+train_945,Donald J. Trump,196,2,1
+train_946,Donald J. Trump,21,1,2
+train_947,Donald J. Trump,2,0,0
+train_948,Donald J. Trump,339,1,1
+train_949,Donald J. Trump,339,1,1
+train_950,Donald J. Trump,196,0,0
+train_951,Donald J. Trump,196,0,1
+train_952,Donald J. Trump,196,1,0
+train_953,Donald J. Trump,222,1,0
+train_954,Donald J. Trump,222,1,1
+train_955,Donald J. Trump,1,1,1
+train_956,Donald J. Trump,457,1,1
+train_957,Donald J. Trump,60,1,1
+train_958,Donald J. Trump,60,1,1
+train_959,Donald J. Trump,43,0,0
+train_960,Donald J. Trump,163,0,1
+train_961,Donald J. Trump,163,1,1
+train_962,Donald J. Trump,163,1,1
+train_963,Donald J. Trump,70,0,1
+train_964,Donald J. Trump,70,1,1
+train_965,Donald J. Trump,91,2,0
+train_966,Donald J. Trump,91,2,0
+train_967,Donald J. Trump,6,0,0
+train_968,Donald J. Trump,86,1,0
+train_969,Donald J. Trump,23,1,2
+train_970,Donald J. Trump,23,1,2
+train_971,Donald J. Trump,122,0,0
+train_972,Donald J. Trump,175,1,0
+train_973,Donald J. Trump,355,1,1
+train_974,Donald J. Trump,17,0,0
+train_975,Donald J. Trump,192,1,1
+train_976,Donald J. Trump,319,2,1
+train_977,Donald J. Trump,234,1,1
+train_978,Donald J. Trump,45,0,0
+train_979,Donald J. Trump,137,1,1
+train_980,Donald J. Trump,29,1,0
+train_981,Donald J. Trump,29,1,0
+train_982,Donald J. Trump,29,1,0
+train_983,Donald J. Trump,98,0,1
+train_984,Donald J. Trump,152,1,0
+train_985,Donald J. Trump,9,0,1
+train_986,Donald J. Trump,9,0,0
+train_987,Donald J. Trump,12,2,2
+train_988,Donald J. Trump,8,2,2
+train_989,Donald J. Trump,8,2,2
+train_990,Donald J. Trump,8,2,1
+train_991,Donald J. Trump,8,2,2
+train_992,Donald J. Trump,201,0,0
+train_993,Donald J. Trump,12,1,0
+train_994,Donald J. Trump,24,2,2
+train_995,Donald J. Trump,16,2,2
+train_996,Donald J. Trump,8,0,0
+train_997,Donald J. Trump,319,1,1
+train_998,Donald J. Trump,319,1,1
+train_999,Donald J. Trump,162,0,0
+train_1000,Donald J. Trump,162,0,0
+train_1001,Donald J. Trump,244,1,1
+train_1002,Donald J. Trump,7,1,2
+train_1003,Donald J. Trump,54,2,1
+train_1004,Donald J. Trump,748,0,1
+train_1005,Donald J. Trump,748,0,1
+train_1006,Donald J. Trump,742,1,1
+train_1007,Donald J. Trump,184,0,1
+train_1008,Donald J. Trump,159,2,1
+train_1009,Donald J. Trump,260,0,1
+train_1010,Donald J. Trump,260,1,1
+train_1011,Donald J. Trump,179,0,1
+train_1012,Donald J. Trump,36,0,1
+train_1013,Donald J. Trump,36,0,1
+train_1014,Donald J. Trump,36,1,1
+train_1015,Donald J. Trump,36,1,1
+train_1016,Donald J. Trump,5,2,2
+train_1017,Donald J. Trump,334,1,1
+train_1018,Donald J. Trump,334,1,1
+train_1019,Donald J. Trump,701,1,1
+train_1020,Donald J. Trump,354,2,0
+train_1021,Donald J. Trump,504,1,1
+train_1022,Donald J. Trump,55,1,1
+train_1023,Donald J. Trump,229,0,1
+train_1024,Donald J. Trump,489,0,1
+train_1025,Donald J. Trump,698,1,1
+train_1026,Donald J. Trump,698,1,1
+train_1027,Donald J. Trump,691,1,1
+train_1028,Donald J. Trump,691,1,1
+train_1029,Donald J. Trump,317,2,1
+train_1030,Donald J. Trump,317,1,1
+train_1031,Donald J. Trump,1,0,1
+train_1032,Donald J. Trump,2,2,2
+train_1033,Donald J. Trump,395,0,1
+train_1034,Donald J. Trump,85,1,2
+train_1035,Donald J. Trump,85,1,2
+train_1036,Donald J. Trump,2,0,0
+train_1037,Donald J. Trump,233,0,1
+train_1038,Donald J. Trump,96,0,0
+train_1039,Donald J. Trump,567,0,1
+train_1040,Donald J. Trump,7,0,0
+train_1041,Donald J. Trump,7,0,0
+train_1042,Donald J. Trump,35,0,0
+train_1043,Donald J. Trump,142,0,0
+train_1044,Donald J. Trump,314,0,1
+train_1045,Donald J. Trump,314,1,1
+train_1046,Donald J. Trump,167,0,1
+train_1047,Donald J. Trump,92,1,2
+train_1048,Donald J. Trump,274,0,1
+train_1049,Donald J. Trump,149,1,1
+train_1050,Donald J. Trump,167,0,0
+train_1051,Donald J. Trump,167,1,0
+train_1052,Donald J. Trump,343,1,1
+train_1053,Donald J. Trump,343,1,1
+train_1054,Donald J. Trump,109,1,1
+train_1055,Donald J. Trump,5,2,2
+train_1056,Donald J. Trump,92,1,1
+train_1057,Donald J. Trump,68,1,1
+train_1058,Donald J. Trump,68,1,1
+train_1059,Donald J. Trump,1,0,0
+train_1060,Donald J. Trump,13,0,0
+train_1061,Donald J. Trump,260,0,0
+train_1062,Donald J. Trump,9,1,1
+train_1063,Donald J. Trump,9,1,1
+train_1064,Donald J. Trump,7,1,0
+train_1065,Donald J. Trump,7,1,0
+train_1066,Donald J. Trump,269,0,1
+train_1067,Donald J. Trump,215,1,1
+train_1068,Donald J. Trump,62,2,0
+train_1069,Donald J. Trump,479,1,1
+train_1070,Donald J. Trump,5,0,0
+train_1071,Donald J. Trump,11,0,0
+train_1072,Donald J. Trump,11,0,0
+train_1073,Donald J. Trump,68,0,1
+train_1074,Donald J. Trump,68,0,0
+train_1075,Donald J. Trump,164,0,1
+train_1076,Donald J. Trump,164,0,1
+train_1077,Donald J. Trump,80,2,0
+train_1078,Donald J. Trump,110,1,1
+train_1079,Donald J. Trump,110,1,1
+train_1080,Donald J. Trump,20,0,1
+train_1081,Donald J. Trump,163,0,1
+train_1082,Donald J. Trump,163,0,1
+train_1083,Donald J. Trump,631,0,1
+train_1084,Donald J. Trump,631,0,1
+train_1085,Donald J. Trump,39,2,1
+train_1086,Donald J. Trump,39,1,1
+train_1087,Donald J. Trump,119,1,1
+train_1088,Donald J. Trump,119,1,1
+train_1089,Donald J. Trump,56,0,0
+train_1090,Donald J. Trump,7,0,0
+train_1091,Donald J. Trump,7,0,1
+train_1092,Donald J. Trump,7,0,0
+train_1093,Donald J. Trump,87,0,1
+train_1094,Donald J. Trump,87,1,1
+train_1095,Donald J. Trump,147,1,1
+train_1096,Donald J. Trump,5,1,0
+train_1097,Donald J. Trump,165,0,1
+train_1098,Donald J. Trump,33,0,0
+train_1099,Donald J. Trump,516,0,1
+train_1100,Donald J. Trump,219,0,0
+train_1101,Donald J. Trump,219,1,0
+train_1102,Donald J. Trump,219,1,0
+train_1103,Donald J. Trump,101,1,0
+train_1104,Donald J. Trump,101,1,1
+train_1105,Donald J. Trump,467,0,1
+train_1106,Donald J. Trump,467,0,0
+train_1107,Donald J. Trump,265,1,1
+train_1108,Donald J. Trump,1,0,0
+train_1109,Donald J. Trump,1,0,0
+train_1110,Donald J. Trump,19,0,2
+train_1111,Donald J. Trump,13,0,0
+train_1112,Donald J. Trump,37,0,0
+train_1113,Donald J. Trump,396,1,1
+train_1114,Donald J. Trump,113,2,1
+train_1115,Donald J. Trump,1,0,0
+train_1116,Donald J. Trump,816,1,1
+train_1117,Donald J. Trump,173,1,1
+train_1118,Donald J. Trump,3,0,0
+train_1119,Donald J. Trump,138,1,1
+train_1120,Donald J. Trump,138,1,1
+train_1121,Donald J. Trump,111,1,1
+train_1122,Donald J. Trump,20,1,1
+train_1123,Donald J. Trump,274,0,0
+train_1124,Donald J. Trump,211,0,0
+train_1125,Donald J. Trump,211,0,0
+train_1126,Donald J. Trump,351,1,1
+train_1127,Donald J. Trump,89,0,1
+train_1128,Donald J. Trump,68,1,1
+train_1129,Donald J. Trump,583,1,0
+train_1130,Donald J. Trump,1,0,0
+train_1131,Donald J. Trump,308,1,1
+train_1132,Donald J. Trump,2,2,2
+train_1133,Donald J. Trump,3,0,0
+train_1134,Donald J. Trump,71,0,0
+train_1135,Donald J. Trump,84,2,1
+train_1136,Donald J. Trump,84,2,1
+train_1137,Donald J. Trump,9,0,0
+train_1138,Donald J. Trump,9,1,0
+train_1139,Donald J. Trump,9,1,0
+train_1140,Donald J. Trump,9,1,0
+train_1141,Donald J. Trump,1,0,0
+train_1142,Donald J. Trump,149,1,0
+train_1143,Donald J. Trump,205,0,0
+train_1144,Donald J. Trump,55,1,0
+train_1145,Donald J. Trump,55,1,2
+train_1146,Donald J. Trump,446,0,1
+train_1147,Donald J. Trump,446,1,1
+train_1148,Donald J. Trump,342,0,1
+train_1149,Donald J. Trump,342,0,1
+train_1150,Donald J. Trump,342,1,1
+train_1151,Donald J. Trump,5,2,2
+train_1152,Donald J. Trump,703,1,1
+train_1153,Donald J. Trump,16,0,0
+train_1154,Donald J. Trump,689,0,1
+train_1155,Donald J. Trump,689,0,1
+train_1156,Donald J. Trump,51,0,1
+train_1157,Donald J. Trump,17,1,2
+train_1158,Donald J. Trump,176,0,1
+train_1159,Donald J. Trump,416,1,1
+train_1160,Donald J. Trump,350,1,1
+train_1161,Donald J. Trump,350,1,1
+train_1162,Donald J. Trump,70,1,1
+train_1163,Donald J. Trump,5,2,2
+train_1164,Donald J. Trump,5,2,2
+train_1165,Donald J. Trump,5,2,2
+train_1166,Donald J. Trump,22,0,0
+train_1167,Donald J. Trump,440,1,1
+train_1168,Donald J. Trump,60,0,1
+train_1169,Donald J. Trump,60,2,1
+train_1170,Donald J. Trump,230,1,1
+train_1171,Donald J. Trump,7,0,0
+train_1172,Donald J. Trump,333,1,1
+train_1173,Donald J. Trump,61,1,0
+train_1174,Donald J. Trump,478,1,1
+train_1175,Donald J. Trump,478,1,1
+train_1176,Donald J. Trump,206,1,1
+train_1177,Donald J. Trump,206,1,1
+train_1178,Donald J. Trump,374,1,1
+train_1179,Donald J. Trump,184,1,1
+train_1180,Donald J. Trump,184,1,1
+train_1181,Donald J. Trump,149,1,0
+train_1182,Donald J. Trump,149,0,1
+train_1183,Donald J. Trump,104,2,0
+train_1184,Donald J. Trump,81,1,1
+train_1185,Donald J. Trump,66,0,0
+train_1186,Donald J. Trump,62,0,1
+train_1187,Donald J. Trump,62,1,1
+train_1188,Donald J. Trump,70,1,1
+train_1189,Donald J. Trump,70,1,1
+train_1190,Donald J. Trump,70,1,1
+train_1191,Donald J. Trump,16,1,1
+train_1192,Donald J. Trump,63,1,0
+train_1193,Donald J. Trump,105,1,0
+train_1194,Donald J. Trump,5,0,0
+train_1195,Donald J. Trump,80,1,1
+train_1196,Donald J. Trump,299,1,0
+train_1197,Donald J. Trump,299,1,1
+train_1198,Donald J. Trump,136,1,0
+train_1199,Donald J. Trump,4,1,0
+train_1200,Donald J. Trump,4,0,0
+train_1201,Donald J. Trump,68,1,0
+train_1202,Donald J. Trump,54,1,0
+train_1203,Donald J. Trump,129,0,0
+train_1204,Donald J. Trump,154,0,1
+train_1205,Donald J. Trump,154,1,1
+train_1206,Donald J. Trump,4,0,0
+train_1207,Donald J. Trump,241,1,0
+train_1208,Donald J. Trump,241,1,0
+train_1209,Donald J. Trump,125,1,1
+train_1210,Donald J. Trump,125,1,1
+train_1211,Donald J. Trump,18,2,2
+train_1212,Donald J. Trump,241,1,1
+train_1213,Donald J. Trump,241,1,1
+train_1214,Donald J. Trump,19,1,0
+train_1215,Donald J. Trump,6,1,0
+train_1216,Donald J. Trump,5,2,0
+train_1217,Donald J. Trump,104,0,0
+train_1218,Donald J. Trump,39,2,2
+train_1219,Donald J. Trump,196,2,1
+train_1220,Donald J. Trump,17,2,2
+train_1221,Donald J. Trump,83,2,1
+train_1222,Donald J. Trump,83,2,1
+train_1223,Donald J. Trump,83,2,1
+train_1224,Donald J. Trump,30,1,0
+train_1225,Donald J. Trump,295,0,1
+train_1226,Donald J. Trump,16,0,0
+train_1227,Donald J. Trump,16,1,0
+train_1228,Donald J. Trump,16,0,0
+train_1229,Donald J. Trump,11,1,2
+train_1230,Donald J. Trump,2,1,0
+train_1231,Donald J. Trump,12,1,2
+train_1232,Donald J. Trump,12,1,2
+train_1233,Donald J. Trump,17,2,2
+train_1234,Donald J. Trump,75,1,0
+train_1235,Donald J. Trump,75,1,0
+train_1236,Donald J. Trump,2,2,2
+train_1237,Donald J. Trump,7,2,0
+train_1238,Donald J. Trump,8,1,1
+train_1239,Donald J. Trump,9,2,2
+train_1240,Donald J. Trump,9,2,1
+train_1241,Donald J. Trump,126,1,1
+train_1242,Donald J. Trump,126,1,1
+train_1243,Donald J. Trump,108,0,1
+train_1244,Donald J. Trump,108,1,1
+train_1245,Donald J. Trump,46,0,0
+train_1246,Donald J. Trump,46,1,0
+train_1247,Donald J. Trump,15,0,0
+train_1248,Donald J. Trump,31,1,0
+train_1249,Donald J. Trump,33,1,1
+train_1250,Donald J. Trump,103,1,1
+train_1251,Donald J. Trump,180,0,0
+train_1252,Donald J. Trump,180,1,0
+train_1253,Donald J. Trump,4,2,2
+train_1254,Donald J. Trump,4,2,2
+train_1255,Donald J. Trump,281,1,0
+train_1256,Donald J. Trump,178,1,1
+train_1257,Donald J. Trump,17,0,0
+train_1258,Donald J. Trump,34,0,2
+train_1259,Donald J. Trump,5,2,2
+train_1260,Donald J. Trump,374,1,1
+train_1261,Donald J. Trump,184,2,1
+train_1262,Donald J. Trump,184,1,1
+train_1263,Donald J. Trump,149,1,1
+train_1264,Donald J. Trump,149,1,1
+train_1265,Donald J. Trump,149,1,0
+train_1266,Donald J. Trump,70,1,1
+train_1267,Donald J. Trump,70,1,1
+train_1268,Donald J. Trump,70,1,1
+train_1269,Donald J. Trump,16,1,1
+train_1270,Donald J. Trump,63,1,0
+train_1271,Donald J. Trump,105,1,0
+train_1272,Donald J. Trump,5,0,0
+train_1273,Donald J. Trump,80,1,1
+train_1274,Donald J. Trump,299,1,1
+train_1275,Donald J. Trump,299,1,1
+train_1276,Donald J. Trump,136,1,0
+train_1277,Donald J. Trump,136,1,0
+train_1278,Donald J. Trump,4,0,0
+train_1279,Donald J. Trump,4,1,0
+train_1280,Donald J. Trump,68,0,0
+train_1281,Donald J. Trump,68,0,0
+train_1282,Donald J. Trump,54,0,0
+train_1283,Donald J. Trump,129,0,0
+train_1284,Donald J. Trump,154,1,1
+train_1285,Donald J. Trump,154,1,1
+train_1286,Donald J. Trump,4,0,0
+train_1287,Donald J. Trump,241,1,0
+train_1288,Donald J. Trump,241,1,0
+train_1289,Donald J. Trump,125,0,0
+train_1290,Donald J. Trump,125,1,1
+train_1291,Donald J. Trump,125,1,1
+train_1292,Donald J. Trump,18,2,2
+train_1293,Donald J. Trump,241,1,1
+train_1294,Donald J. Trump,241,2,1
+train_1295,Donald J. Trump,19,1,1
+train_1296,Donald J. Trump,6,1,0
+train_1297,Donald J. Trump,5,2,0
+train_1298,Donald J. Trump,104,0,0
+train_1299,Donald J. Trump,39,2,2
+train_1300,Donald J. Trump,39,2,2
+train_1301,Donald J. Trump,17,2,2
+train_1302,Donald J. Trump,83,2,1
+train_1303,Donald J. Trump,83,2,1
+train_1304,Donald J. Trump,83,2,1
+train_1305,Donald J. Trump,30,2,0
+train_1306,Donald J. Trump,295,1,1
+train_1307,Donald J. Trump,16,0,0
+train_1308,Donald J. Trump,16,0,0
+train_1309,Donald J. Trump,11,1,2
+train_1310,Donald J. Trump,2,1,0
+train_1311,Donald J. Trump,12,2,2
+train_1312,Donald J. Trump,9,2,2
+train_1313,Donald J. Trump,17,2,2
+train_1314,Donald J. Trump,75,1,0
+train_1315,Donald J. Trump,75,1,0
+train_1316,Donald J. Trump,2,2,2
+train_1317,Donald J. Trump,7,1,0
+train_1318,Donald J. Trump,8,1,1
+train_1319,Donald J. Trump,9,2,1
+train_1320,Donald J. Trump,126,1,1
+train_1321,Donald J. Trump,126,1,1
+train_1322,Donald J. Trump,108,0,1
+train_1323,Donald J. Trump,46,0,0
+train_1324,Donald J. Trump,15,0,0
+train_1325,Donald J. Trump,31,1,0
+train_1326,Donald J. Trump,33,1,1
+train_1327,Donald J. Trump,109,1,1
+train_1328,Donald J. Trump,111,1,1
+train_1329,Donald J. Trump,51,1,1
+train_1330,Donald J. Trump,104,0,1
+train_1331,Donald J. Trump,22,2,2
+train_1332,Donald J. Trump,115,0,0
+train_1333,Donald J. Trump,115,1,0
+train_1334,Donald J. Trump,40,1,0
+train_1335,Donald J. Trump,54,1,1
+train_1336,Donald J. Trump,54,1,1
+train_1337,Donald J. Trump,54,1,2
+train_1338,Donald J. Trump,9,1,1
+train_1339,Donald J. Trump,9,1,1
+train_1340,Donald J. Trump,5,1,2
+train_1341,Donald J. Trump,5,1,2
+train_1342,Donald J. Trump,10,1,0
+train_1343,Donald J. Trump,15,0,0
+train_1344,Donald J. Trump,122,1,1
+train_1345,Donald J. Trump,122,1,0
+train_1346,Donald J. Trump,4,1,2
+train_1347,Donald J. Trump,6,1,2
+train_1348,Donald J. Trump,5,0,0
+train_1349,Donald J. Trump,9,0,0
+train_1350,Donald J. Trump,157,1,1
+train_1351,Donald J. Trump,157,1,1
+train_1352,Donald J. Trump,2,2,2
+train_1353,Donald J. Trump,258,1,1
+train_1354,Donald J. Trump,76,1,2
+train_1355,Donald J. Trump,76,2,2
+train_1356,Donald J. Trump,5,2,2
+train_1357,Donald J. Trump,170,1,0
+train_1358,Donald J. Trump,51,1,1
+train_1359,Donald J. Trump,2,0,2
+train_1360,Donald J. Trump,42,0,0
+train_1361,Donald J. Trump,130,1,0
+train_1362,Donald J. Trump,11,1,2
+train_1363,Donald J. Trump,62,0,1
+train_1364,Donald J. Trump,4,1,1
+train_1365,Donald J. Trump,1,1,1
+train_1366,Donald J. Trump,41,2,0
+train_1367,Donald J. Trump,101,0,0
+train_1368,Donald J. Trump,27,1,2
+train_1369,Donald J. Trump,54,2,0
+train_1370,Donald J. Trump,54,2,0
+train_1371,Donald J. Trump,1,0,1
+train_1372,Donald J. Trump,6,0,0
+train_1373,Donald J. Trump,6,0,0
+train_1374,Donald J. Trump,15,1,1
+train_1375,Donald J. Trump,8,1,1
+train_1376,Donald J. Trump,3,1,2
+train_1377,Donald J. Trump,3,1,0
+train_1378,Donald J. Trump,211,1,1
+train_1379,Donald J. Trump,112,1,1
+train_1380,Donald J. Trump,112,1,1
+train_1381,Donald J. Trump,200,1,1
+train_1382,Donald J. Trump,81,1,1
+train_1383,Donald J. Trump,307,0,1
+train_1384,Donald J. Trump,307,1,1
+train_1385,Donald J. Trump,77,1,1
+train_1386,Donald J. Trump,36,0,1
+train_1387,Donald J. Trump,212,2,1
+train_1388,Donald J. Trump,12,1,0
+train_1389,Donald J. Trump,198,1,1
+train_1390,Donald J. Trump,149,1,1
+train_1391,Donald J. Trump,198,1,1
+train_1392,Donald J. Trump,55,1,1
+train_1393,Donald J. Trump,459,0,1
+train_1394,Donald J. Trump,12,0,0
+train_1395,Donald J. Trump,53,1,2
+train_1396,Donald J. Trump,48,1,1
+train_1397,Donald J. Trump,179,1,0
+train_1398,Donald J. Trump,20,0,0
+train_1399,Donald J. Trump,31,2,2
+train_1400,Donald J. Trump,3,0,0
+train_1401,Donald J. Trump,30,1,1
+train_1402,Donald J. Trump,30,1,1
+train_1403,Donald J. Trump,143,1,1
+train_1404,Donald J. Trump,53,1,1
+train_1405,Donald J. Trump,484,1,0
+train_1406,Donald J. Trump,4,1,1
+train_1407,Donald J. Trump,308,0,1
+train_1408,Donald J. Trump,78,0,1
+train_1409,Donald J. Trump,103,1,1
+train_1410,Donald J. Trump,4,1,2
+train_1411,Donald J. Trump,5,1,2
+train_1412,Donald J. Trump,6,1,2
+train_1413,Donald J. Trump,6,1,2
+train_1414,Donald J. Trump,6,2,2
+train_1415,Donald J. Trump,186,1,1
+train_1416,Donald J. Trump,2,1,2
+train_1417,Donald J. Trump,2,1,2
+train_1418,Donald J. Trump,297,1,1
+train_1419,Donald J. Trump,484,0,1
+train_1420,Donald J. Trump,484,0,1
+train_1421,Donald J. Trump,305,1,1
+train_1422,Donald J. Trump,10,1,2
+train_1423,Donald J. Trump,217,1,1
+train_1424,Donald J. Trump,809,1,1
+train_1425,Donald J. Trump,809,1,1
+train_1426,Donald J. Trump,234,0,1
+train_1427,Donald J. Trump,234,0,1
+train_1428,Donald J. Trump,234,0,1
+train_1429,Donald J. Trump,234,0,1
+train_1430,Donald J. Trump,207,1,1
+train_1431,Donald J. Trump,207,1,1
+train_1432,Donald J. Trump,377,0,1
+train_1433,Donald J. Trump,377,1,1
+train_1434,Donald J. Trump,821,1,1
+train_1435,Donald J. Trump,430,1,1
+train_1436,Donald J. Trump,430,1,1
+train_1437,Donald J. Trump,430,1,1
+train_1438,Donald J. Trump,378,1,1
+train_1439,Donald J. Trump,378,0,1
+train_1440,Donald J. Trump,15,0,1
+train_1441,Donald J. Trump,271,1,0
+train_1442,Donald J. Trump,271,1,0
+train_1443,Donald J. Trump,271,1,0
+train_1444,Donald J. Trump,271,1,0
+train_1445,Donald J. Trump,41,0,0
+train_1446,Donald J. Trump,442,1,0
+train_1447,Donald J. Trump,442,1,0
+train_1448,Donald J. Trump,278,0,1
+train_1449,Donald J. Trump,278,1,1
+train_1450,Donald J. Trump,975,1,1
+train_1451,Donald J. Trump,975,1,1
+train_1452,Donald J. Trump,267,0,1
+train_1453,Donald J. Trump,267,0,1
+train_1454,Donald J. Trump,267,1,1
+train_1455,Donald J. Trump,267,1,1
+train_1456,Donald J. Trump,267,1,1
+train_1457,Donald J. Trump,629,0,1
+train_1458,Donald J. Trump,629,1,1
+train_1459,Donald J. Trump,276,0,1
+train_1460,Donald J. Trump,276,0,1
+train_1461,Donald J. Trump,565,1,1
+train_1462,Donald J. Trump,565,1,1
+train_1463,Donald J. Trump,565,1,1
+train_1464,Donald J. Trump,565,1,1
+train_1465,Donald J. Trump,522,1,1
+train_1466,Donald J. Trump,522,1,1
+train_1467,Donald J. Trump,20,1,1
+train_1468,Donald J. Trump,9,0,2
+train_1469,Donald J. Trump,53,1,1
+train_1470,Donald J. Trump,219,2,1
+train_1471,Donald J. Trump,139,0,1
+train_1472,Donald J. Trump,1,1,0
+train_1473,Donald J. Trump,1,1,0
+train_1474,Donald J. Trump,326,1,1
+train_1475,Donald J. Trump,326,1,1
+train_1476,Donald J. Trump,321,1,1
+train_1477,Donald J. Trump,117,1,0
+train_1478,Donald J. Trump,1,0,0
+train_1479,Donald J. Trump,1,0,0
+train_1480,Donald J. Trump,260,1,1
+train_1481,Donald J. Trump,260,1,1
+train_1482,Donald J. Trump,88,1,0
+train_1483,Donald J. Trump,88,0,0
+train_1484,Donald J. Trump,249,1,1
+train_1485,Donald J. Trump,249,1,1
+train_1486,Donald J. Trump,249,0,1
+train_1487,Donald J. Trump,249,1,1
+train_1488,Donald J. Trump,2,1,2
+train_1489,Donald J. Trump,278,0,1
+train_1490,Donald J. Trump,278,1,1
+train_1491,Donald J. Trump,42,1,0
+train_1492,Donald J. Trump,1,0,0
+train_1493,Donald J. Trump,1,0,0
+train_1494,Donald J. Trump,34,1,2
+train_1495,Donald J. Trump,34,1,1
+train_1496,Donald J. Trump,236,0,0
+train_1497,Donald J. Trump,236,1,0
+train_1498,Donald J. Trump,233,0,1
+train_1499,Donald J. Trump,230,1,1
+train_1500,Donald J. Trump,230,1,1
+train_1501,Donald J. Trump,167,0,1
+train_1502,Donald J. Trump,3,2,1
+train_1503,Donald J. Trump,67,0,0
+train_1504,Donald J. Trump,67,1,0
+train_1505,Donald J. Trump,29,0,0
+train_1506,Donald J. Trump,178,0,1
+train_1507,Donald J. Trump,1,0,0
+train_1508,Donald J. Trump,1,1,2
+train_1509,Donald J. Trump,72,0,0
+train_1510,Donald J. Trump,8,0,0
+train_1511,Donald J. Trump,78,0,1
+train_1512,Donald J. Trump,202,0,1
+train_1513,Donald J. Trump,202,0,1
+train_1514,Donald J. Trump,106,0,1
+train_1515,Donald J. Trump,1,0,0
+train_1516,Donald J. Trump,218,1,0
+train_1517,Donald J. Trump,181,1,1
+train_1518,Donald J. Trump,1,0,0
+train_1519,Donald J. Trump,1,1,0
+train_1520,Donald J. Trump,1,1,2
+train_1521,Donald J. Trump,97,1,1
+train_1522,Donald J. Trump,97,1,0
+train_1523,Donald J. Trump,97,1,1
+train_1524,Donald J. Trump,97,1,0
+train_1525,Donald J. Trump,98,1,1
+train_1526,Donald J. Trump,98,1,1
+train_1527,Donald J. Trump,87,0,0
+train_1528,Donald J. Trump,277,0,1
+train_1529,Donald J. Trump,211,1,1
+train_1530,Donald J. Trump,766,0,1
+train_1531,Donald J. Trump,170,0,0
+train_1532,Donald J. Trump,170,2,0
+train_1533,Donald J. Trump,170,2,0
+train_1534,Donald J. Trump,41,1,1
+train_1535,Donald J. Trump,1,0,2
+train_1536,Donald J. Trump,189,0,0
+train_1537,Donald J. Trump,189,0,0
+train_1538,Donald J. Trump,642,1,1
+train_1539,Donald J. Trump,642,1,1
+train_1540,Donald J. Trump,642,1,1
+train_1541,Donald J. Trump,278,0,0
+train_1542,Donald J. Trump,278,1,0
+train_1543,Donald J. Trump,40,1,1
+train_1544,Donald J. Trump,276,1,1
+train_1545,Donald J. Trump,276,1,1
+train_1546,Donald J. Trump,195,2,1
+train_1547,Donald J. Trump,195,2,1
+train_1548,Donald J. Trump,132,0,0
+train_1549,Donald J. Trump,77,0,0
+train_1550,Donald J. Trump,11,2,2
+train_1551,Donald J. Trump,343,1,1
+train_1552,Donald J. Trump,343,1,1
+train_1553,Donald J. Trump,283,1,1
+train_1554,Donald J. Trump,283,1,1
+train_1555,Donald J. Trump,297,1,0
+train_1556,Donald J. Trump,297,1,0
+train_1557,Donald J. Trump,3,2,0
+train_1558,Donald J. Trump,219,1,1
+train_1559,Donald J. Trump,19,0,0
+train_1560,Donald J. Trump,162,1,1
+train_1561,Donald J. Trump,162,0,1
+train_1562,Donald J. Trump,3,0,0
+train_1563,Donald J. Trump,3,0,0
+train_1564,Donald J. Trump,143,1,1
+train_1565,Donald J. Trump,77,0,1
+train_1566,Donald J. Trump,7,0,2
+train_1567,Donald J. Trump,7,1,1
+train_1568,Donald J. Trump,1,2,2
+train_1569,Donald J. Trump,21,2,0
+train_1570,Donald J. Trump,26,2,0
+train_1571,Donald J. Trump,30,0,0
+train_1572,Donald J. Trump,238,2,1
+train_1573,Donald J. Trump,238,2,0
+train_1574,Donald J. Trump,7,0,2
+train_1575,Donald J. Trump,213,0,1
+train_1576,Donald J. Trump,213,1,1
+train_1577,Donald J. Trump,144,0,0
+train_1578,Donald J. Trump,144,1,0
+train_1579,Donald J. Trump,144,1,0
+train_1580,Donald J. Trump,561,1,1
+train_1581,Donald J. Trump,42,1,1
+train_1582,Donald J. Trump,127,1,1
+train_1583,Donald J. Trump,178,1,1
+train_1584,Donald J. Trump,25,1,0
+train_1585,Donald J. Trump,209,1,1
+train_1586,Donald J. Trump,17,1,2
+train_1587,Donald J. Trump,250,1,1
+train_1588,Donald J. Trump,83,1,0
+train_1589,Donald J. Trump,83,1,0
+train_1590,Donald J. Trump,153,1,1
+train_1591,Donald J. Trump,451,0,1
+train_1592,Donald J. Trump,451,1,1
+train_1593,Donald J. Trump,12,0,1
+train_1594,Donald J. Trump,652,0,1
+train_1595,Donald J. Trump,652,1,1
+train_1596,Donald J. Trump,652,1,1
+train_1597,Donald J. Trump,298,2,1
+train_1598,Donald J. Trump,66,1,1
+train_1599,Donald J. Trump,66,1,1
+train_1600,Donald J. Trump,66,1,1
+train_1601,Donald J. Trump,12,0,1
+train_1602,Donald J. Trump,253,0,1
+train_1603,Donald J. Trump,253,1,1
+train_1604,Donald J. Trump,106,1,0
+train_1605,Donald J. Trump,59,2,1
+train_1606,Donald J. Trump,59,1,2
+train_1607,Donald J. Trump,122,1,1
+train_1608,Donald J. Trump,151,0,1
+train_1609,Donald J. Trump,27,1,1
+train_1610,Donald J. Trump,430,1,1
+train_1611,Donald J. Trump,106,1,1
+train_1612,Donald J. Trump,51,2,2
+train_1613,Donald J. Trump,51,1,2
+train_1614,Donald J. Trump,297,1,1
+train_1615,Donald J. Trump,297,1,1
+train_1616,Donald J. Trump,308,1,1
+train_1617,Donald J. Trump,841,1,1
+train_1618,Donald J. Trump,841,1,1
+train_1619,Donald J. Trump,1059,1,1
+train_1620,Donald J. Trump,1059,1,1
+train_1621,Donald J. Trump,1059,1,1
+train_1622,Donald J. Trump,1059,1,1
+train_1623,Donald J. Trump,348,1,1
+train_1624,Donald J. Trump,348,2,1
+train_1625,Donald J. Trump,527,0,1
+train_1626,Donald J. Trump,527,0,1
+train_1627,Donald J. Trump,527,0,1
+train_1628,Donald J. Trump,527,1,1
+train_1629,Donald J. Trump,527,1,1
+train_1630,Donald J. Trump,527,1,1
+train_1631,Donald J. Trump,1025,1,1
+train_1632,Donald J. Trump,1025,1,1
+train_1633,Donald J. Trump,1025,1,1
+train_1634,Donald J. Trump,370,0,1
+train_1635,Donald J. Trump,370,1,1
+train_1636,Donald J. Trump,199,0,1
+train_1637,Donald J. Trump,199,1,1
+train_1638,Donald J. Trump,199,1,1
+train_1639,Donald J. Trump,2,2,0
+train_1640,Donald J. Trump,181,0,0
+train_1641,Donald J. Trump,79,1,0
+train_1642,Donald J. Trump,79,1,0
+train_1643,Donald J. Trump,471,1,1
+train_1644,Donald J. Trump,377,1,1
+train_1645,Donald J. Trump,303,0,1
+train_1646,Donald J. Trump,303,1,1
+train_1647,Donald J. Trump,303,0,1
+train_1648,Donald J. Trump,530,1,1
+train_1649,Donald J. Trump,140,0,1
+train_1650,Donald J. Trump,140,0,0
+train_1651,Donald J. Trump,140,1,0
+train_1652,Donald J. Trump,11,2,1
+train_1653,Donald J. Trump,11,1,1
+train_1654,Donald J. Trump,306,1,1
+train_1655,Donald J. Trump,229,1,1
+train_1656,Donald J. Trump,229,1,1
+train_1657,Donald J. Trump,229,1,1
+train_1658,Donald J. Trump,401,1,1
+train_1659,Donald J. Trump,401,1,1
+train_1660,Donald J. Trump,4,1,1
+train_1661,Donald J. Trump,174,0,1
+train_1662,Donald J. Trump,172,0,1
+train_1663,Donald J. Trump,420,1,1
+train_1664,Donald J. Trump,44,0,0
+train_1665,Donald J. Trump,206,2,1
+train_1666,Donald J. Trump,206,1,1
+train_1667,Donald J. Trump,6,2,2
+train_1668,Donald J. Trump,192,1,1
+train_1669,Donald J. Trump,192,1,1
+train_1670,Donald J. Trump,571,0,1
+train_1671,Donald J. Trump,571,1,1
+train_1672,Donald J. Trump,270,1,1
+train_1673,Donald J. Trump,270,1,1
+train_1674,Donald J. Trump,243,1,1
+train_1675,Donald J. Trump,243,1,1
+train_1676,Donald J. Trump,243,1,1
+train_1677,Donald J. Trump,869,1,1
+train_1678,Donald J. Trump,869,1,1
+train_1679,Donald J. Trump,869,1,1
+train_1680,Donald J. Trump,12,0,0
+train_1681,Donald J. Trump,25,1,0
+train_1682,Donald J. Trump,5,1,1
+train_1683,Donald J. Trump,2,0,0
+train_1684,Donald J. Trump,224,0,1
+train_1685,Donald J. Trump,224,1,0
+train_1686,Donald J. Trump,309,1,1
+train_1687,Donald J. Trump,206,1,1
+train_1688,Donald J. Trump,206,1,1
+train_1689,Donald J. Trump,303,1,1
+train_1690,Donald J. Trump,8,1,2
+train_1691,Donald J. Trump,301,1,1
+train_1692,Donald J. Trump,110,1,0
+train_1693,Donald J. Trump,214,1,1
+train_1694,Donald J. Trump,214,1,1
+train_1695,Donald J. Trump,36,0,0
+train_1696,Donald J. Trump,36,1,0
+train_1697,Donald J. Trump,45,1,1
+train_1698,Donald J. Trump,185,1,1
+train_1699,Donald J. Trump,85,1,1
+train_1700,Donald J. Trump,102,2,1
+train_1701,Donald J. Trump,66,1,1
+train_1702,Donald J. Trump,189,1,1
+train_1703,Donald J. Trump,14,0,2
+train_1704,Donald J. Trump,14,0,2
+train_1705,Donald J. Trump,9,1,0
+train_1706,Donald J. Trump,114,1,1
+train_1707,Donald J. Trump,34,0,1
+train_1708,Donald J. Trump,92,1,1
+train_1709,Donald J. Trump,15,0,2
+train_1710,Donald J. Trump,571,1,1
+train_1711,Donald J. Trump,571,1,1
+train_1712,Barack Obama,568,1,1
+train_1713,Barack Obama,568,1,1
+train_1714,Barack Obama,568,1,1
+train_1715,Barack Obama,568,1,1
+train_1716,Barack Obama,568,1,1
+train_1717,Barack Obama,568,2,1
+train_1718,Barack Obama,568,1,1
+train_1719,Barack Obama,568,1,1
+train_1720,Barack Obama,683,1,1
+train_1721,Barack Obama,683,1,1
+train_1722,Barack Obama,683,1,1
+train_1723,Barack Obama,683,1,1
+train_1724,Barack Obama,683,1,1
+train_1725,Barack Obama,683,1,1
+train_1726,Barack Obama,478,1,1
+train_1727,Barack Obama,478,1,1
+train_1728,Barack Obama,478,1,1
+train_1729,Barack Obama,440,1,1
+train_1730,Barack Obama,440,1,1
+train_1731,Barack Obama,440,1,1
+train_1732,Barack Obama,440,1,1
+train_1733,Barack Obama,579,0,1
+train_1734,Barack Obama,579,1,1
+train_1735,Barack Obama,579,1,1
+train_1736,Barack Obama,2117,1,1
+train_1737,Barack Obama,2117,1,1
+train_1738,Barack Obama,2117,1,1
+train_1739,Barack Obama,138,1,0
+train_1740,Barack Obama,418,1,1
+train_1741,Barack Obama,418,1,1
+train_1742,Barack Obama,418,1,1
+train_1743,Barack Obama,418,1,1
+train_1744,Barack Obama,515,0,1
+train_1745,Barack Obama,515,1,1
+train_1746,Barack Obama,61,1,0
+train_1747,Barack Obama,56,1,1
+train_1748,Barack Obama,56,1,1
+train_1749,Barack Obama,56,1,1
+train_1750,Barack Obama,56,1,1
+train_1751,Barack Obama,15,2,2
+train_1752,Barack Obama,448,1,1
+train_1753,Barack Obama,641,0,1
+train_1754,Barack Obama,641,1,1
+train_1755,Barack Obama,641,1,1
+train_1756,Barack Obama,641,0,1
+train_1757,Barack Obama,641,0,1
+train_1758,Barack Obama,641,1,1
+train_1759,Barack Obama,11,1,1
+train_1760,Barack Obama,11,1,2
+train_1761,Barack Obama,11,1,1
+train_1762,Barack Obama,11,1,1
+train_1763,Barack Obama,11,1,2
+train_1764,Barack Obama,1,1,1
+train_1765,Barack Obama,1,1,1
+train_1766,Barack Obama,1,1,0
+train_1767,Barack Obama,738,1,1
+train_1768,Barack Obama,712,0,1
+train_1769,Barack Obama,712,0,1
+train_1770,Barack Obama,712,0,1
+train_1771,Barack Obama,9,2,1
+train_1772,Barack Obama,9,1,1
+train_1773,Barack Obama,9,1,2
+train_1774,Barack Obama,178,1,1
+train_1775,Barack Obama,1086,0,1
+train_1776,Barack Obama,1086,1,1
+train_1777,Barack Obama,1208,1,1
+train_1778,Barack Obama,1208,1,1
+train_1779,Barack Obama,1208,2,1
+train_1780,Barack Obama,1465,1,1
+train_1781,Barack Obama,1465,1,1
+train_1782,Barack Obama,1465,0,1
+train_1783,Barack Obama,1465,1,1
+train_1784,Barack Obama,1465,1,1
+train_1785,Barack Obama,775,1,1
+train_1786,Barack Obama,775,1,1
+train_1787,Barack Obama,775,1,1
+train_1788,Barack Obama,775,1,1
+train_1789,Barack Obama,884,1,1
+train_1790,Barack Obama,884,1,1
+train_1791,Barack Obama,884,1,1
+train_1792,Barack Obama,884,1,1
+train_1793,Barack Obama,678,0,1
+train_1794,Barack Obama,678,1,1
+train_1795,Barack Obama,1170,0,1
+train_1796,Barack Obama,1170,0,1
+train_1797,Barack Obama,885,1,1
+train_1798,Barack Obama,885,0,1
+train_1799,Barack Obama,885,1,1
+train_1800,Barack Obama,863,1,1
+train_1801,Barack Obama,863,1,1
+train_1802,Barack Obama,863,1,1
+train_1803,Barack Obama,863,1,1
+train_1804,Barack Obama,863,0,1
+train_1805,Barack Obama,863,0,1
+train_1806,Barack Obama,863,1,1
+train_1807,Barack Obama,863,1,1
+train_1808,Barack Obama,542,0,1
+train_1809,Barack Obama,542,1,1
+train_1810,Barack Obama,542,0,1
+train_1811,Barack Obama,691,1,1
+train_1812,Barack Obama,691,1,1
+train_1813,Barack Obama,118,1,0
+train_1814,Barack Obama,640,1,1
+train_1815,Barack Obama,640,1,1
+train_1816,Barack Obama,868,0,1
+train_1817,Barack Obama,868,0,1
+train_1818,Barack Obama,247,1,1
+train_1819,Barack Obama,786,0,1
+train_1820,Barack Obama,786,0,1
+train_1821,Barack Obama,502,1,1
+train_1822,Barack Obama,502,1,1
+train_1823,Barack Obama,6,1,0
+train_1824,Barack Obama,6,1,0
+train_1825,Barack Obama,287,0,1
+train_1826,Barack Obama,287,0,1
+train_1827,Barack Obama,56,1,1
+train_1828,Barack Obama,525,0,1
+train_1829,Barack Obama,525,0,1
+train_1830,Barack Obama,525,0,1
+train_1831,Barack Obama,525,1,1
+train_1832,Barack Obama,1,1,0
+train_1833,Barack Obama,1,1,0
+train_1834,Barack Obama,1058,1,1
+train_1835,Barack Obama,687,0,1
+train_1836,Barack Obama,687,1,1
+train_1837,Barack Obama,11,2,0
+train_1838,Barack Obama,956,0,1
+train_1839,Barack Obama,956,0,1
+train_1840,Barack Obama,956,1,1
+train_1841,Barack Obama,406,0,1
+train_1842,Barack Obama,406,1,1
+train_1843,Barack Obama,406,0,1
+train_1844,Barack Obama,63,1,1
+train_1845,Barack Obama,63,2,1
+train_1846,Barack Obama,1,1,0
+train_1847,Barack Obama,1,1,1
+train_1848,Barack Obama,948,0,1
+train_1849,Barack Obama,948,1,1
+train_1850,Barack Obama,543,0,1
+train_1851,Barack Obama,909,0,1
+train_1852,Barack Obama,909,1,1
+train_1853,Barack Obama,1220,0,1
+train_1854,Barack Obama,1220,0,1
+train_1855,Barack Obama,1220,1,1
+train_1856,Barack Obama,1220,1,1
+train_1857,Barack Obama,851,0,1
+train_1858,Barack Obama,851,0,1
+train_1859,Barack Obama,851,0,1
+train_1860,Barack Obama,851,1,1
+train_1861,Barack Obama,851,1,1
+train_1862,Barack Obama,285,0,1
+train_1863,Barack Obama,285,1,0
+train_1864,Barack Obama,1224,1,1
+train_1865,Barack Obama,1224,1,1
+train_1866,Barack Obama,1224,1,1
+train_1867,Barack Obama,1667,1,1
+train_1868,Barack Obama,1667,1,1
+train_1869,Barack Obama,1667,1,1
+train_1870,Barack Obama,1060,0,1
+train_1871,Barack Obama,1060,0,1
+train_1872,Barack Obama,1060,1,1
+train_1873,Barack Obama,1060,1,1
+train_1874,Barack Obama,1060,2,1
+train_1875,Barack Obama,1060,1,1
+train_1876,Barack Obama,1060,1,1
+train_1877,Barack Obama,1060,1,1
+train_1878,Barack Obama,1060,0,1
+train_1879,Barack Obama,1060,1,1
+train_1880,Barack Obama,1060,1,1
+train_1881,Barack Obama,1060,1,1
+train_1882,Barack Obama,1060,1,1
+train_1883,Barack Obama,1060,1,1
+train_1884,Barack Obama,1156,1,1
+train_1885,Barack Obama,1156,1,1
+train_1886,Barack Obama,949,0,1
+train_1887,Barack Obama,635,1,1
+train_1888,Barack Obama,635,1,1
+train_1889,Barack Obama,601,0,1
+train_1890,Barack Obama,601,0,1
+train_1891,Barack Obama,601,1,1
+train_1892,Barack Obama,249,1,1
+train_1893,Barack Obama,286,0,1
+train_1894,Barack Obama,720,1,1
+train_1895,Barack Obama,720,0,1
+train_1896,Barack Obama,720,0,1
+train_1897,Barack Obama,720,1,1
+train_1898,Barack Obama,286,0,1
+train_1899,Barack Obama,729,1,1
+train_1900,Barack Obama,729,1,1
+train_1901,Barack Obama,729,1,1
+train_1902,Barack Obama,729,1,1
+train_1903,Barack Obama,502,1,1
+train_1904,Barack Obama,502,1,1
+train_1905,Barack Obama,502,1,1
+train_1906,Barack Obama,719,1,1
+train_1907,Barack Obama,719,1,1
+train_1908,Barack Obama,719,1,1
+train_1909,Barack Obama,1528,1,1
+train_1910,Barack Obama,1528,1,1
+train_1911,Barack Obama,1528,1,1
+train_1912,Barack Obama,607,0,1
+train_1913,Barack Obama,607,1,1
+train_1914,Barack Obama,822,2,1
+train_1915,Barack Obama,822,2,1
+train_1916,Barack Obama,818,0,1
+train_1917,Barack Obama,603,0,0
+train_1918,Barack Obama,603,1,1
+train_1919,Barack Obama,603,1,1
+train_1920,Barack Obama,1210,1,1
+train_1921,Barack Obama,1210,1,1
+train_1922,Barack Obama,1210,1,1
+train_1923,Barack Obama,1210,1,1
+train_1924,Barack Obama,662,1,1
+train_1925,Barack Obama,986,1,1
+train_1926,Barack Obama,665,0,0
+train_1927,Barack Obama,665,1,0
+train_1928,Barack Obama,351,0,1
+train_1929,Barack Obama,7,1,1
+train_1930,Barack Obama,7,1,0
+train_1931,Barack Obama,7,1,2
+train_1932,Barack Obama,7,1,1
+train_1933,Barack Obama,420,1,1
+train_1934,Barack Obama,175,0,1
+train_1935,Barack Obama,1359,1,1
+train_1936,Barack Obama,1003,0,1
+train_1937,Barack Obama,1003,0,1
+train_1938,Barack Obama,1003,1,1
+train_1939,Barack Obama,1003,1,1
+train_1940,Barack Obama,1003,1,1
+train_1941,Barack Obama,857,0,1
+train_1942,Barack Obama,1,1,0
+train_1943,Barack Obama,944,1,1
+train_1944,Barack Obama,944,1,1
+train_1945,Barack Obama,428,0,1
+train_1946,Barack Obama,428,1,1
+train_1947,Barack Obama,428,1,1
+train_1948,Barack Obama,381,1,1
+train_1949,Barack Obama,381,1,1
+train_1950,Barack Obama,1,0,0
+train_1951,Barack Obama,789,1,1
+train_1952,Barack Obama,3,0,0
+train_1953,Barack Obama,199,1,1
+train_1954,Barack Obama,199,1,1
+train_1955,Barack Obama,199,1,1
+train_1956,Barack Obama,199,1,1
+train_1957,Barack Obama,21,1,1
+train_1958,Barack Obama,553,1,1
+train_1959,Barack Obama,794,1,1
+train_1960,Barack Obama,794,1,1
+train_1961,Barack Obama,101,1,1
+train_1962,Barack Obama,616,1,1
+train_1963,Barack Obama,616,1,1
+train_1964,Barack Obama,1037,2,1
+train_1965,Barack Obama,1037,2,1
+train_1966,Barack Obama,1037,2,1
+train_1967,Barack Obama,1037,2,1
+train_1968,Barack Obama,1,1,0
+train_1969,Barack Obama,1,1,0
+train_1970,Barack Obama,340,1,1
+train_1971,Barack Obama,1348,0,1
+train_1972,Barack Obama,508,1,1
+train_1973,Barack Obama,508,1,1
+train_1974,Barack Obama,508,2,1
+train_1975,Barack Obama,677,1,1
+train_1976,Barack Obama,677,1,1
+train_1977,Barack Obama,7,0,2
+train_1978,Barack Obama,1006,1,1
+train_1979,Barack Obama,1006,1,1
+train_1980,Barack Obama,1006,1,1
+train_1981,Barack Obama,647,1,1
+train_1982,Barack Obama,647,0,1
+train_1983,Barack Obama,647,0,1
+train_1984,Barack Obama,1143,1,1
+train_1985,Barack Obama,1143,1,1
+train_1986,Barack Obama,87,0,1
+train_1987,Barack Obama,307,1,1
+train_1988,Barack Obama,981,1,1
+train_1989,Barack Obama,981,0,1
+train_1990,Barack Obama,981,1,1
+train_1991,Barack Obama,555,0,1
+train_1992,Barack Obama,555,0,1
+train_1993,Barack Obama,304,2,1
+train_1994,Barack Obama,21,2,1
+train_1995,Barack Obama,21,2,2
+train_1996,Barack Obama,21,2,1
+train_1997,Barack Obama,148,1,1
+train_1998,Barack Obama,148,1,0
+train_1999,Barack Obama,148,1,1
+train_2000,Barack Obama,148,1,1
+train_2001,Barack Obama,481,1,1
+train_2002,Barack Obama,481,1,1
+train_2003,Barack Obama,614,0,1
+train_2004,Barack Obama,614,1,1
+train_2005,Barack Obama,614,1,1
+train_2006,Barack Obama,13,1,1
+train_2007,Barack Obama,1026,0,1
+train_2008,Barack Obama,343,0,1
+train_2009,Barack Obama,343,0,1
+train_2010,Barack Obama,343,0,1
+train_2011,Barack Obama,343,1,1
+train_2012,Barack Obama,343,1,1
+train_2013,Barack Obama,127,1,1
+train_2014,Barack Obama,9,0,2
+train_2015,Barack Obama,354,0,1
+train_2016,Barack Obama,417,0,1
+train_2017,Barack Obama,417,1,1
+train_2018,Barack Obama,417,1,1
+train_2019,Barack Obama,95,0,1
+train_2020,Barack Obama,342,0,1
+train_2021,Barack Obama,342,0,1
+train_2022,Barack Obama,1,1,0
+train_2023,Barack Obama,75,0,0
+train_2024,Barack Obama,1003,0,1
+train_2025,Barack Obama,511,1,1
+train_2026,Barack Obama,511,1,1
+train_2027,Barack Obama,360,1,1
+train_2028,Barack Obama,817,0,1
+train_2029,Barack Obama,817,1,1
+train_2030,Barack Obama,817,1,1
+train_2031,Barack Obama,817,1,1
+train_2032,Barack Obama,817,1,1
+train_2033,Barack Obama,44,2,0
+train_2034,Barack Obama,44,2,1
+train_2035,Barack Obama,230,1,0
+train_2036,Barack Obama,95,1,1
+train_2037,Barack Obama,220,1,0
+train_2038,Barack Obama,315,0,0
+train_2039,Barack Obama,1,1,0
+train_2040,Barack Obama,1,1,0
+train_2041,Barack Obama,488,1,1
+train_2042,Barack Obama,73,0,0
+train_2043,Barack Obama,111,2,1
+train_2044,Barack Obama,469,1,1
+train_2045,Barack Obama,469,1,1
+train_2046,Barack Obama,469,0,1
+train_2047,Barack Obama,469,1,1
+train_2048,Barack Obama,455,1,1
+train_2049,Barack Obama,455,1,1
+train_2050,Barack Obama,455,1,1
+train_2051,Barack Obama,292,1,1
+train_2052,Barack Obama,292,1,1
+train_2053,Barack Obama,150,1,1
+train_2054,Barack Obama,150,1,1
+train_2055,Barack Obama,150,1,1
+train_2056,Barack Obama,327,1,1
+train_2057,Barack Obama,327,1,1
+train_2058,Barack Obama,31,2,2
+train_2059,Barack Obama,506,0,1
+train_2060,Barack Obama,506,1,1
+train_2061,Barack Obama,506,1,1
+train_2062,Barack Obama,129,1,1
+train_2063,Barack Obama,31,2,0
+train_2064,Barack Obama,355,2,1
+train_2065,Barack Obama,160,1,1
+train_2066,Barack Obama,785,0,1
+train_2067,Barack Obama,623,1,1
+train_2068,Barack Obama,623,1,1
+train_2069,Barack Obama,3,2,1
+train_2070,Barack Obama,229,1,1
+train_2071,Barack Obama,441,1,1
+train_2072,Barack Obama,688,0,1
+train_2073,Barack Obama,688,1,1
+train_2074,Barack Obama,7,1,2
+train_2075,Barack Obama,7,1,1
+train_2076,Barack Obama,7,1,1
+train_2077,Barack Obama,7,1,0
+train_2078,Barack Obama,444,1,1
+train_2079,Barack Obama,444,1,1
+train_2080,Barack Obama,444,1,1
+train_2081,Barack Obama,444,2,1
+train_2082,Barack Obama,272,1,1
+train_2083,Barack Obama,1011,1,1
+train_2084,Barack Obama,1011,1,1
+train_2085,Barack Obama,439,1,1
+train_2086,Barack Obama,439,1,1
+train_2087,Barack Obama,690,1,1
+train_2088,Barack Obama,446,1,1
+train_2089,Barack Obama,446,0,1
+train_2090,Barack Obama,446,1,1
+train_2091,Barack Obama,728,1,1
+train_2092,Barack Obama,728,1,1
+train_2093,Barack Obama,4,1,2
+train_2094,Barack Obama,1034,1,1
+train_2095,Barack Obama,274,0,1
+train_2096,Barack Obama,274,1,1
+train_2097,Barack Obama,720,0,1
+train_2098,Barack Obama,720,1,1
+train_2099,Barack Obama,720,1,1
+train_2100,Barack Obama,720,1,1
+train_2101,Barack Obama,804,1,1
+train_2102,Barack Obama,4,2,2
+train_2103,Barack Obama,1,0,0
+train_2104,Barack Obama,619,1,1
+train_2105,Barack Obama,619,1,1
+train_2106,Barack Obama,24,1,1
+train_2107,Barack Obama,697,0,1
+train_2108,Barack Obama,451,1,1
+train_2109,Barack Obama,451,1,1
+train_2110,Barack Obama,193,1,1
+train_2111,Barack Obama,193,1,1
+train_2112,Barack Obama,662,1,1
+train_2113,Barack Obama,662,1,1
+train_2114,Barack Obama,662,1,1
+train_2115,Barack Obama,662,1,1
+train_2116,Barack Obama,662,1,1
+train_2117,Barack Obama,837,1,1
+train_2118,Barack Obama,837,0,1
+train_2119,Barack Obama,540,0,1
+train_2120,Barack Obama,151,1,1
+train_2121,Barack Obama,682,0,1
+train_2122,Barack Obama,682,1,1
+train_2123,Barack Obama,682,1,1
+train_2124,Barack Obama,636,0,1
+train_2125,Barack Obama,636,1,1
+train_2126,Barack Obama,1302,1,1
+train_2127,Barack Obama,1302,0,1
+train_2128,Barack Obama,347,1,1
+train_2129,Barack Obama,263,1,1
+train_2130,Barack Obama,776,1,1
+train_2131,Barack Obama,776,1,1
+train_2132,Barack Obama,395,1,1
+train_2133,Barack Obama,395,1,1
+train_2134,Barack Obama,11,1,1
+train_2135,Barack Obama,9,2,1
+train_2136,Barack Obama,446,0,1
+train_2137,Barack Obama,18,0,1
+train_2138,Barack Obama,23,1,1
+train_2139,Barack Obama,7,0,0
+train_2140,Barack Obama,213,0,1
+train_2141,Barack Obama,112,0,1
+train_2142,Barack Obama,2,0,1
+train_2143,Barack Obama,14,1,1
+train_2144,Barack Obama,14,1,1
+train_2145,Barack Obama,14,1,1
+train_2146,Barack Obama,14,1,1
+train_2147,Barack Obama,14,1,1
+train_2148,Barack Obama,14,1,1
+train_2149,Barack Obama,453,1,1
+train_2150,Barack Obama,453,0,1
+train_2151,Barack Obama,205,1,1
+train_2152,Barack Obama,336,1,1
+train_2153,Barack Obama,446,1,1
+train_2154,Barack Obama,446,1,1
+train_2155,Barack Obama,446,1,1
+train_2156,Barack Obama,314,1,1
+train_2157,Barack Obama,314,1,1
+train_2158,Barack Obama,314,1,1
+train_2159,Barack Obama,191,1,1
+train_2160,Barack Obama,191,1,1
+train_2161,Barack Obama,191,1,1
+train_2162,Barack Obama,191,1,1
+train_2163,Barack Obama,260,1,1
+train_2164,Barack Obama,2,2,2
+train_2165,Barack Obama,11,0,1
+train_2166,Barack Obama,596,1,1
+train_2167,Barack Obama,1,0,0
+train_2168,Barack Obama,418,0,1
+train_2169,Barack Obama,38,1,1
+train_2170,Barack Obama,181,0,1
+train_2171,Barack Obama,18,2,2
+train_2172,Barack Obama,244,0,1
+train_2173,Barack Obama,244,0,1
+train_2174,Barack Obama,181,1,1
+train_2175,Barack Obama,361,0,1
+train_2176,Barack Obama,361,2,1
+train_2177,Barack Obama,145,1,1
+train_2178,Barack Obama,47,1,1
+train_2179,Barack Obama,603,1,1
+train_2180,Barack Obama,603,1,1
+train_2181,Barack Obama,379,0,1
+train_2182,Barack Obama,379,1,1
+train_2183,Barack Obama,12,2,0
+train_2184,Barack Obama,58,1,1
+train_2185,Barack Obama,786,1,1
+train_2186,Barack Obama,205,1,1
+train_2187,Barack Obama,13,0,0
+train_2188,Barack Obama,558,0,1
+train_2189,Barack Obama,284,0,1
+train_2190,Barack Obama,350,1,1
+train_2191,Barack Obama,611,1,1
+train_2192,Barack Obama,611,1,1
+train_2193,Barack Obama,611,1,1
+train_2194,Barack Obama,611,1,1
+train_2195,Barack Obama,507,1,1
+train_2196,Barack Obama,507,2,1
+train_2197,Barack Obama,507,1,1
+train_2198,Barack Obama,507,2,1
+train_2199,Barack Obama,241,0,1
+train_2200,Barack Obama,241,1,1
+train_2201,Barack Obama,546,0,1
+train_2202,Barack Obama,546,2,1
+train_2203,Barack Obama,546,2,1
+train_2204,Barack Obama,546,1,1
+train_2205,Barack Obama,791,0,1
+train_2206,Barack Obama,791,1,1
+train_2207,Barack Obama,791,1,1
+train_2208,Barack Obama,566,0,1
+train_2209,Barack Obama,566,1,1
+train_2210,Barack Obama,566,0,1
+train_2211,Barack Obama,566,2,1
+train_2212,Barack Obama,398,1,1
+train_2213,Barack Obama,519,0,1
+train_2214,Barack Obama,519,0,1
+train_2215,Barack Obama,519,0,1
+train_2216,Barack Obama,519,1,1
+train_2217,Barack Obama,144,0,1
+train_2218,Barack Obama,91,2,1
+train_2219,Barack Obama,584,0,1
+train_2220,Barack Obama,584,1,1
+train_2221,Barack Obama,307,0,1
+train_2222,Barack Obama,307,1,1
+train_2223,Barack Obama,49,1,1
+train_2224,Barack Obama,304,1,1
+train_2225,Barack Obama,9,1,1
+train_2226,Barack Obama,105,1,1
+train_2227,Barack Obama,890,1,1
+train_2228,Barack Obama,890,1,1
+train_2229,Barack Obama,224,0,1
+train_2230,Barack Obama,109,2,1
+train_2231,Barack Obama,241,1,0
+train_2232,Barack Obama,240,0,1
+train_2233,Barack Obama,683,0,1
+train_2234,Barack Obama,465,1,1
+train_2235,Barack Obama,471,1,1
+train_2236,Barack Obama,242,1,1
+train_2237,Barack Obama,331,1,1
+train_2238,Barack Obama,303,0,1
+train_2239,Barack Obama,156,0,0
+train_2240,Barack Obama,87,2,1
+train_2241,Barack Obama,621,0,1
+train_2242,Barack Obama,621,1,1
+train_2243,Barack Obama,939,1,1
+train_2244,Barack Obama,939,1,1
+train_2245,Barack Obama,939,1,1
+train_2246,Barack Obama,323,1,1
+train_2247,Barack Obama,323,1,1
+train_2248,Barack Obama,379,1,1
+train_2249,Barack Obama,379,1,1
+train_2250,Barack Obama,321,0,1
+train_2251,Barack Obama,303,0,1
+train_2252,Barack Obama,240,1,1
+train_2253,Barack Obama,195,1,1
+train_2254,Barack Obama,233,1,1
+train_2255,Barack Obama,233,1,1
+train_2256,Barack Obama,126,1,1
+train_2257,Barack Obama,126,1,1
+train_2258,Barack Obama,400,1,1
+train_2259,Barack Obama,449,1,1
+train_2260,Barack Obama,118,1,1
+train_2261,Barack Obama,405,1,1
+train_2262,Barack Obama,85,0,0
+train_2263,Barack Obama,85,1,0
+train_2264,Barack Obama,85,1,0
+train_2265,Barack Obama,301,1,1
+train_2266,Barack Obama,580,0,1
+train_2267,Barack Obama,590,0,1
+train_2268,Barack Obama,590,1,1
+train_2269,Barack Obama,51,2,1
+train_2270,Barack Obama,473,1,1
+train_2271,Barack Obama,473,1,1
+train_2272,Barack Obama,414,1,1
+train_2273,Barack Obama,414,1,1
+train_2274,Barack Obama,30,2,1
+train_2275,Barack Obama,629,1,1
+train_2276,Barack Obama,629,1,1
+train_2277,Barack Obama,70,1,0
+train_2278,Barack Obama,329,1,1
+train_2279,Barack Obama,329,1,1
+train_2280,Barack Obama,358,1,1
+train_2281,Barack Obama,358,1,1
+train_2282,Barack Obama,523,2,1
+train_2283,Barack Obama,523,1,1
+train_2284,Barack Obama,328,0,1
+train_2285,Barack Obama,328,1,1
+train_2286,Barack Obama,328,0,1
+train_2287,Barack Obama,328,1,1
+train_2288,Barack Obama,328,1,1
+train_2289,Barack Obama,734,0,1
+train_2290,Barack Obama,734,0,1
+train_2291,Barack Obama,1149,1,1
+train_2292,Barack Obama,1149,1,1
+train_2293,Barack Obama,1149,1,1
+train_2294,Barack Obama,343,1,1
+train_2295,Barack Obama,382,1,1
+train_2296,Barack Obama,382,1,1
+train_2297,Barack Obama,382,1,1
+train_2298,Barack Obama,382,2,1
+train_2299,Barack Obama,495,0,1
+train_2300,Barack Obama,495,1,1
+train_2301,Barack Obama,495,1,1
+train_2302,Barack Obama,299,1,1
+train_2303,Barack Obama,169,0,1
+train_2304,Donald J. Trump,196,2,1
+train_2305,Donald J. Trump,65,1,1
+train_2306,Donald J. Trump,32,1,1
+train_2307,Donald J. Trump,40,2,0
+train_2308,Donald J. Trump,7,0,0
+train_2309,Donald J. Trump,140,0,1
+train_2310,Donald J. Trump,9,1,2
+train_2311,Donald J. Trump,54,0,1
+train_2312,Donald J. Trump,727,1,1
+train_2313,Donald J. Trump,727,1,1
+train_2314,Donald J. Trump,727,1,1
+train_2315,Donald J. Trump,12,1,1
+train_2316,Barack Obama,380,1,1
+train_2317,Barack Obama,811,1,1
+train_2318,Barack Obama,811,0,1
+train_2319,Barack Obama,11,2,2
+train_2320,Barack Obama,11,2,2
+train_2321,Barack Obama,11,2,2
+train_2322,Barack Obama,11,2,2
+train_2323,Barack Obama,391,1,1
+train_2324,Barack Obama,266,0,1
+train_2325,Barack Obama,266,2,1
+train_2326,Barack Obama,266,1,1
+train_2327,Barack Obama,266,1,1
+train_2328,Barack Obama,641,1,1
+train_2329,Barack Obama,641,1,1
+train_2330,Barack Obama,641,1,1
+train_2331,Barack Obama,305,2,0
+train_2332,Barack Obama,305,1,1
+train_2333,Barack Obama,305,1,1
+train_2334,Barack Obama,1068,1,1
+train_2335,Barack Obama,504,1,1
+train_2336,Barack Obama,1142,0,1
+train_2337,Barack Obama,1142,1,1
+train_2338,Barack Obama,1142,1,1
+train_2339,Barack Obama,10,1,1
+train_2340,Barack Obama,728,0,1
+train_2341,Barack Obama,728,1,1
+train_2342,Barack Obama,395,1,1
+train_2343,Barack Obama,395,1,1
+train_2344,Barack Obama,10,2,0
+train_2345,Barack Obama,603,1,1
+train_2346,Barack Obama,343,0,1
+train_2347,Barack Obama,343,0,1
+train_2348,Barack Obama,498,1,1
+train_2349,Barack Obama,498,1,1
+train_2350,Barack Obama,71,1,1
+train_2351,Barack Obama,257,0,1
+train_2352,Barack Obama,257,2,1
+train_2353,Barack Obama,334,1,1
+train_2354,Barack Obama,334,1,1
+train_2355,Barack Obama,727,1,1
+train_2356,Barack Obama,578,1,1
+train_2357,Barack Obama,578,1,1
+train_2358,Barack Obama,271,1,0
+train_2359,Barack Obama,271,1,0
+train_2360,Barack Obama,597,0,1
+train_2361,Barack Obama,597,1,0
+train_2362,Barack Obama,248,1,1
+train_2363,Barack Obama,389,1,1
+train_2364,Barack Obama,91,1,1
+train_2365,Barack Obama,4,1,2
+train_2366,Barack Obama,245,1,1
+train_2367,Barack Obama,245,1,1
+train_2368,Barack Obama,305,1,1
+train_2369,Barack Obama,305,1,1
+train_2370,Barack Obama,290,1,1
+train_2371,Barack Obama,494,1,1
+train_2372,Barack Obama,494,1,1
+train_2373,Barack Obama,494,2,1
+train_2374,Barack Obama,91,1,1
+train_2375,Barack Obama,835,1,1
+train_2376,Barack Obama,835,1,1
+train_2377,Barack Obama,835,1,1
+train_2378,Barack Obama,588,0,1
+train_2379,Barack Obama,588,1,1
+train_2380,Barack Obama,588,1,1
+train_2381,Barack Obama,588,1,1
+train_2382,Barack Obama,588,1,1
+train_2383,Barack Obama,496,1,1
+train_2384,Barack Obama,171,1,1
+train_2385,Barack Obama,654,1,1
+train_2386,Barack Obama,654,0,1
+train_2387,Barack Obama,654,1,1
+train_2388,Barack Obama,410,1,1
+train_2389,Barack Obama,410,1,1
+train_2390,Barack Obama,838,2,1
+train_2391,Barack Obama,468,1,1
+train_2392,Barack Obama,241,1,1
+train_2393,Barack Obama,241,1,1
+train_2394,Barack Obama,496,1,1
+train_2395,Barack Obama,496,1,1
+train_2396,Barack Obama,84,1,1
+train_2397,Barack Obama,223,1,1
+train_2398,Barack Obama,1114,1,1
+train_2399,Barack Obama,1114,1,1
+train_2400,Barack Obama,121,1,1
+train_2401,Barack Obama,186,0,1
+train_2402,Barack Obama,532,1,1
+train_2403,Barack Obama,169,1,1
+train_2404,Barack Obama,925,0,1
+train_2405,Barack Obama,925,1,1
+train_2406,Barack Obama,925,1,1
+train_2407,Barack Obama,925,1,1
+train_2408,Barack Obama,310,0,1
+train_2409,Barack Obama,310,1,1
+train_2410,Barack Obama,388,0,1
+train_2411,Barack Obama,388,1,1
+train_2412,Barack Obama,142,1,1
+train_2413,Barack Obama,956,1,1
+train_2414,Barack Obama,956,1,1
+train_2415,Barack Obama,212,1,1
+train_2416,Barack Obama,131,1,1
+train_2417,Barack Obama,318,1,1
+train_2418,Barack Obama,8,2,2
+train_2419,Barack Obama,16,1,1
+train_2420,Barack Obama,16,1,1
+train_2421,Barack Obama,16,1,1
+train_2422,Barack Obama,190,0,1
+train_2423,Barack Obama,190,1,1
+train_2424,Barack Obama,247,1,1
+train_2425,Barack Obama,118,0,1
+train_2426,Barack Obama,530,1,1
+train_2427,Barack Obama,807,1,1
+train_2428,Barack Obama,807,1,1
+train_2429,Barack Obama,807,1,1
+train_2430,Barack Obama,321,1,1
+train_2431,Barack Obama,13,1,1
+train_2432,Barack Obama,133,2,1
+train_2433,Barack Obama,133,1,1
+train_2434,Barack Obama,98,1,1
+train_2435,Barack Obama,872,1,1
+train_2436,Barack Obama,872,2,1
+train_2437,Barack Obama,786,1,1
+train_2438,Barack Obama,786,0,1
+train_2439,Barack Obama,12,1,0
+train_2440,Barack Obama,524,2,1
+train_2441,Barack Obama,524,2,1
+train_2442,Barack Obama,524,1,1
+train_2443,Barack Obama,99,1,0
+train_2444,Barack Obama,108,1,1
+train_2445,Barack Obama,347,0,1
+train_2446,Barack Obama,347,1,1
+train_2447,Barack Obama,258,2,1
+train_2448,Barack Obama,428,1,1
+train_2449,Barack Obama,33,1,1
+train_2450,Barack Obama,13,2,2
+train_2451,Barack Obama,13,2,1
+train_2452,Barack Obama,440,1,1
+train_2453,Barack Obama,440,2,1
+train_2454,Barack Obama,597,1,1
+train_2455,Barack Obama,597,1,1
+train_2456,Barack Obama,178,1,1
+train_2457,Barack Obama,788,1,1
+train_2458,Barack Obama,589,1,1
+train_2459,Barack Obama,589,1,1
+train_2460,Barack Obama,497,1,1
+train_2461,Barack Obama,497,1,1
+train_2462,Barack Obama,289,1,1
+train_2463,Barack Obama,289,1,1
+train_2464,Barack Obama,38,1,1
+train_2465,Barack Obama,38,1,1
+train_2466,Barack Obama,38,1,1
+train_2467,Barack Obama,38,1,0
+train_2468,Barack Obama,437,0,1
+train_2469,Barack Obama,1407,1,1
+train_2470,Barack Obama,1407,0,1
+train_2471,Barack Obama,1407,2,1
+train_2472,Barack Obama,1407,1,1
+train_2473,Barack Obama,470,1,1
+train_2474,Barack Obama,470,1,1
+train_2475,Barack Obama,11,2,2
+train_2476,Barack Obama,120,1,1
+train_2477,Barack Obama,120,1,1
+train_2478,Barack Obama,120,1,1
+train_2479,Barack Obama,385,0,1
+train_2480,Barack Obama,385,1,1
+train_2481,Barack Obama,14,1,2
+train_2482,Barack Obama,303,0,0
+train_2483,Barack Obama,303,0,0
+train_2484,Barack Obama,670,0,1
+train_2485,Barack Obama,533,1,1
+train_2486,Barack Obama,356,0,1
+train_2487,Barack Obama,436,0,1
+train_2488,Barack Obama,436,1,1
+train_2489,Barack Obama,224,0,1
+train_2490,Barack Obama,26,2,0
+train_2491,Barack Obama,368,0,1
+train_2492,Barack Obama,368,1,1
+train_2493,Barack Obama,488,1,1
+train_2494,Barack Obama,18,2,1
+train_2495,Barack Obama,18,2,1
+train_2496,Barack Obama,18,2,1
+train_2497,Barack Obama,673,1,1
+train_2498,Barack Obama,269,1,1
+train_2499,Barack Obama,269,1,1
+train_2500,Barack Obama,387,0,1
+train_2501,Barack Obama,387,1,1
+train_2502,Barack Obama,387,1,1
+train_2503,Barack Obama,47,1,1
+train_2504,Barack Obama,497,0,1
+train_2505,Barack Obama,497,1,1
+train_2506,Barack Obama,295,1,1
+train_2507,Barack Obama,597,1,1
+train_2508,Barack Obama,640,1,1
+train_2509,Barack Obama,215,1,1
+train_2510,Barack Obama,215,1,1
+train_2511,Barack Obama,480,1,1
+train_2512,Barack Obama,480,1,1
+train_2513,Barack Obama,115,1,1
+train_2514,Barack Obama,110,0,0
+train_2515,Barack Obama,481,0,1
+train_2516,Barack Obama,21,1,0
+train_2517,Barack Obama,21,1,0
+train_2518,Barack Obama,831,0,1
+train_2519,Barack Obama,267,1,1
+train_2520,Barack Obama,291,1,1
+train_2521,Barack Obama,291,0,1
+train_2522,Barack Obama,347,1,1
+train_2523,Barack Obama,347,1,1
+train_2524,Barack Obama,509,0,1
+train_2525,Barack Obama,509,0,1
+train_2526,Barack Obama,509,1,1
+train_2527,Barack Obama,509,1,1
+train_2528,Barack Obama,132,0,1
+train_2529,Barack Obama,18,1,0
+train_2530,Barack Obama,305,0,1
+train_2531,Barack Obama,477,1,1
+train_2532,Barack Obama,477,1,1
+train_2533,Barack Obama,477,1,1
+train_2534,Barack Obama,706,1,1
+train_2535,Barack Obama,706,0,1
+train_2536,Barack Obama,706,1,1
+train_2537,Barack Obama,263,0,1
+train_2538,Barack Obama,419,1,1
+train_2539,Barack Obama,419,1,1
+train_2540,Barack Obama,539,1,1
+train_2541,Barack Obama,185,1,1
+train_2542,Barack Obama,448,1,0
+train_2543,Barack Obama,565,1,1
+train_2544,Barack Obama,565,1,1
+train_2545,Barack Obama,345,1,1
+train_2546,Barack Obama,345,1,1
+train_2547,Barack Obama,99,0,1
+train_2548,Barack Obama,501,0,1
+train_2549,Barack Obama,501,1,1
+train_2550,Barack Obama,501,1,1
+train_2551,Barack Obama,501,1,1
+train_2552,Barack Obama,5,0,0
+train_2553,Barack Obama,388,1,1
+train_2554,Barack Obama,388,1,1
+train_2555,Barack Obama,388,1,1
+train_2556,Barack Obama,360,0,1
+train_2557,Barack Obama,128,1,1
+train_2558,Barack Obama,708,1,1
+train_2559,Barack Obama,708,1,1
+train_2560,Barack Obama,344,1,1
+train_2561,Barack Obama,35,1,1
+train_2562,Barack Obama,497,1,1
+train_2563,Barack Obama,497,1,1
+train_2564,Barack Obama,385,1,1
+train_2565,Barack Obama,694,1,1
+train_2566,Barack Obama,694,1,1
+train_2567,Barack Obama,941,1,1
+train_2568,Barack Obama,941,1,1
+train_2569,Barack Obama,441,1,1
+train_2570,Barack Obama,441,1,1
+train_2571,Barack Obama,441,1,1
+train_2572,Barack Obama,441,1,1
+train_2573,Barack Obama,131,1,1
+train_2574,Barack Obama,131,1,1
+train_2575,Barack Obama,340,1,1
+train_2576,Barack Obama,340,1,1
+train_2577,Barack Obama,620,0,1
+train_2578,Barack Obama,620,1,1
+train_2579,Barack Obama,620,1,1
+train_2580,Barack Obama,602,1,1
+train_2581,Barack Obama,602,1,1
+train_2582,Barack Obama,432,0,1
+train_2583,Barack Obama,432,1,1
+train_2584,Barack Obama,432,1,1
+train_2585,Barack Obama,317,0,1
+train_2586,Barack Obama,317,2,1
+train_2587,Barack Obama,265,1,1
+train_2588,Barack Obama,665,1,1
+train_2589,Barack Obama,665,1,1
+train_2590,Barack Obama,226,0,1
+train_2591,Barack Obama,226,0,1
+train_2592,Barack Obama,562,1,1
+train_2593,Barack Obama,15,2,2
+train_2594,Barack Obama,543,1,1
+train_2595,Barack Obama,271,1,1
+train_2596,Barack Obama,5,0,0
+train_2597,Barack Obama,205,0,1
+train_2598,Barack Obama,514,2,1
+train_2599,Barack Obama,208,1,0
+train_2600,Barack Obama,208,1,0
+train_2601,Barack Obama,238,1,1
+train_2602,Barack Obama,238,1,1
+train_2603,Barack Obama,132,1,0
+train_2604,Barack Obama,150,1,1
+train_2605,Barack Obama,150,1,1
+train_2606,Barack Obama,263,0,1
+train_2607,Barack Obama,263,1,1
+train_2608,Barack Obama,725,1,1
+train_2609,Barack Obama,180,1,1
+train_2610,Barack Obama,515,1,1
+train_2611,Barack Obama,305,1,1
+train_2612,Barack Obama,95,1,1
+train_2613,Barack Obama,95,1,1
+train_2614,Barack Obama,307,1,1
+train_2615,Barack Obama,268,0,1
+train_2616,Barack Obama,45,1,1
+train_2617,Barack Obama,45,1,1
+train_2618,Barack Obama,59,2,1
+train_2619,Barack Obama,59,2,1
+train_2620,Barack Obama,38,1,0
+train_2621,Barack Obama,12,2,2
+train_2622,Barack Obama,25,2,2
+train_2623,Barack Obama,25,2,1
+train_2624,Barack Obama,25,2,2
+train_2625,Barack Obama,469,0,1
+train_2626,Barack Obama,469,0,1
+train_2627,Barack Obama,469,0,1
+train_2628,Barack Obama,2,0,0
+train_2629,Barack Obama,2,1,0
+train_2630,Barack Obama,343,0,1
+train_2631,Barack Obama,343,1,1
+train_2632,Barack Obama,204,1,1
+train_2633,Barack Obama,92,1,1
+train_2634,Barack Obama,92,1,1
+train_2635,Barack Obama,132,0,1
+train_2636,Barack Obama,132,1,1
+train_2637,Barack Obama,2,2,2
+train_2638,Barack Obama,262,0,1
+train_2639,Barack Obama,262,0,1
+train_2640,Barack Obama,1,0,0
+train_2641,Barack Obama,26,1,1
+train_2642,Barack Obama,17,2,1
+train_2643,Barack Obama,17,2,2
+train_2644,Barack Obama,69,1,1
+train_2645,Barack Obama,142,1,1
+train_2646,Barack Obama,235,1,1
+train_2647,Barack Obama,14,2,1
+train_2648,Barack Obama,917,1,1
+train_2649,Barack Obama,917,1,1
+train_2650,Barack Obama,195,0,1
+train_2651,Barack Obama,5,1,2
+train_2652,Barack Obama,188,1,1
+train_2653,Barack Obama,148,1,1
+train_2654,Barack Obama,4,1,0
+train_2655,Barack Obama,23,2,2
+train_2656,Barack Obama,5,1,2
+train_2657,Barack Obama,60,1,1
+train_2658,Barack Obama,60,1,1
+train_2659,Barack Obama,60,1,1
+train_2660,Barack Obama,291,1,1
+train_2661,Barack Obama,181,0,1
+train_2662,Barack Obama,26,2,2
+train_2663,Barack Obama,6,1,1
+train_2664,Barack Obama,324,0,1
+train_2665,Barack Obama,10,1,1
+train_2666,Barack Obama,2,0,0
+train_2667,Barack Obama,20,0,1
+train_2668,Barack Obama,129,1,1
+train_2669,Barack Obama,5,1,2
+train_2670,Barack Obama,5,1,2
+train_2671,Barack Obama,439,1,0
+train_2672,Barack Obama,439,1,0
+train_2673,Barack Obama,439,1,0
+train_2674,Barack Obama,439,1,0
+train_2675,Barack Obama,439,1,0
+train_2676,Barack Obama,383,2,1
+train_2677,Barack Obama,583,0,1
+train_2678,Barack Obama,583,1,1
+train_2679,Barack Obama,22,1,1
+train_2680,Barack Obama,26,1,1
+train_2681,Barack Obama,100,1,1
+train_2682,Barack Obama,8,1,1
+train_2683,Barack Obama,8,1,1
+train_2684,Barack Obama,8,1,1
+train_2685,Barack Obama,8,1,1
+train_2686,Barack Obama,67,1,1
+train_2687,Barack Obama,395,1,1
+train_2688,Barack Obama,13,1,2
+train_2689,Barack Obama,45,1,1
+train_2690,Barack Obama,45,1,1
+train_2691,Barack Obama,243,0,1
+train_2692,Barack Obama,243,1,1
+train_2693,Barack Obama,11,1,0
+train_2694,Barack Obama,11,1,1
+train_2695,Barack Obama,612,1,1
+train_2696,Barack Obama,612,1,1
+train_2697,Barack Obama,48,1,0
+train_2698,Barack Obama,88,1,1
+train_2699,Barack Obama,4,2,1
+train_2700,Barack Obama,26,0,1
+train_2701,Barack Obama,419,1,1
+train_2702,Barack Obama,419,1,1
+train_2703,Barack Obama,94,0,1
+train_2704,Barack Obama,2,0,2
+train_2705,Barack Obama,116,0,0
+train_2706,Barack Obama,666,1,1
+train_2707,Barack Obama,16,2,2
+train_2708,Barack Obama,16,2,2
+train_2709,Barack Obama,16,2,2
+train_2710,Barack Obama,16,2,2
+train_2711,Barack Obama,16,2,2
+train_2712,Barack Obama,408,0,1
+train_2713,Barack Obama,408,1,1
+train_2714,Barack Obama,408,1,1
+train_2715,Barack Obama,636,0,1
+train_2716,Barack Obama,636,1,1
+train_2717,Barack Obama,410,1,1
+train_2718,Barack Obama,359,1,1
+train_2719,Barack Obama,359,0,1
+train_2720,Barack Obama,359,1,1
+train_2721,Barack Obama,359,1,1
+train_2722,Barack Obama,514,2,1
+train_2723,Barack Obama,514,2,1
+train_2724,Barack Obama,126,2,1
+train_2725,Barack Obama,126,1,1
+train_2726,Barack Obama,261,2,1
+train_2727,Barack Obama,261,1,1
+train_2728,Barack Obama,162,0,1
+train_2729,Barack Obama,139,0,1
+train_2730,Barack Obama,139,1,1
+train_2731,Barack Obama,6,0,0
+train_2732,Barack Obama,202,1,1
+train_2733,Barack Obama,202,2,1
+train_2734,George W. Bush,80,0,0
+train_2735,George W. Bush,80,1,0
+train_2736,George W. Bush,191,0,0
+train_2737,George W. Bush,176,1,1
+train_2738,George W. Bush,176,2,1
+train_2739,George W. Bush,48,0,0
+train_2740,George W. Bush,165,0,0
+train_2741,George W. Bush,165,1,0
+train_2742,George W. Bush,265,1,1
+train_2743,George W. Bush,11,1,1
+train_2744,George W. Bush,465,0,1
+train_2745,George W. Bush,348,1,1
+train_2746,George W. Bush,384,2,1
+train_2747,George W. Bush,10,2,0
+train_2748,George W. Bush,10,2,0
+train_2749,George W. Bush,7,2,2
+train_2750,George W. Bush,526,0,1
+train_2751,George W. Bush,526,1,1
+train_2752,George W. Bush,540,0,1
+train_2753,George W. Bush,540,1,1
+train_2754,George W. Bush,167,0,1
+train_2755,George W. Bush,167,1,1
+train_2756,George W. Bush,171,0,1
+train_2757,George W. Bush,231,0,1
+train_2758,George W. Bush,231,1,1
+train_2759,George W. Bush,88,1,0
+train_2760,George W. Bush,88,1,0
+train_2761,George W. Bush,272,1,1
+train_2762,George W. Bush,353,0,1
+train_2763,George W. Bush,353,1,1
+train_2764,George W. Bush,717,1,1
+train_2765,George W. Bush,717,1,1
+train_2766,George W. Bush,913,1,1
+train_2767,George W. Bush,75,1,1
+train_2768,George W. Bush,463,0,0
+train_2769,George W. Bush,463,0,0
+train_2770,George W. Bush,463,1,0
+train_2771,George W. Bush,463,1,0
+train_2772,George W. Bush,429,0,1
+train_2773,George W. Bush,429,0,1
+train_2774,George W. Bush,429,1,1
+train_2775,George W. Bush,422,0,1
+train_2776,George W. Bush,422,0,1
+train_2777,George W. Bush,228,0,0
+train_2778,George W. Bush,345,1,1
+train_2779,George W. Bush,345,1,1
+train_2780,George W. Bush,82,0,1
+train_2781,George W. Bush,272,1,1
+train_2782,George W. Bush,272,1,1
+train_2783,George W. Bush,182,0,0
+train_2784,George W. Bush,93,1,1
+train_2785,George W. Bush,47,0,1
+train_2786,George W. Bush,229,1,1
+train_2787,George W. Bush,229,1,1
+train_2788,George W. Bush,139,0,0
+train_2789,George W. Bush,283,0,1
+train_2790,George W. Bush,283,2,1
+train_2791,George W. Bush,95,1,1
+train_2792,George W. Bush,161,1,1
+train_2793,George W. Bush,123,0,0
+train_2794,George W. Bush,123,0,0
+train_2795,George W. Bush,1,0,1
+train_2796,George W. Bush,1,0,2
+train_2797,George W. Bush,172,1,1
+train_2798,George W. Bush,172,1,1
+train_2799,George W. Bush,8,2,2
+train_2800,George W. Bush,326,0,1
+train_2801,George W. Bush,326,1,1
+train_2802,George W. Bush,326,1,0
+train_2803,George W. Bush,546,1,1
+train_2804,George W. Bush,546,1,1
+train_2805,George W. Bush,320,2,1
+train_2806,George W. Bush,320,1,1
+train_2807,George W. Bush,152,0,1
+train_2808,George W. Bush,223,0,1
+train_2809,George W. Bush,223,0,1
+train_2810,George W. Bush,223,1,1
+train_2811,George W. Bush,374,1,1
+train_2812,George W. Bush,374,0,0
+train_2813,George W. Bush,374,1,0
+train_2814,George W. Bush,374,1,1
+train_2815,George W. Bush,248,1,1
+train_2816,George W. Bush,248,0,1
+train_2817,George W. Bush,248,1,1
+train_2818,George W. Bush,311,0,1
+train_2819,George W. Bush,311,0,1
+train_2820,George W. Bush,141,1,1
+train_2821,George W. Bush,141,1,0
+train_2822,George W. Bush,178,1,0
+train_2823,George W. Bush,178,1,0
+train_2824,George W. Bush,583,0,0
+train_2825,George W. Bush,583,1,0
+train_2826,George W. Bush,583,1,0
+train_2827,George W. Bush,583,1,0
+train_2828,George W. Bush,681,1,1
+train_2829,George W. Bush,681,1,1
+train_2830,George W. Bush,623,1,0
+train_2831,George W. Bush,623,0,0
+train_2832,George W. Bush,420,1,1
+train_2833,George W. Bush,420,1,1
+train_2834,George W. Bush,420,1,1
+train_2835,George W. Bush,602,1,1
+train_2836,George W. Bush,602,0,1
+train_2837,George W. Bush,520,1,1
+train_2838,George W. Bush,1,0,0
+train_2839,George W. Bush,227,1,1
+train_2840,George W. Bush,233,0,1
+train_2841,George W. Bush,717,0,1
+train_2842,George W. Bush,717,0,1
+train_2843,George W. Bush,635,0,1
+train_2844,George W. Bush,635,0,1
+train_2845,George W. Bush,551,1,1
+train_2846,George W. Bush,551,1,1
+train_2847,George W. Bush,287,0,1
+train_2848,George W. Bush,287,1,1
+train_2849,George W. Bush,527,1,1
+train_2850,George W. Bush,527,1,1
+train_2851,George W. Bush,436,1,1
+train_2852,George W. Bush,436,1,1
+train_2853,George W. Bush,363,1,1
+train_2854,George W. Bush,363,1,1
+train_2855,George W. Bush,363,1,1
+train_2856,George W. Bush,189,1,1
+train_2857,George W. Bush,189,1,1
+train_2858,George W. Bush,13,0,1
+train_2859,George W. Bush,400,1,0
+train_2860,George W. Bush,400,1,0
+train_2861,George W. Bush,253,0,0
+train_2862,George W. Bush,253,0,0
+train_2863,George W. Bush,275,0,0
+train_2864,George W. Bush,275,1,0
+train_2865,George W. Bush,275,1,0
+train_2866,George W. Bush,250,1,0
+train_2867,George W. Bush,283,0,1
+train_2868,George W. Bush,283,1,1
+train_2869,George W. Bush,11,0,0
+train_2870,George W. Bush,11,0,0
+train_2871,George W. Bush,20,2,2
+train_2872,George W. Bush,339,0,1
+train_2873,George W. Bush,339,0,1
+train_2874,George W. Bush,339,1,1
+train_2875,George W. Bush,340,0,1
+train_2876,George W. Bush,340,0,1
+train_2877,George W. Bush,340,1,1
+train_2878,George W. Bush,329,0,1
+train_2879,George W. Bush,329,1,1
+train_2880,George W. Bush,325,0,1
+train_2881,George W. Bush,325,2,1
+train_2882,George W. Bush,325,1,1
+train_2883,George W. Bush,107,1,0
+train_2884,George W. Bush,485,1,1
+train_2885,George W. Bush,4,1,1
+train_2886,George W. Bush,527,1,1
+train_2887,George W. Bush,527,1,1
+train_2888,George W. Bush,527,1,1
+train_2889,George W. Bush,1401,1,1
+train_2890,George W. Bush,1401,1,1
+train_2891,George W. Bush,170,1,1
+train_2892,George W. Bush,298,1,1
+train_2893,George W. Bush,298,1,1
+train_2894,George W. Bush,988,1,1
+train_2895,George W. Bush,988,0,1
+train_2896,George W. Bush,988,1,1
+train_2897,George W. Bush,988,1,1
+train_2898,George W. Bush,988,1,1
+train_2899,George W. Bush,110,1,0
+train_2900,George W. Bush,265,1,0
+train_2901,George W. Bush,265,0,1
+train_2902,George W. Bush,554,0,1
+train_2903,George W. Bush,554,0,1
+train_2904,George W. Bush,267,0,1
+train_2905,George W. Bush,267,1,1
+train_2906,George W. Bush,267,1,1
+train_2907,George W. Bush,1,1,0
+train_2908,George W. Bush,713,0,1
+train_2909,George W. Bush,713,0,1
+train_2910,George W. Bush,939,1,1
+train_2911,George W. Bush,11,0,0
+train_2912,George W. Bush,11,1,0
+train_2913,George W. Bush,527,0,1
+train_2914,George W. Bush,527,1,1
+train_2915,George W. Bush,431,1,0
+train_2916,George W. Bush,431,1,0
+train_2917,George W. Bush,431,1,0
+train_2918,George W. Bush,431,1,0
+train_2919,George W. Bush,1,1,0
+train_2920,George W. Bush,849,1,1
+train_2921,George W. Bush,849,1,1
+train_2922,George W. Bush,430,1,1
+train_2923,George W. Bush,430,1,1
+train_2924,George W. Bush,689,1,1
+train_2925,George W. Bush,689,1,1
+train_2926,George W. Bush,298,1,1
+train_2927,George W. Bush,298,1,1
+train_2928,George W. Bush,207,0,0
+train_2929,George W. Bush,207,1,0
+train_2930,George W. Bush,320,2,1
+train_2931,George W. Bush,496,1,1
+train_2932,George W. Bush,594,0,1
+train_2933,George W. Bush,594,0,1
+train_2934,George W. Bush,594,1,1
+train_2935,George W. Bush,151,0,1
+train_2936,George W. Bush,151,0,1
+train_2937,George W. Bush,151,1,1
+train_2938,George W. Bush,267,1,0
+train_2939,George W. Bush,267,1,1
+train_2940,George W. Bush,267,1,1
+train_2941,George W. Bush,2,1,0
+train_2942,George W. Bush,14,1,1
+train_2943,George W. Bush,66,1,0
+train_2944,George W. Bush,369,1,1
+train_2945,George W. Bush,139,0,1
+train_2946,George W. Bush,139,1,1
+train_2947,George W. Bush,6,0,2
+train_2948,George W. Bush,356,2,1
+train_2949,George W. Bush,356,2,1
+train_2950,George W. Bush,356,1,1
+train_2951,George W. Bush,356,1,1
+train_2952,George W. Bush,212,0,0
+train_2953,George W. Bush,212,1,0
+train_2954,George W. Bush,407,1,1
+train_2955,George W. Bush,42,0,0
+train_2956,George W. Bush,42,1,0
+train_2957,George W. Bush,42,1,0
+train_2958,George W. Bush,72,1,0
+train_2959,George W. Bush,508,1,1
+train_2960,George W. Bush,281,0,1
+train_2961,George W. Bush,62,1,1
+train_2962,George W. Bush,226,1,1
+train_2963,George W. Bush,226,1,1
+train_2964,George W. Bush,430,1,0
+train_2965,George W. Bush,103,0,0
+train_2966,George W. Bush,103,2,0
+train_2967,George W. Bush,103,2,0
+train_2968,George W. Bush,103,1,1
+train_2969,George W. Bush,57,0,0
+train_2970,George W. Bush,57,1,0
+train_2971,George W. Bush,21,1,1
+train_2972,George W. Bush,232,1,1
+train_2973,George W. Bush,232,1,1
+train_2974,George W. Bush,441,0,1
+train_2975,George W. Bush,2,2,2
+train_2976,George W. Bush,5,2,1
+train_2977,George W. Bush,16,1,1
+train_2978,George W. Bush,576,1,1
+train_2979,George W. Bush,576,1,1
+train_2980,George W. Bush,557,0,0
+train_2981,George W. Bush,557,0,0
+train_2982,George W. Bush,557,0,0
+train_2983,George W. Bush,557,1,0
+train_2984,George W. Bush,557,1,0
+train_2985,George W. Bush,557,1,0
+train_2986,George W. Bush,557,0,0
+train_2987,George W. Bush,557,0,0
+train_2988,George W. Bush,557,1,0
+train_2989,George W. Bush,557,0,0
+train_2990,George W. Bush,557,1,0
+train_2991,George W. Bush,557,1,0
+train_2992,George W. Bush,1,1,0
+train_2993,George W. Bush,591,0,1
+train_2994,George W. Bush,493,0,0
+train_2995,George W. Bush,114,1,0
+train_2996,George W. Bush,114,1,0
+train_2997,George W. Bush,114,1,0
+train_2998,George W. Bush,125,2,0
+train_2999,George W. Bush,764,0,1
+train_3000,George W. Bush,764,1,1
+train_3001,George W. Bush,335,0,1
+train_3002,George W. Bush,335,1,1
+train_3003,George W. Bush,335,1,1
+train_3004,George W. Bush,19,0,2
+train_3005,George W. Bush,19,2,2
+train_3006,George W. Bush,19,1,1
+train_3007,George W. Bush,466,0,1
+train_3008,George W. Bush,466,1,1
+train_3009,George W. Bush,1,1,0
+train_3010,George W. Bush,1,1,0
+train_3011,George W. Bush,1,1,0
+train_3012,George W. Bush,1,1,0
+train_3013,George W. Bush,1,1,0
+train_3014,George W. Bush,1,1,0
+train_3015,George W. Bush,1,1,0
+train_3016,George W. Bush,1,1,0
+train_3017,George W. Bush,97,1,0
+train_3018,George W. Bush,97,1,0
+train_3019,George W. Bush,123,1,0
+train_3020,George W. Bush,123,2,1
+train_3021,George W. Bush,233,1,1
+train_3022,George W. Bush,262,1,1
+train_3023,George W. Bush,262,1,1
+train_3024,George W. Bush,513,1,1
+train_3025,George W. Bush,513,1,1
+train_3026,George W. Bush,313,0,1
+train_3027,George W. Bush,313,1,1
+train_3028,George W. Bush,889,0,1
+train_3029,George W. Bush,889,1,1
+train_3030,George W. Bush,889,1,1
+train_3031,George W. Bush,256,1,1
+train_3032,George W. Bush,307,0,1
+train_3033,George W. Bush,1,1,0
+train_3034,George W. Bush,186,0,0
+train_3035,George W. Bush,186,1,0
+train_3036,George W. Bush,56,1,1
+train_3037,George W. Bush,56,1,1
+train_3038,George W. Bush,18,2,2
+train_3039,George W. Bush,18,0,0
+train_3040,George W. Bush,238,1,1
+train_3041,George W. Bush,238,1,1
+train_3042,George W. Bush,218,0,1
+train_3043,George W. Bush,513,0,0
+train_3044,George W. Bush,513,1,0
+train_3045,George W. Bush,65,0,0
+train_3046,George W. Bush,233,0,1
+train_3047,George W. Bush,233,1,1
+train_3048,George W. Bush,213,0,1
+train_3049,George W. Bush,213,1,1
+train_3050,George W. Bush,609,0,0
+train_3051,George W. Bush,609,1,0
+train_3052,George W. Bush,609,1,0
+train_3053,George W. Bush,431,0,1
+train_3054,George W. Bush,258,0,1
+train_3055,George W. Bush,258,0,1
+train_3056,George W. Bush,5,1,2
+train_3057,George W. Bush,28,2,1
+train_3058,George W. Bush,18,2,2
+train_3059,George W. Bush,25,2,2
+train_3060,George W. Bush,148,2,1
+train_3061,George W. Bush,7,1,2
+train_3062,George W. Bush,332,0,0
+train_3063,George W. Bush,7,1,1
+train_3064,George W. Bush,7,1,1
+train_3065,George W. Bush,44,2,1
+train_3066,George W. Bush,173,0,1
+train_3067,George W. Bush,173,0,1
+train_3068,George W. Bush,21,1,1
+train_3069,George W. Bush,127,1,0
+train_3070,George W. Bush,127,2,0
+train_3071,George W. Bush,325,0,0
+train_3072,George W. Bush,1,0,0
+train_3073,George W. Bush,479,1,1
+train_3074,George W. Bush,479,0,1
+train_3075,George W. Bush,317,1,0
+train_3076,George W. Bush,317,1,0
+train_3077,George W. Bush,81,1,1
+train_3078,George W. Bush,471,1,1
+train_3079,George W. Bush,471,0,1
+train_3080,George W. Bush,471,1,1
+train_3081,George W. Bush,166,0,1
+train_3082,George W. Bush,4,1,1
+train_3083,George W. Bush,190,0,1
+train_3084,George W. Bush,2,2,1
+train_3085,George W. Bush,8,1,1
+train_3086,George W. Bush,5,0,0
+train_3087,George W. Bush,208,0,1
+train_3088,George W. Bush,67,1,1
+train_3089,George W. Bush,67,1,1
+train_3090,George W. Bush,338,0,1
+train_3091,George W. Bush,338,1,1
+train_3092,George W. Bush,13,2,2
+train_3093,George W. Bush,13,2,2
+train_3094,George W. Bush,13,2,2
+train_3095,George W. Bush,13,2,2
+train_3096,George W. Bush,436,0,1
+train_3097,George W. Bush,436,1,1
+train_3098,George W. Bush,13,1,1
+train_3099,George W. Bush,105,1,0
+train_3100,George W. Bush,383,0,1
+train_3101,George W. Bush,383,1,1
+train_3102,George W. Bush,8,0,1
+train_3103,George W. Bush,14,1,0
+train_3104,George W. Bush,119,0,1
+train_3105,George W. Bush,425,0,1
+train_3106,George W. Bush,103,1,1
+train_3107,George W. Bush,103,1,1
+train_3108,George W. Bush,53,0,0
+train_3109,George W. Bush,53,0,0
+train_3110,George W. Bush,144,0,1
+train_3111,George W. Bush,144,1,1
+train_3112,George W. Bush,687,1,0
+train_3113,George W. Bush,687,1,0
+train_3114,George W. Bush,687,1,0
+train_3115,George W. Bush,297,1,1
+train_3116,George W. Bush,297,1,1
+train_3117,George W. Bush,728,0,1
+train_3118,George W. Bush,728,2,1
+train_3119,George W. Bush,1592,0,1
+train_3120,George W. Bush,1592,0,1
+train_3121,George W. Bush,1592,1,1
+train_3122,George W. Bush,231,1,1
+train_3123,George W. Bush,204,1,1
+train_3124,George W. Bush,204,1,1
+train_3125,George W. Bush,40,1,1
+train_3126,George W. Bush,1,0,0
+train_3127,George W. Bush,751,1,1
+train_3128,George W. Bush,365,0,0
+train_3129,George W. Bush,365,2,0
+train_3130,George W. Bush,365,1,0
+train_3131,George W. Bush,365,1,1
+train_3132,George W. Bush,68,0,0
+train_3133,George W. Bush,68,1,0
+train_3134,George W. Bush,68,1,1
+train_3135,George W. Bush,83,0,0
+train_3136,George W. Bush,378,0,1
+train_3137,George W. Bush,378,0,1
+train_3138,George W. Bush,378,2,1
+train_3139,George W. Bush,378,2,1
+train_3140,George W. Bush,378,1,1
+train_3141,George W. Bush,13,2,1
+train_3142,George W. Bush,105,2,1
+train_3143,George W. Bush,105,1,1
+train_3144,George W. Bush,37,0,2
+train_3145,George W. Bush,278,1,1
+train_3146,George W. Bush,355,1,1
+train_3147,George W. Bush,2,0,2
+train_3148,George W. Bush,300,0,1
+train_3149,George W. Bush,313,0,1
+train_3150,George W. Bush,313,1,1
+train_3151,George W. Bush,221,0,1
+train_3152,George W. Bush,221,0,1
+train_3153,George W. Bush,559,0,1
+train_3154,George W. Bush,559,1,1
+train_3155,George W. Bush,47,2,1
+train_3156,George W. Bush,137,1,1
+train_3157,George W. Bush,133,0,1
+train_3158,George W. Bush,133,0,1
+train_3159,George W. Bush,391,1,1
+train_3160,George W. Bush,358,0,1
+train_3161,George W. Bush,86,0,1
+train_3162,George W. Bush,86,1,1
+train_3163,George W. Bush,150,0,1
+train_3164,George W. Bush,146,1,1
+train_3165,George W. Bush,146,1,1
+train_3166,George W. Bush,687,1,1
+train_3167,George W. Bush,236,1,0
+train_3168,George W. Bush,697,0,1
+train_3169,George W. Bush,697,1,1
+train_3170,George W. Bush,194,0,1
+train_3171,George W. Bush,687,0,1
+train_3172,George W. Bush,687,1,1
+train_3173,George W. Bush,3,2,2
+train_3174,George W. Bush,364,1,1
+train_3175,George W. Bush,364,1,1
+train_3176,George W. Bush,364,1,1
+train_3177,George W. Bush,398,1,1
+train_3178,George W. Bush,398,1,1
+train_3179,George W. Bush,697,1,1
+train_3180,George W. Bush,539,1,1
+train_3181,George W. Bush,539,1,0
+train_3182,George W. Bush,539,1,0
+train_3183,George W. Bush,257,0,1
+train_3184,George W. Bush,257,1,1
+train_3185,George W. Bush,257,0,1
+train_3186,George W. Bush,406,1,1
+train_3187,George W. Bush,406,1,1
+train_3188,George W. Bush,354,0,0
+train_3189,George W. Bush,354,0,0
+train_3190,George W. Bush,354,1,0
+train_3191,George W. Bush,354,1,0
+train_3192,George W. Bush,2,2,0
+train_3193,George W. Bush,3,0,0
+train_3194,George W. Bush,674,0,1
+train_3195,George W. Bush,300,0,1
+train_3196,George W. Bush,300,1,1
+train_3197,George W. Bush,300,1,1
+train_3198,George W. Bush,300,1,1
+train_3199,George W. Bush,412,0,1
+train_3200,George W. Bush,412,1,1
+train_3201,George W. Bush,379,0,1
+train_3202,George W. Bush,379,1,1
+train_3203,George W. Bush,422,1,1
+train_3204,George W. Bush,94,1,0
+train_3205,George W. Bush,427,0,1
+train_3206,George W. Bush,122,0,0
+train_3207,George W. Bush,122,1,0
+train_3208,George W. Bush,142,1,0
+train_3209,George W. Bush,361,0,1
+train_3210,George W. Bush,361,1,1
+train_3211,George W. Bush,361,1,1
+train_3212,George W. Bush,161,0,0
+train_3213,George W. Bush,93,1,0
+train_3214,George W. Bush,93,0,0
+train_3215,George W. Bush,1398,1,1
+train_3216,George W. Bush,1398,1,1
+train_3217,George W. Bush,476,1,1
+train_3218,George W. Bush,476,1,1
+train_3219,George W. Bush,265,1,1
+train_3220,George W. Bush,265,1,1
+train_3221,George W. Bush,23,2,2
+train_3222,George W. Bush,119,1,1
+train_3223,George W. Bush,528,0,1
+train_3224,George W. Bush,528,0,1
+train_3225,George W. Bush,145,2,1
+train_3226,George W. Bush,145,1,1
+train_3227,George W. Bush,346,1,1
+train_3228,George W. Bush,346,1,1
+train_3229,George W. Bush,867,2,1
+train_3230,George W. Bush,662,1,1
+train_3231,George W. Bush,662,1,1
+train_3232,George W. Bush,230,1,1
+train_3233,George W. Bush,429,0,1
+train_3234,George W. Bush,429,0,1
+train_3235,George W. Bush,429,1,1
+train_3236,George W. Bush,429,1,1
+train_3237,George W. Bush,609,1,0
+train_3238,George W. Bush,148,0,0
+train_3239,George W. Bush,258,0,1
+train_3240,George W. Bush,258,0,1
+train_3241,George W. Bush,619,1,0
+train_3242,George W. Bush,547,0,0
+train_3243,George W. Bush,547,0,0
+train_3244,George W. Bush,215,0,1
+train_3245,George W. Bush,215,1,1
+train_3246,George W. Bush,77,1,1
+train_3247,George W. Bush,311,1,1
+train_3248,George W. Bush,104,2,0
+train_3249,George W. Bush,132,2,1
+train_3250,George W. Bush,412,0,1
+train_3251,George W. Bush,330,0,1
+train_3252,George W. Bush,330,1,1
+train_3253,George W. Bush,26,2,0
+train_3254,George W. Bush,608,0,1
+train_3255,George W. Bush,5,2,1
+train_3256,George W. Bush,105,1,0
+train_3257,George W. Bush,105,1,0
+train_3258,George W. Bush,105,1,0
+train_3259,George W. Bush,897,0,1
+train_3260,George W. Bush,497,0,1
+train_3261,George W. Bush,497,1,1
+train_3262,George W. Bush,411,1,1
+train_3263,George W. Bush,411,1,1
+train_3264,George W. Bush,256,0,1
+train_3265,George W. Bush,256,0,1
+train_3266,George W. Bush,256,1,1
+train_3267,George W. Bush,575,1,1
+train_3268,George W. Bush,575,1,1
+train_3269,George W. Bush,575,1,1
+train_3270,George W. Bush,146,0,1
+train_3271,George W. Bush,146,0,1
+train_3272,George W. Bush,146,1,1
+train_3273,George W. Bush,215,0,1
+train_3274,George W. Bush,434,0,1
+train_3275,George W. Bush,434,0,1
+train_3276,George W. Bush,209,1,1
+train_3277,George W. Bush,503,1,1
+train_3278,George W. Bush,296,1,1
+train_3279,George W. Bush,687,0,1
+train_3280,George W. Bush,687,1,1
+train_3281,George W. Bush,229,1,1
+train_3282,George W. Bush,229,1,1
+train_3283,George W. Bush,229,1,1
+train_3284,George W. Bush,5,2,2
+train_3285,George W. Bush,1412,1,1
+train_3286,George W. Bush,367,0,1
+train_3287,George W. Bush,367,1,1
+train_3288,George W. Bush,367,1,1
+train_3289,George W. Bush,367,1,1
+train_3290,George W. Bush,315,0,1
+train_3291,George W. Bush,315,1,1
+train_3292,George W. Bush,184,0,1
+train_3293,George W. Bush,184,0,1
+train_3294,George W. Bush,575,0,1
+train_3295,George W. Bush,575,1,1
+train_3296,George W. Bush,519,0,1
+train_3297,George W. Bush,519,0,1
+train_3298,George W. Bush,519,1,1
+train_3299,George W. Bush,519,1,1
+train_3300,George W. Bush,458,0,1
+train_3301,George W. Bush,458,1,1
+train_3302,George W. Bush,1094,0,1
+train_3303,George W. Bush,1094,1,1
+train_3304,George W. Bush,1094,1,1
+train_3305,George W. Bush,263,0,0
+train_3306,George W. Bush,263,1,0
+train_3307,George W. Bush,424,1,1
+train_3308,George W. Bush,249,1,0
+train_3309,George W. Bush,69,0,1
+train_3310,George W. Bush,471,0,1
+train_3311,George W. Bush,174,1,1
+train_3312,George W. Bush,449,1,1
+train_3313,George W. Bush,449,1,1
+train_3314,George W. Bush,449,1,1
+train_3315,George W. Bush,191,1,1
+train_3316,George W. Bush,121,0,1
+train_3317,George W. Bush,121,1,1
+train_3318,George W. Bush,121,1,1
+train_3319,George W. Bush,121,1,2
+train_3320,George W. Bush,121,1,2
+train_3321,George W. Bush,121,1,1
+train_3322,George W. Bush,121,1,2
+train_3323,George W. Bush,121,1,2
+train_3324,George W. Bush,121,1,1
+train_3325,George W. Bush,65,0,1
+train_3326,George W. Bush,194,0,0
+train_3327,George W. Bush,194,0,0
+train_3328,George W. Bush,245,1,1
+train_3329,George W. Bush,245,0,1
+train_3330,George W. Bush,245,2,1
+train_3331,George W. Bush,14,2,0
+train_3332,George W. Bush,10,2,1
+train_3333,George W. Bush,206,0,0
+train_3334,George W. Bush,155,0,0
+train_3335,George W. Bush,155,0,0
+train_3336,George W. Bush,155,1,0
+train_3337,George W. Bush,1131,0,1
+train_3338,George W. Bush,1131,1,1
+train_3339,George W. Bush,1131,1,1
+train_3340,George W. Bush,520,1,1
+train_3341,George W. Bush,167,1,0
+train_3342,George W. Bush,34,0,2
+train_3343,George W. Bush,34,1,2
+train_3344,George W. Bush,605,0,1
+train_3345,George W. Bush,605,1,1
+train_3346,George W. Bush,353,0,1
+train_3347,George W. Bush,63,2,1
+train_3348,George W. Bush,323,0,1
+train_3349,George W. Bush,149,0,1
+train_3350,George W. Bush,161,0,1
+train_3351,George W. Bush,846,1,1
+train_3352,George W. Bush,34,0,1
+train_3353,George W. Bush,34,2,2
+train_3354,George W. Bush,520,1,1
+train_3355,George W. Bush,251,2,1
+train_3356,George W. Bush,251,2,1
+train_3357,George W. Bush,823,1,1
+train_3358,George W. Bush,823,0,1
+train_3359,George W. Bush,776,1,1
+train_3360,George W. Bush,776,1,1
+train_3361,George W. Bush,1300,1,0
+train_3362,George W. Bush,1300,1,0
+train_3363,George W. Bush,1300,1,1
+train_3364,George W. Bush,562,1,0
+train_3365,George W. Bush,1151,1,1
+train_3366,George W. Bush,1151,1,1
+train_3367,George W. Bush,1151,1,1
+train_3368,George W. Bush,270,0,1
+train_3369,George W. Bush,270,0,1
+train_3370,George W. Bush,270,1,1
+train_3371,George W. Bush,705,1,1
+train_3372,George W. Bush,705,0,1
+train_3373,George W. Bush,364,1,1
+train_3374,George W. Bush,364,1,1
+train_3375,George W. Bush,364,1,1
+train_3376,George W. Bush,10,2,2
+train_3377,George W. Bush,10,1,2
+train_3378,George W. Bush,10,1,2
+train_3379,George W. Bush,137,0,0
+train_3380,George W. Bush,13,2,0
+train_3381,George W. Bush,669,0,1
+train_3382,George W. Bush,669,1,1
+train_3383,George W. Bush,207,0,0
+train_3384,George W. Bush,154,0,1
+train_3385,George W. Bush,154,1,1
+train_3386,George W. Bush,177,0,1
+train_3387,George W. Bush,217,1,1
+train_3388,George W. Bush,217,1,1
+train_3389,George W. Bush,347,0,1
+train_3390,George W. Bush,347,1,1
+train_3391,George W. Bush,301,0,0
+train_3392,George W. Bush,301,1,0
+train_3393,George W. Bush,81,0,1
+train_3394,George W. Bush,81,1,1
+train_3395,George W. Bush,330,0,1
+train_3396,George W. Bush,330,1,1
+train_3397,George W. Bush,8,1,0
+train_3398,George W. Bush,8,0,0
+train_3399,George W. Bush,147,0,1
+train_3400,George W. Bush,1,1,2
+train_3401,George W. Bush,3,0,0
+train_3402,George W. Bush,10,0,1
+train_3403,George W. Bush,341,0,1
+train_3404,George W. Bush,341,1,1
+train_3405,George W. Bush,341,1,1
+train_3406,George W. Bush,6,1,2
+train_3407,George W. Bush,491,1,1
+train_3408,George W. Bush,491,0,1
+train_3409,George W. Bush,20,2,0
+train_3410,George W. Bush,220,0,1
+train_3411,George W. Bush,220,0,1
+train_3412,George W. Bush,33,1,1
+train_3413,George W. Bush,33,2,1
+train_3414,George W. Bush,33,1,1
+train_3415,George W. Bush,5,1,1
+train_3416,George W. Bush,145,1,1
+train_3417,George W. Bush,73,1,1
+train_3418,George W. Bush,184,0,1
+train_3419,George W. Bush,468,0,1
+train_3420,George W. Bush,582,0,1
+train_3421,George W. Bush,582,0,1
+train_3422,George W. Bush,582,1,1
+train_3423,George W. Bush,261,0,1
+train_3424,George W. Bush,262,1,0
+train_3425,George W. Bush,76,1,0
+train_3426,George W. Bush,17,1,0
+train_3427,George W. Bush,17,1,2
+train_3428,George W. Bush,190,1,1
+train_3429,George W. Bush,190,1,1
+train_3430,George W. Bush,24,1,2
+train_3431,George W. Bush,24,1,2
+train_3432,George W. Bush,9,2,0
+train_3433,George W. Bush,9,1,0
+train_3434,George W. Bush,30,2,0
+train_3435,George W. Bush,344,0,1
+train_3436,George W. Bush,361,1,1
+train_3437,George W. Bush,361,1,1
+train_3438,George W. Bush,414,0,1
+train_3439,George W. Bush,414,1,1
+train_3440,George W. Bush,267,1,1
+train_3441,George W. Bush,267,1,1
+train_3442,George W. Bush,57,1,1
+train_3443,George W. Bush,424,1,1
+train_3444,George W. Bush,99,0,1
+train_3445,George W. Bush,179,0,1
+train_3446,George W. Bush,179,1,1
+train_3447,George W. Bush,193,1,1

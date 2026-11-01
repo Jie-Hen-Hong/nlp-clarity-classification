@@ -1,0 +1,408 @@
+{
+  "majority_baseline": {
+    "accuracy": 0.6688,
+    "macro_p": 0.2229,
+    "macro_r": 0.3333,
+    "macro_f1": 0.2672,
+    "weighted_f1": 0.5361,
+    "per_class": {
+      "Clear Reply": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 79
+      },
+      "Ambivalent": {
+        "precision": 0.6688,
+        "recall": 1.0,
+        "f1": 0.8016,
+        "support": 206
+      },
+      "Clear Non-Reply": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 23
+      }
+    },
+    "confusion": [
+      [
+        0,
+        79,
+        0
+      ],
+      [
+        0,
+        206,
+        0
+      ],
+      [
+        0,
+        23,
+        0
+      ]
+    ]
+  },
+  "tfidf": {
+    "accuracy": 0.5422,
+    "macro_p": 0.4757,
+    "macro_r": 0.4562,
+    "macro_f1": 0.4646,
+    "weighted_f1": 0.5492,
+    "per_class": {
+      "Clear Reply": {
+        "precision": 0.2418,
+        "recall": 0.2785,
+        "f1": 0.2588,
+        "support": 79
+      },
+      "Ambivalent": {
+        "precision": 0.6853,
+        "recall": 0.6553,
+        "f1": 0.67,
+        "support": 206
+      },
+      "Clear Non-Reply": {
+        "precision": 0.5,
+        "recall": 0.4348,
+        "f1": 0.4651,
+        "support": 23
+      }
+    },
+    "confusion": [
+      [
+        22,
+        53,
+        4
+      ],
+      [
+        65,
+        135,
+        6
+      ],
+      [
+        4,
+        9,
+        10
+      ]
+    ],
+    "model": "TF-IDF + LR",
+    "config": {
+      "text": "a_only",
+      "ngram": "(1, 2)",
+      "class_weight": "balanced",
+      "C": 1.0,
+      "dim": 100457,
+      "dev_acc": 0.5624,
+      "dev_macro_f1": 0.5239
+    },
+    "feature_dim": 117996,
+    "fit_seconds": 2.45,
+    "n_train": 3448,
+    "n_test": 308
+  },
+  "search_log": [
+    {
+      "text": "qa",
+      "ngram": "(1, 1)",
+      "class_weight": "None",
+      "C": 1.0,
+      "dim": 10585,
+      "dev_acc": 0.6011,
+      "dev_macro_f1": 0.3821
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 1)",
+      "class_weight": "None",
+      "C": 4.0,
+      "dim": 10585,
+      "dev_acc": 0.5768,
+      "dev_macro_f1": 0.4172
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 1)",
+      "class_weight": "balanced",
+      "C": 1.0,
+      "dim": 10585,
+      "dev_acc": 0.5251,
+      "dev_macro_f1": 0.4821
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 1)",
+      "class_weight": "balanced",
+      "C": 4.0,
+      "dim": 10585,
+      "dev_acc": 0.5179,
+      "dev_macro_f1": 0.4543
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 2)",
+      "class_weight": "None",
+      "C": 1.0,
+      "dim": 103009,
+      "dev_acc": 0.5911,
+      "dev_macro_f1": 0.3285
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 2)",
+      "class_weight": "None",
+      "C": 4.0,
+      "dim": 103009,
+      "dev_acc": 0.5854,
+      "dev_macro_f1": 0.393
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 2)",
+      "class_weight": "balanced",
+      "C": 1.0,
+      "dim": 103009,
+      "dev_acc": 0.5438,
+      "dev_macro_f1": 0.4781
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 2)",
+      "class_weight": "balanced",
+      "C": 4.0,
+      "dim": 103009,
+      "dev_acc": 0.528,
+      "dev_macro_f1": 0.4437
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 1)",
+      "class_weight": "None",
+      "C": 1.0,
+      "dim": 10295,
+      "dev_acc": 0.5825,
+      "dev_macro_f1": 0.4268
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 1)",
+      "class_weight": "None",
+      "C": 4.0,
+      "dim": 10295,
+      "dev_acc": 0.5796,
+      "dev_macro_f1": 0.4665
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 1)",
+      "class_weight": "balanced",
+      "C": 1.0,
+      "dim": 10295,
+      "dev_acc": 0.5423,
+      "dev_macro_f1": 0.5043
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 1)",
+      "class_weight": "balanced",
+      "C": 4.0,
+      "dim": 10295,
+      "dev_acc": 0.5337,
+      "dev_macro_f1": 0.4834
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 2)",
+      "class_weight": "None",
+      "C": 1.0,
+      "dim": 100457,
+      "dev_acc": 0.5768,
+      "dev_macro_f1": 0.3339
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 2)",
+      "class_weight": "None",
+      "C": 4.0,
+      "dim": 100457,
+      "dev_acc": 0.5868,
+      "dev_macro_f1": 0.4306
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 2)",
+      "class_weight": "balanced",
+      "C": 1.0,
+      "dim": 100457,
+      "dev_acc": 0.5624,
+      "dev_macro_f1": 0.5239
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 2)",
+      "class_weight": "balanced",
+      "C": 4.0,
+      "dim": 100457,
+      "dev_acc": 0.571,
+      "dev_macro_f1": 0.5075
+    }
+  ],
+  "top_features": {
+    "Clear Reply": [
+      "no",
+      "yes",
+      "sure",
+      "no not",
+      "yes go",
+      "and",
+      "absolutely",
+      "not at",
+      "no we",
+      "did",
+      "we did",
+      "better",
+      "we",
+      "yes and",
+      "more",
+      "go ahead",
+      "is yes",
+      "think",
+      "do",
+      "have"
+    ],
+    "Ambivalent": [
+      "president",
+      "yes please",
+      "of all",
+      "political",
+      "yes",
+      "right",
+      "that the",
+      "call",
+      "are not",
+      "if you",
+      "first of",
+      "who",
+      "okay go",
+      "please",
+      "this",
+      "great",
+      "called",
+      "said",
+      "believe",
+      "first"
+    ],
+    "Clear Non-Reply": [
+      "don know",
+      "what",
+      "question",
+      "don",
+      "you",
+      "from where",
+      "sorry",
+      "the question",
+      "good question",
+      "about today",
+      "me",
+      "excuse me",
+      "the what",
+      "say it",
+      "go again",
+      "questions",
+      "to comment",
+      "know",
+      "comment on",
+      "talk about"
+    ]
+  },
+  "ablation_test": [
+    {
+      "text": "qa",
+      "ngram": "(1, 1)",
+      "class_weight": "None",
+      "dim": 11608,
+      "accuracy": 0.6721,
+      "macro_f1": 0.3878,
+      "macro_r": 0.3893,
+      "cr_f1": 0.2095,
+      "cnr_f1": 0.1538
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 1)",
+      "class_weight": "balanced",
+      "dim": 11608,
+      "accuracy": 0.5162,
+      "macro_f1": 0.4108,
+      "macro_r": 0.433,
+      "cr_f1": 0.2674,
+      "cnr_f1": 0.3051
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 2)",
+      "class_weight": "None",
+      "dim": 121011,
+      "accuracy": 0.6883,
+      "macro_f1": 0.3626,
+      "macro_r": 0.3818,
+      "cr_f1": 0.1176,
+      "cnr_f1": 0.16
+    },
+    {
+      "text": "qa",
+      "ngram": "(1, 2)",
+      "class_weight": "balanced",
+      "dim": 121011,
+      "accuracy": 0.5422,
+      "macro_f1": 0.4257,
+      "macro_r": 0.4252,
+      "cr_f1": 0.2395,
+      "cnr_f1": 0.3478
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 1)",
+      "class_weight": "None",
+      "dim": 11300,
+      "accuracy": 0.6526,
+      "macro_f1": 0.3924,
+      "macro_r": 0.3899,
+      "cr_f1": 0.1852,
+      "cnr_f1": 0.2069
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 1)",
+      "class_weight": "balanced",
+      "dim": 11300,
+      "accuracy": 0.5,
+      "macro_f1": 0.4295,
+      "macro_r": 0.443,
+      "cr_f1": 0.2717,
+      "cnr_f1": 0.3922
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 2)",
+      "class_weight": "None",
+      "dim": 117996,
+      "accuracy": 0.6916,
+      "macro_f1": 0.3639,
+      "macro_r": 0.3834,
+      "cr_f1": 0.119,
+      "cnr_f1": 0.16
+    },
+    {
+      "text": "a_only",
+      "ngram": "(1, 2)",
+      "class_weight": "balanced",
+      "dim": 117996,
+      "accuracy": 0.5422,
+      "macro_f1": 0.4646,
+      "macro_r": 0.4562,
+      "cr_f1": 0.2588,
+      "cnr_f1": 0.4651
+    }
+  ]
+}

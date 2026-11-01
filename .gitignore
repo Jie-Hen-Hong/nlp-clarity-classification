@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# 预训练权重（体积大，按 README 说明自行下载）
+models/*/
+models/*.bin
+models/*.safetensors
+models/*.pt
+
+# 大型模型检查点
+*.pt
+*.ckpt
+*.safetensors
+
+# 临时文件
+*.tmp
+*.log
+~$*

@@ -1,0 +1,45 @@
+{
+  "train": {
+    "n": 3448,
+    "missing": 0,
+    "avg_q_words": 14.5,
+    "avg_a_words": 293.6,
+    "avg_q_chars": 84.3,
+    "avg_a_chars": 1663.3,
+    "label_dist": {
+      "Ambivalent": 2040,
+      "Clear Reply": 1052,
+      "Clear Non-Reply": 356
+    },
+    "president_dist": {
+      "Donald J. Trump": 1325,
+      "Barack Obama": 1010,
+      "George W. Bush": 714,
+      "Joseph R. Biden": 399
+    },
+    "n_titles": 175
+  },
+  "test": {
+    "n": 308,
+    "missing": 0,
+    "avg_q_words": 15.3,
+    "avg_a_words": 326.3,
+    "avg_q_chars": 88.4,
+    "avg_a_chars": 1856.3,
+    "label_dist": {
+      "Ambivalent": 206,
+      "Clear Reply": 79,
+      "Clear Non-Reply": 23
+    },
+    "president_dist": {
+      "": 308
+    },
+    "n_titles": 1
+  },
+  "mapping_check": {
+    "agree": 3448,
+    "total": 3448,
+    "rate": 1.0
+  },
+  "dataset_sha": "3afc18f0b582b3cfdb927822cff57ddc6e871f9c"
+}

@@ -1,0 +1,42 @@
+{
+  "fig1": {
+    "train_dist": {
+      "Ambivalent": 2040,
+      "Clear Reply": 1052,
+      "Clear Non-Reply": 356
+    },
+    "test_dist": {
+      "Ambivalent": 206,
+      "Clear Reply": 79,
+      "Clear Non-Reply": 23
+    }
+  },
+  "length": {
+    "answer_words_by_clarity": {
+      "mean": {
+        "Ambivalent": 331.9,
+        "Clear Non-Reply": 137.8,
+        "Clear Reply": 272.0
+      },
+      "median": {
+        "Ambivalent": 243.5,
+        "Clear Non-Reply": 39.5,
+        "Clear Reply": 194.0
+      }
+    },
+    "q_words": {
+      "mean": 14.5,
+      "median": 12.0
+    },
+    "a_words": {
+      "mean": 293.6,
+      "median": 207.0,
+      "p95": 888.2999999999993
+    }
+  },
+  "leak": {
+    "shared_answers_train_test": 2,
+    "answers_in_train": 2004,
+    "test_titles": 1
+  }
+}

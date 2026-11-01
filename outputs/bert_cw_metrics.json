@@ -1,0 +1,183 @@
+{
+  "test": {
+    "accuracy": 0.6006,
+    "macro_p": 0.519,
+    "macro_r": 0.5454,
+    "macro_f1": 0.5141,
+    "weighted_f1": 0.6163,
+    "per_class": {
+      "Clear Reply": {
+        "precision": 0.4104,
+        "recall": 0.6962,
+        "f1": 0.5164,
+        "support": 79
+      },
+      "Ambivalent": {
+        "precision": 0.8133,
+        "recall": 0.5922,
+        "f1": 0.6854,
+        "support": 206
+      },
+      "Clear Non-Reply": {
+        "precision": 0.3333,
+        "recall": 0.3478,
+        "f1": 0.3404,
+        "support": 23
+      }
+    },
+    "model": "BERT-base (cw)",
+    "confusion": [
+      [
+        55,
+        21,
+        3
+      ],
+      [
+        71,
+        122,
+        13
+      ],
+      [
+        8,
+        7,
+        8
+      ]
+    ],
+    "test_loss": 0.9505,
+    "best_epoch": 2,
+    "train_seconds": 3030.3,
+    "config": {
+      "max_len": 160,
+      "batch": 24,
+      "lr": 3e-05,
+      "epochs": 3,
+      "use_class_weight": true,
+      "seed": 8,
+      "device": "cpu"
+    }
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.0313,
+      "dev_loss": 0.9578,
+      "accuracy": 0.538,
+      "macro_p": 0.5449,
+      "macro_r": 0.5347,
+      "macro_f1": 0.514,
+      "weighted_f1": 0.5342,
+      "per_class": {
+        "Clear Reply": {
+          "precision": 0.4439,
+          "recall": 0.7658,
+          "f1": 0.562,
+          "support": 222
+        },
+        "Ambivalent": {
+          "precision": 0.698,
+          "recall": 0.4385,
+          "f1": 0.5386,
+          "support": 390
+        },
+        "Clear Non-Reply": {
+          "precision": 0.4928,
+          "recall": 0.4,
+          "f1": 0.4416,
+          "support": 85
+        }
+      },
+      "seconds": 1065.5
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.7747,
+      "dev_loss": 0.9706,
+      "accuracy": 0.571,
+      "macro_p": 0.5531,
+      "macro_r": 0.5494,
+      "macro_f1": 0.5415,
+      "weighted_f1": 0.5745,
+      "per_class": {
+        "Clear Reply": {
+          "precision": 0.4654,
+          "recall": 0.6667,
+          "f1": 0.5481,
+          "support": 222
+        },
+        "Ambivalent": {
+          "precision": 0.7007,
+          "recall": 0.5462,
+          "f1": 0.6138,
+          "support": 390
+        },
+        "Clear Non-Reply": {
+          "precision": 0.4933,
+          "recall": 0.4353,
+          "f1": 0.4625,
+          "support": 85
+        }
+      },
+      "seconds": 1027.1
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.5655,
+      "dev_loss": 1.0123,
+      "accuracy": 0.571,
+      "macro_p": 0.5294,
+      "macro_r": 0.5555,
+      "macro_f1": 0.5386,
+      "weighted_f1": 0.5757,
+      "per_class": {
+        "Clear Reply": {
+          "precision": 0.4981,
+          "recall": 0.5811,
+          "f1": 0.5364,
+          "support": 222
+        },
+        "Ambivalent": {
+          "precision": 0.6766,
+          "recall": 0.5795,
+          "f1": 0.6243,
+          "support": 390
+        },
+        "Clear Non-Reply": {
+          "precision": 0.4135,
+          "recall": 0.5059,
+          "f1": 0.455,
+          "support": 85
+        }
+      },
+      "seconds": 937.0
+    }
+  ],
+  "best_dev": {
+    "accuracy": 0.571,
+    "macro_p": 0.5531,
+    "macro_r": 0.5494,
+    "macro_f1": 0.5415,
+    "weighted_f1": 0.5745,
+    "per_class": {
+      "Clear Reply": {
+        "precision": 0.4654,
+        "recall": 0.6667,
+        "f1": 0.5481,
+        "support": 222
+      },
+      "Ambivalent": {
+        "precision": 0.7007,
+        "recall": 0.5462,
+        "f1": 0.6138,
+        "support": 390
+      },
+      "Clear Non-Reply": {
+        "precision": 0.4933,
+        "recall": 0.4353,
+        "f1": 0.4625,
+        "support": 85
+      }
+    },
+    "epoch": 2,
+    "dev_loss": 0.9705840584366359
+  }
+}

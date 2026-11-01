@@ -1,0 +1,222 @@
+{
+  "oof": {
+    "accuracy": 0.5798,
+    "macro_f1": 0.4778,
+    "per_class_f1": {
+      "Clear Reply": 0.3756,
+      "Ambivalent": 0.6966,
+      "Clear Non-Reply": 0.3612
+    },
+    "n": 3448
+  },
+  "folds": [
+    {
+      "accuracy": 0.58,
+      "macro_f1": 0.4672,
+      "per_class_f1": {
+        "Clear Reply": 0.3763,
+        "Ambivalent": 0.7016,
+        "Clear Non-Reply": 0.3237
+      },
+      "n": 1626,
+      "fold": 1
+    },
+    {
+      "accuracy": 0.6118,
+      "macro_f1": 0.5088,
+      "per_class_f1": {
+        "Clear Reply": 0.375,
+        "Ambivalent": 0.7228,
+        "Clear Non-Reply": 0.4286
+      },
+      "n": 456,
+      "fold": 2
+    },
+    {
+      "accuracy": 0.5592,
+      "macro_f1": 0.4947,
+      "per_class_f1": {
+        "Clear Reply": 0.3846,
+        "Ambivalent": 0.6619,
+        "Clear Non-Reply": 0.4375
+      },
+      "n": 456,
+      "fold": 3
+    },
+    {
+      "accuracy": 0.6176,
+      "macro_f1": 0.5184,
+      "per_class_f1": {
+        "Clear Reply": 0.39,
+        "Ambivalent": 0.7328,
+        "Clear Non-Reply": 0.4324
+      },
+      "n": 455,
+      "fold": 4
+    },
+    {
+      "accuracy": 0.5297,
+      "macro_f1": 0.4276,
+      "per_class_f1": {
+        "Clear Reply": 0.3502,
+        "Ambivalent": 0.6467,
+        "Clear Non-Reply": 0.2857
+      },
+      "n": 455,
+      "fold": 5
+    }
+  ],
+  "fold_mean_f1": 0.4833,
+  "fold_std_f1": 0.0328,
+  "by_president": [
+    {
+      "accuracy": 0.6683,
+      "macro_f1": 0.4405,
+      "per_class_f1": {
+        "Clear Reply": 0.1508,
+        "Ambivalent": 0.7939,
+        "Clear Non-Reply": 0.3768
+      },
+      "n": 1010,
+      "president": "Obama"
+    },
+    {
+      "accuracy": 0.5645,
+      "macro_f1": 0.5038,
+      "per_class_f1": {
+        "Clear Reply": 0.4731,
+        "Ambivalent": 0.6523,
+        "Clear Non-Reply": 0.386
+      },
+      "n": 1325,
+      "president": "Trump"
+    },
+    {
+      "accuracy": 0.5252,
+      "macro_f1": 0.435,
+      "per_class_f1": {
+        "Clear Reply": 0.3155,
+        "Ambivalent": 0.6459,
+        "Clear Non-Reply": 0.3434
+      },
+      "n": 714,
+      "president": "Bush"
+    },
+    {
+      "accuracy": 0.5038,
+      "macro_f1": 0.4249,
+      "per_class_f1": {
+        "Clear Reply": 0.4088,
+        "Ambivalent": 0.6027,
+        "Clear Non-Reply": 0.2632
+      },
+      "n": 399,
+      "president": "Biden"
+    }
+  ],
+  "by_length": [
+    {
+      "accuracy": 0.5206,
+      "macro_f1": 0.5103,
+      "per_class_f1": {
+        "Clear Reply": 0.5319,
+        "Ambivalent": 0.5394,
+        "Clear Non-Reply": 0.4596
+      },
+      "n": 1166,
+      "bucket": "短 (<100 词)",
+      "avg_words": 33.6,
+      "cnr_share": 0.1998
+    },
+    {
+      "accuracy": 0.5586,
+      "macro_f1": 0.3386,
+      "per_class_f1": {
+        "Clear Reply": 0.3309,
+        "Ambivalent": 0.6849,
+        "Clear Non-Reply": 0.0
+      },
+      "n": 972,
+      "bucket": "中 (100-300)",
+      "avg_words": 193.7,
+      "cnr_share": 0.0679
+    },
+    {
+      "accuracy": 0.6481,
+      "macro_f1": 0.3113,
+      "per_class_f1": {
+        "Clear Reply": 0.1532,
+        "Ambivalent": 0.7808,
+        "Clear Non-Reply": 0.0
+      },
+      "n": 1310,
+      "bucket": "长 (>300)",
+      "avg_words": 599.1,
+      "cnr_share": 0.0435
+    }
+  ],
+  "test_length_accuracy": {
+    "短 (<100 词)": 0.4237,
+    "中 (100-300)": 0.5155,
+    "长 (>300)": 0.6053
+  },
+  "error_samples": [
+    {
+      "q": "Do you feel that he's looking at what's been offered to the Iranians by the world community in terms of incentives and s",
+      "a": "It's hard for me to tell you what's on his mind. He lives in a very closed society. It's unlike our societies where we have press conferences and people are entitled to ask questions, and there's all ",
+      "gold": "Ambivalent",
+      "pred": "Clear Reply",
+      "a_words": 988,
+      "type": "隐式回答被读成明确回答（长而空泛）"
+    },
+    {
+      "q": "Are you willing to acknowledge that a change may be needed?",
+      "a": "Steve, we're constantly changing tactics to achieve a strategic goal. Our strategic goal is a country which can defend itself, sustain itself, and govern itself. The strategic goal is to help this you",
+      "gold": "Ambivalent",
+      "pred": "Clear Reply",
+      "a_words": 765,
+      "type": "隐式回答被读成明确回答（长而空泛）"
+    },
+    {
+      "q": "expectations for the families of the Illinois National Guardsmen who have left for Iraq",
+      "a": "They expect that their loved one will be participating in a noble and important cause. If I didn't think it was important, I wouldn't have put out the orders to have people go there. And if I didn't t",
+      "gold": "Clear Reply",
+      "pred": "Ambivalent",
+      "a_words": 1309,
+      "type": "明确回答被读成模糊回答（部分/半回答）"
+    },
+    {
+      "q": "Are you following this movement?",
+      "a": "Obviously, I've heard of it. I've seen it on television. I think it expresses the frustrations that the American people feel, that we had the biggest financial crisis since the Great Depression, huge ",
+      "gold": "Clear Reply",
+      "pred": "Ambivalent",
+      "a_words": 750,
+      "type": "明确回答被读成模糊回答（部分/半回答）"
+    },
+    {
+      "q": "Are you prepared to pass on the fate of the war to the next President?",
+      "a": "David Petraeus, the general on the ground, will be bringing his recommendations back to the Congress on or about September the 15th. And I think it's going to be very important for all of us to wait f",
+      "gold": "Clear Non-Reply",
+      "pred": "Ambivalent",
+      "a_words": 598,
+      "type": "明确拒答被读成模糊回答（主题转移）"
+    },
+    {
+      "q": "What about military options against North Korea once diplomacy and the timetable have been exhausted?",
+      "a": "Well, diplomacy hasn't run its course. That's what I'm trying to explain to you a la the Sanger question. And we'll continue working to make sure that we give diplomacy a full opportunity to succeed.Y",
+      "gold": "Ambivalent",
+      "pred": "Clear Non-Reply",
+      "a_words": 40,
+      "type": "模糊回答被读成拒答（边界模糊）"
+    },
+    {
+      "q": "Assessment of the job performance",
+      "a": "I don't have any plans to reappoint him because I haven't thought about it. I will now think about it, now that you brought it up.The only—I can give you an assessment of how I thought he handled the ",
+      "gold": "Clear Reply",
+      "pred": "Clear Non-Reply",
+      "a_words": 143,
+      "type": "明确回答被读成拒答（表述迂回）"
+    }
+  ],
+  "note": "测试集 president 字段为空，分组分析基于训练集 OOF"
+}

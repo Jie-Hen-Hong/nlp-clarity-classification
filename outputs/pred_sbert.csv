@@ -1,0 +1,309 @@
+﻿uid,gold_label,gold_name,pred_sbert,pred_sbert_name
+test_0,1,Ambivalent,1,Ambivalent
+test_1,1,Ambivalent,0,Clear Reply
+test_2,1,Ambivalent,1,Ambivalent
+test_3,1,Ambivalent,0,Clear Reply
+test_4,1,Ambivalent,1,Ambivalent
+test_5,1,Ambivalent,1,Ambivalent
+test_6,1,Ambivalent,0,Clear Reply
+test_7,1,Ambivalent,2,Clear Non-Reply
+test_8,1,Ambivalent,0,Clear Reply
+test_9,1,Ambivalent,1,Ambivalent
+test_10,1,Ambivalent,1,Ambivalent
+test_11,0,Clear Reply,1,Ambivalent
+test_12,1,Ambivalent,0,Clear Reply
+test_13,0,Clear Reply,1,Ambivalent
+test_14,1,Ambivalent,0,Clear Reply
+test_15,0,Clear Reply,0,Clear Reply
+test_16,1,Ambivalent,2,Clear Non-Reply
+test_17,1,Ambivalent,2,Clear Non-Reply
+test_18,1,Ambivalent,2,Clear Non-Reply
+test_19,1,Ambivalent,0,Clear Reply
+test_20,1,Ambivalent,0,Clear Reply
+test_21,0,Clear Reply,0,Clear Reply
+test_22,1,Ambivalent,0,Clear Reply
+test_23,1,Ambivalent,1,Ambivalent
+test_24,1,Ambivalent,0,Clear Reply
+test_25,1,Ambivalent,0,Clear Reply
+test_26,1,Ambivalent,1,Ambivalent
+test_27,1,Ambivalent,1,Ambivalent
+test_28,1,Ambivalent,0,Clear Reply
+test_29,2,Clear Non-Reply,0,Clear Reply
+test_30,0,Clear Reply,1,Ambivalent
+test_31,1,Ambivalent,1,Ambivalent
+test_32,2,Clear Non-Reply,0,Clear Reply
+test_33,1,Ambivalent,0,Clear Reply
+test_34,1,Ambivalent,1,Ambivalent
+test_35,1,Ambivalent,1,Ambivalent
+test_36,0,Clear Reply,1,Ambivalent
+test_37,1,Ambivalent,2,Clear Non-Reply
+test_38,1,Ambivalent,1,Ambivalent
+test_39,1,Ambivalent,1,Ambivalent
+test_40,1,Ambivalent,1,Ambivalent
+test_41,1,Ambivalent,0,Clear Reply
+test_42,1,Ambivalent,1,Ambivalent
+test_43,1,Ambivalent,1,Ambivalent
+test_44,1,Ambivalent,1,Ambivalent
+test_45,1,Ambivalent,1,Ambivalent
+test_46,0,Clear Reply,0,Clear Reply
+test_47,1,Ambivalent,0,Clear Reply
+test_48,1,Ambivalent,0,Clear Reply
+test_49,2,Clear Non-Reply,2,Clear Non-Reply
+test_50,1,Ambivalent,0,Clear Reply
+test_51,0,Clear Reply,0,Clear Reply
+test_52,1,Ambivalent,0,Clear Reply
+test_53,1,Ambivalent,0,Clear Reply
+test_54,0,Clear Reply,1,Ambivalent
+test_55,1,Ambivalent,0,Clear Reply
+test_56,2,Clear Non-Reply,1,Ambivalent
+test_57,1,Ambivalent,1,Ambivalent
+test_58,0,Clear Reply,0,Clear Reply
+test_59,1,Ambivalent,0,Clear Reply
+test_60,0,Clear Reply,2,Clear Non-Reply
+test_61,0,Clear Reply,0,Clear Reply
+test_62,1,Ambivalent,1,Ambivalent
+test_63,0,Clear Reply,0,Clear Reply
+test_64,1,Ambivalent,1,Ambivalent
+test_65,1,Ambivalent,1,Ambivalent
+test_66,0,Clear Reply,2,Clear Non-Reply
+test_67,0,Clear Reply,1,Ambivalent
+test_68,1,Ambivalent,1,Ambivalent
+test_69,0,Clear Reply,1,Ambivalent
+test_70,0,Clear Reply,0,Clear Reply
+test_71,2,Clear Non-Reply,0,Clear Reply
+test_72,2,Clear Non-Reply,0,Clear Reply
+test_73,0,Clear Reply,0,Clear Reply
+test_74,1,Ambivalent,1,Ambivalent
+test_75,1,Ambivalent,2,Clear Non-Reply
+test_76,0,Clear Reply,1,Ambivalent
+test_77,1,Ambivalent,1,Ambivalent
+test_78,1,Ambivalent,1,Ambivalent
+test_79,1,Ambivalent,1,Ambivalent
+test_80,0,Clear Reply,0,Clear Reply
+test_81,1,Ambivalent,2,Clear Non-Reply
+test_82,1,Ambivalent,0,Clear Reply
+test_83,1,Ambivalent,1,Ambivalent
+test_84,2,Clear Non-Reply,1,Ambivalent
+test_85,1,Ambivalent,0,Clear Reply
+test_86,1,Ambivalent,1,Ambivalent
+test_87,0,Clear Reply,0,Clear Reply
+test_88,2,Clear Non-Reply,2,Clear Non-Reply
+test_89,0,Clear Reply,0,Clear Reply
+test_90,0,Clear Reply,1,Ambivalent
+test_91,1,Ambivalent,1,Ambivalent
+test_92,1,Ambivalent,1,Ambivalent
+test_93,0,Clear Reply,1,Ambivalent
+test_94,2,Clear Non-Reply,2,Clear Non-Reply
+test_95,1,Ambivalent,1,Ambivalent
+test_96,1,Ambivalent,1,Ambivalent
+test_97,0,Clear Reply,1,Ambivalent
+test_98,1,Ambivalent,1,Ambivalent
+test_99,1,Ambivalent,2,Clear Non-Reply
+test_100,1,Ambivalent,1,Ambivalent
+test_101,0,Clear Reply,0,Clear Reply
+test_102,0,Clear Reply,1,Ambivalent
+test_103,1,Ambivalent,1,Ambivalent
+test_104,1,Ambivalent,1,Ambivalent
+test_105,1,Ambivalent,0,Clear Reply
+test_106,1,Ambivalent,1,Ambivalent
+test_107,1,Ambivalent,0,Clear Reply
+test_108,2,Clear Non-Reply,1,Ambivalent
+test_109,1,Ambivalent,1,Ambivalent
+test_110,1,Ambivalent,0,Clear Reply
+test_111,1,Ambivalent,0,Clear Reply
+test_112,1,Ambivalent,2,Clear Non-Reply
+test_113,0,Clear Reply,0,Clear Reply
+test_114,1,Ambivalent,1,Ambivalent
+test_115,1,Ambivalent,1,Ambivalent
+test_116,1,Ambivalent,1,Ambivalent
+test_117,0,Clear Reply,0,Clear Reply
+test_118,1,Ambivalent,1,Ambivalent
+test_119,1,Ambivalent,1,Ambivalent
+test_120,1,Ambivalent,1,Ambivalent
+test_121,0,Clear Reply,1,Ambivalent
+test_122,0,Clear Reply,0,Clear Reply
+test_123,1,Ambivalent,1,Ambivalent
+test_124,0,Clear Reply,1,Ambivalent
+test_125,0,Clear Reply,0,Clear Reply
+test_126,1,Ambivalent,0,Clear Reply
+test_127,1,Ambivalent,1,Ambivalent
+test_128,1,Ambivalent,1,Ambivalent
+test_129,1,Ambivalent,0,Clear Reply
+test_130,1,Ambivalent,1,Ambivalent
+test_131,1,Ambivalent,1,Ambivalent
+test_132,1,Ambivalent,1,Ambivalent
+test_133,0,Clear Reply,0,Clear Reply
+test_134,1,Ambivalent,0,Clear Reply
+test_135,1,Ambivalent,1,Ambivalent
+test_136,1,Ambivalent,0,Clear Reply
+test_137,1,Ambivalent,1,Ambivalent
+test_138,1,Ambivalent,0,Clear Reply
+test_139,0,Clear Reply,1,Ambivalent
+test_140,1,Ambivalent,0,Clear Reply
+test_141,0,Clear Reply,0,Clear Reply
+test_142,1,Ambivalent,0,Clear Reply
+test_143,1,Ambivalent,1,Ambivalent
+test_144,0,Clear Reply,0,Clear Reply
+test_145,0,Clear Reply,1,Ambivalent
+test_146,0,Clear Reply,0,Clear Reply
+test_147,0,Clear Reply,0,Clear Reply
+test_148,1,Ambivalent,1,Ambivalent
+test_149,1,Ambivalent,1,Ambivalent
+test_150,0,Clear Reply,2,Clear Non-Reply
+test_151,1,Ambivalent,1,Ambivalent
+test_152,1,Ambivalent,0,Clear Reply
+test_153,1,Ambivalent,2,Clear Non-Reply
+test_154,0,Clear Reply,1,Ambivalent
+test_155,1,Ambivalent,0,Clear Reply
+test_156,1,Ambivalent,1,Ambivalent
+test_157,1,Ambivalent,2,Clear Non-Reply
+test_158,0,Clear Reply,0,Clear Reply
+test_159,1,Ambivalent,1,Ambivalent
+test_160,1,Ambivalent,0,Clear Reply
+test_161,1,Ambivalent,0,Clear Reply
+test_162,1,Ambivalent,1,Ambivalent
+test_163,0,Clear Reply,0,Clear Reply
+test_164,0,Clear Reply,0,Clear Reply
+test_165,0,Clear Reply,1,Ambivalent
+test_166,1,Ambivalent,1,Ambivalent
+test_167,1,Ambivalent,2,Clear Non-Reply
+test_168,1,Ambivalent,1,Ambivalent
+test_169,1,Ambivalent,1,Ambivalent
+test_170,1,Ambivalent,1,Ambivalent
+test_171,0,Clear Reply,1,Ambivalent
+test_172,1,Ambivalent,1,Ambivalent
+test_173,1,Ambivalent,1,Ambivalent
+test_174,0,Clear Reply,0,Clear Reply
+test_175,1,Ambivalent,1,Ambivalent
+test_176,1,Ambivalent,0,Clear Reply
+test_177,1,Ambivalent,1,Ambivalent
+test_178,1,Ambivalent,1,Ambivalent
+test_179,1,Ambivalent,1,Ambivalent
+test_180,1,Ambivalent,0,Clear Reply
+test_181,1,Ambivalent,1,Ambivalent
+test_182,1,Ambivalent,1,Ambivalent
+test_183,2,Clear Non-Reply,2,Clear Non-Reply
+test_184,0,Clear Reply,0,Clear Reply
+test_185,1,Ambivalent,2,Clear Non-Reply
+test_186,2,Clear Non-Reply,2,Clear Non-Reply
+test_187,1,Ambivalent,0,Clear Reply
+test_188,2,Clear Non-Reply,0,Clear Reply
+test_189,1,Ambivalent,0,Clear Reply
+test_190,1,Ambivalent,1,Ambivalent
+test_191,0,Clear Reply,1,Ambivalent
+test_192,1,Ambivalent,0,Clear Reply
+test_193,0,Clear Reply,2,Clear Non-Reply
+test_194,1,Ambivalent,2,Clear Non-Reply
+test_195,1,Ambivalent,0,Clear Reply
+test_196,1,Ambivalent,0,Clear Reply
+test_197,1,Ambivalent,1,Ambivalent
+test_198,0,Clear Reply,1,Ambivalent
+test_199,1,Ambivalent,1,Ambivalent
+test_200,1,Ambivalent,1,Ambivalent
+test_201,1,Ambivalent,0,Clear Reply
+test_202,1,Ambivalent,1,Ambivalent
+test_203,1,Ambivalent,2,Clear Non-Reply
+test_204,1,Ambivalent,0,Clear Reply
+test_205,1,Ambivalent,1,Ambivalent
+test_206,1,Ambivalent,2,Clear Non-Reply
+test_207,1,Ambivalent,0,Clear Reply
+test_208,1,Ambivalent,2,Clear Non-Reply
+test_209,1,Ambivalent,0,Clear Reply
+test_210,1,Ambivalent,0,Clear Reply
+test_211,1,Ambivalent,1,Ambivalent
+test_212,1,Ambivalent,2,Clear Non-Reply
+test_213,1,Ambivalent,0,Clear Reply
+test_214,1,Ambivalent,2,Clear Non-Reply
+test_215,1,Ambivalent,1,Ambivalent
+test_216,1,Ambivalent,1,Ambivalent
+test_217,1,Ambivalent,0,Clear Reply
+test_218,1,Ambivalent,0,Clear Reply
+test_219,0,Clear Reply,1,Ambivalent
+test_220,1,Ambivalent,1,Ambivalent
+test_221,0,Clear Reply,2,Clear Non-Reply
+test_222,1,Ambivalent,0,Clear Reply
+test_223,0,Clear Reply,1,Ambivalent
+test_224,0,Clear Reply,1,Ambivalent
+test_225,1,Ambivalent,1,Ambivalent
+test_226,1,Ambivalent,1,Ambivalent
+test_227,1,Ambivalent,0,Clear Reply
+test_228,1,Ambivalent,2,Clear Non-Reply
+test_229,0,Clear Reply,1,Ambivalent
+test_230,1,Ambivalent,1,Ambivalent
+test_231,1,Ambivalent,1,Ambivalent
+test_232,1,Ambivalent,1,Ambivalent
+test_233,1,Ambivalent,1,Ambivalent
+test_234,1,Ambivalent,2,Clear Non-Reply
+test_235,1,Ambivalent,1,Ambivalent
+test_236,0,Clear Reply,0,Clear Reply
+test_237,2,Clear Non-Reply,1,Ambivalent
+test_238,1,Ambivalent,1,Ambivalent
+test_239,0,Clear Reply,0,Clear Reply
+test_240,2,Clear Non-Reply,1,Ambivalent
+test_241,1,Ambivalent,2,Clear Non-Reply
+test_242,0,Clear Reply,0,Clear Reply
+test_243,1,Ambivalent,1,Ambivalent
+test_244,1,Ambivalent,1,Ambivalent
+test_245,1,Ambivalent,0,Clear Reply
+test_246,1,Ambivalent,1,Ambivalent
+test_247,0,Clear Reply,0,Clear Reply
+test_248,1,Ambivalent,1,Ambivalent
+test_249,0,Clear Reply,0,Clear Reply
+test_250,0,Clear Reply,2,Clear Non-Reply
+test_251,1,Ambivalent,1,Ambivalent
+test_252,0,Clear Reply,0,Clear Reply
+test_253,1,Ambivalent,1,Ambivalent
+test_254,1,Ambivalent,2,Clear Non-Reply
+test_255,0,Clear Reply,1,Ambivalent
+test_256,1,Ambivalent,1,Ambivalent
+test_257,0,Clear Reply,1,Ambivalent
+test_258,2,Clear Non-Reply,2,Clear Non-Reply
+test_259,0,Clear Reply,0,Clear Reply
+test_260,0,Clear Reply,2,Clear Non-Reply
+test_261,1,Ambivalent,0,Clear Reply
+test_262,1,Ambivalent,1,Ambivalent
+test_263,2,Clear Non-Reply,0,Clear Reply
+test_264,2,Clear Non-Reply,1,Ambivalent
+test_265,2,Clear Non-Reply,2,Clear Non-Reply
+test_266,1,Ambivalent,0,Clear Reply
+test_267,0,Clear Reply,1,Ambivalent
+test_268,0,Clear Reply,0,Clear Reply
+test_269,1,Ambivalent,2,Clear Non-Reply
+test_270,1,Ambivalent,0,Clear Reply
+test_271,1,Ambivalent,1,Ambivalent
+test_272,1,Ambivalent,1,Ambivalent
+test_273,1,Ambivalent,0,Clear Reply
+test_274,1,Ambivalent,1,Ambivalent
+test_275,1,Ambivalent,2,Clear Non-Reply
+test_276,1,Ambivalent,1,Ambivalent
+test_277,2,Clear Non-Reply,0,Clear Reply
+test_278,1,Ambivalent,1,Ambivalent
+test_279,1,Ambivalent,1,Ambivalent
+test_280,1,Ambivalent,1,Ambivalent
+test_281,1,Ambivalent,2,Clear Non-Reply
+test_282,0,Clear Reply,0,Clear Reply
+test_283,1,Ambivalent,1,Ambivalent
+test_284,1,Ambivalent,1,Ambivalent
+test_285,2,Clear Non-Reply,0,Clear Reply
+test_286,1,Ambivalent,1,Ambivalent
+test_287,1,Ambivalent,0,Clear Reply
+test_288,2,Clear Non-Reply,0,Clear Reply
+test_289,1,Ambivalent,0,Clear Reply
+test_290,0,Clear Reply,1,Ambivalent
+test_291,0,Clear Reply,1,Ambivalent
+test_292,0,Clear Reply,0,Clear Reply
+test_293,0,Clear Reply,0,Clear Reply
+test_294,1,Ambivalent,0,Clear Reply
+test_295,1,Ambivalent,0,Clear Reply
+test_296,1,Ambivalent,1,Ambivalent
+test_297,1,Ambivalent,2,Clear Non-Reply
+test_298,0,Clear Reply,0,Clear Reply
+test_299,0,Clear Reply,1,Ambivalent
+test_300,2,Clear Non-Reply,2,Clear Non-Reply
+test_301,1,Ambivalent,1,Ambivalent
+test_302,1,Ambivalent,1,Ambivalent
+test_303,1,Ambivalent,1,Ambivalent
+test_304,1,Ambivalent,0,Clear Reply
+test_305,0,Clear Reply,0,Clear Reply
+test_306,1,Ambivalent,1,Ambivalent
+test_307,0,Clear Reply,1,Ambivalent
